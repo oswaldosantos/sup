@@ -1,0 +1,31 @@
+instagram:
+  id: ''
+  href: 'https://www.instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram'
+  class: 'fas'
+  path: assets/social/instagram.svg
+facebook:
+  id: ''
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook'
+  class: 'fas'
+  path: assets/social/facebook.svg
+youtube:
+  id: ''
+  href: 'https://www.youtube.com/'
+  title: 'Youtube'
+  fa-icon: 'fa-youtube'
+  class: 'fas'
+  path: assets/social/youtube.svg
+twitter:
+  id: ''
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter'
+  class: 'fas'
+  path: assets/social/twitter.svg
+whatsapp:
+  fa-icon: 'fa-whatsapp'
+  class: 'fas'

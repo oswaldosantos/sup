@@ -1,0 +1,21 @@
+{% if site.data.social-media %}
+
+<div>
+  {{site.data.snippets.social-compartilhe[page.lang]}}  
+  <a href="https://www.facebook.com/sharer.php?u={{ site.url }}{{site.baseurl}}/{{ page.url }}&title={{ page.title }}" title="Facebook" target="_blank"><i class="fab fa-facebook"></i></a>
+  <a href="whatsapp://send?text={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&text={{ page.title | default:"" | uri_escape}}" title="Whatsapp" target="_blank"><i class="fab fa-whatsapp"></i></a>
+      <a href="https://twitter.com/intent/tweet?via=USERNAME&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&text={{ page.title | default:"" | uri_escape}}" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
+
+      <br>
+
+ {{site.data.snippets.social-siga[page.lang]}}
+    {% assign sm = site.data.social-media %}
+      {% for entry in sm %}
+        {% assign key = entry | first %}
+      {% if sm[key].id %}
+      <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fab {{sm[key].fa-icon}}"></i></a>
+        {% endif %}
+  {% endfor %}
+
+</div>
+{% endif %}

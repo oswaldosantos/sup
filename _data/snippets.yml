@@ -1,0 +1,140 @@
+# This lists the languages that are actively published
+language-list:
+  - pt
+  - es
+  - en
+
+# top nav bar
+menu-inicio:
+  pt: 
+    title: Início
+    link: /
+  es: 
+    title: Inicio
+    link: /es
+  en: 
+    title: Home
+    link: /en
+menu-sobre:
+  pt: Sobre
+  en: About
+  es: Acerca
+menu-sobre:
+  pt:
+    title: Sobre
+    link: /pt/sobre-pt
+  en:
+    title: About
+    link: /en/sobre-en
+  es:
+    title: Acerca
+    link: /es/sobre-es
+menu-publicacoes:
+  pt: 
+    title: Publicações
+    link: /pt/publicacoes-pt
+  es: 
+    title: Publicaciones
+    link: /es/publicacoes-es
+  en: 
+    title: Publications
+    link: /en/publicacoes-en
+menu-projetos:
+  pt: 
+    title: Projetos
+    link: /pt/projetos-pt
+  es: 
+    title: Proyectos
+    link: /es/projetos-es
+  en: 
+    title: Projects
+    link: /en/projetos-en
+menu-saiba-mais:
+  pt: 
+    title: Saiba mais
+    link: /pt/saiba-mais-pt
+  es: 
+    title: Sepa más
+    link: /es/saiba-mais-es
+  en: 
+    title: Learn more
+    link: /en/saiba-mais-en
+menu-saiba-mais-referencias:
+  pt: 
+    title: Referências
+    link: /pt/saiba-mais-referencias-pt
+  es: 
+    title: Referéncias
+    link: /es/saiba-mais-referencias-es
+  en: 
+    title: References
+    link: /en/saiba-mais-referencias-en
+menu-equipe:
+  pt: 
+    title: Equipe
+    link: /pt/equipe-pt
+  es: 
+    title: Equipo
+    link: /es/equipe-es
+  en: 
+    title: Team
+    link: /en/equipe-en
+menu-apoio:
+  pt: 
+    title: Apoio
+    link: /pt/apoio-pt
+  es: 
+    title: Apoyo
+    link: /es/apoio-es
+  en: 
+    title: Support
+    link: /en/apoio-en
+menu-contato:
+  pt: 
+    title: Contato
+    link: /pt/contato-pt
+  es: 
+    title: Contacto
+    link: /es/contato-es
+  en: 
+    title: Contact
+    link: /en/contato-en
+menu-lang:
+  pt:
+    title: pt
+    link: /pt
+  es:
+    title: es
+    link: /es
+  en:
+    title: en
+    link: /en
+  fr:
+    title: fr
+    link: /fr
+
+background_color:
+  pt: "#444444"
+  es: "#444444"
+  fr: "#444441"
+  en: "#444444"
+
+menu-titulo:
+  pt: Saúde Única em Periferias
+  es: Una Salud de las periferias
+  en: One Health of Peripheries
+
+social-compartilhe:
+  pt: "Compartilhe:" 
+  es: "Comparta:"  
+  en: "Share:"  
+
+social-siga:
+  pt: "Siga-nós:" 
+  es: "Síganos:"  
+  en: "Follow us:"  
+
+footer-descricao:
+  pt: "Vivência, entendimento e transformação decoloniais da saúde de coletivos multiespécie periféricos!"
+  es: "Vivencia, entendimiento y transformación descoloniales de la salud de colectivos multipespecie periféricos!"
+  en: "Decolonial experience, understanding, and transformation of the health of peripheral multispecies collectivities!"

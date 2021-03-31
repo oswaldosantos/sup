@@ -1,0 +1,43 @@
+---
+layout: base
+title: Sobre Saúde Única em Periferias
+redirect_from: /sobre-pt
+---
+
+A Saúde Única em Periferias (SUP) é vivência, entendimento e transformação decoloniais da saúde de coletivos multiespécie marginalizados. Esses coletivos têm uma particularidade, estão conformados por indivíduos de diferentes espécies que se relacionam entre si e com outros elementos do entorno, dando lugar a ambientes complexos nos quais as decisões políticas e as relações sociais não envolvem apenas aos humanos. Outros animais também fazem parte de um tecido social que por um lado lhes traz benefícios, mas por outro lado os explora e utiliza para estruturar e legitimar hierarquias sociais.
+
+Embora a SUP tenha relação com a conotação usual de "Saúde Única" e com a de "periferia" no Brasil, isto é, favela, o fundamento da SUP não esta na aplicação dessa Saúde Única nas favelas.
+
+No Brasil, Saúde Única é a tradução de One Health, um marco conceitual referido à relação indisosciável entre a saúde humana, animal e ambiental. A Saúde Única tem se popularizado pela sua pertinência para abordar problemas de saúde pública que não se restrnigem aos humanos e portanto demandam soluções mais-que-humanas. Tipicamente, a Saúde Única alude a figuras infecciosas: pelo menos 75% das doenças infecciosas emergentes em humanos têm origem animal, 60% das doenças infecciosas humanas existentes são zoonóticas, 80% dos agentes com potencial bioterrorista são patógenos zoonóticos e; o abuso de antibióticos en animais e humanos leva a resistência antimicrobiana, uma das 10 principais ameaças à saúde pública no mundo. As pandemias, não apenas a Covid-19, são um claro exemplo desse tipo de figuras.  A Saúde Única tem ganhando ainda mais proeminência com sua consolidação intersetorial e internacional no acordo tripartite entre a Organização Mundial da Saúde Animal (OIE), a Organização Munidal da Saúde (OMS) e a Organização das Nações Unidas para Alimentação e Agricultura (FAO).
+
+Por outro lado, "periferia" tem uma conotação particular no Brasil, sendo sinônimo de favela e portanto carregando tanto estereótipos como resignificações que dão conta da resistência, solidaridade e potência das comunidades marginalizadas nas cidades. 
+
+Na SUP, "Saúde Única" e "Periferias" são expressões polissêmicas  e indisociáveis, com profundas implicações epistemológicas, éticas e pragmáticas introduzidas em dois manuscritos: [*Saúde Única em Periferias: biopolítica, determinação social e campo de práxis*]({{site.url}}{{site.baseurl}}/publicacoes-{{page.lang}}) e [*Da Saúde Planetaria moderna à promoção decolonial da Saúde Única em Periferias*]({{site.url}}{{site.baseurl}}/publicacoes-{{page.lang}}).
+
+Ao não pressupor a ideologia capitalista, a SUP vê para além de crisis econômicas e políticas, uma crise civilisatória a ser superada. O objetivo da SUP não é buscar melhorias residuais de saúde em alternativas que preservam interesses elitistas, travestidas de único caminho possível, no qual as iniquidades convenientemente fabricadas parecem uma constante da natureza. A SUP também não pressupõe a ciência como emprendimento neutro em busca da verdade. No lugar disso, entende a ciência como instituição social sujeita a diversos interesses e a usa junto a outros saberes em favor do bem viver de coletivos multiespécie periféricos.
+
+<figure>
+<img class="fig" src="{{site.url}}{{site.baseurl}}/assets/sobre/cat-craddle.jpg" width=400 height=auto >
+<figcaption>Multispecies Cat’s Cradle, por Nasser Mufti, 2011</figcaption>
+</figure>
+
+
+Os saberes plurais são indispensáveis para enfrentar a complexidade envolvida numa crise civilisatória. Por um lado são necessarias outras epistemologias assentadas no Sul global para dar conta de alternativas sistêmicas, enquanto que por outro lado devem haver ações locais para concretizar a transformação em direção a tais alternativas. Por isso, determinação social [<sup>1</sup>](#um) - não confundir com determinantes sociais - é um conceito chave na SUP.
+
+Pela determinação social podemos pensar que os sitemas sociais estão organizados em níveis de complexidade, tendo num extremo o sistema-mundo, no outro extremo indivíduos, e no meio famílias, comunidades, divisões territoriais, associações contratuais e outras instituições. Os níveis mais complexos se reproduzem regulando os menos complexos, enquanto estes, ao não estarem completamente regulados, têm autonomia relativa para gerar pequenas mudanças sistêmicas com poder
+acumulativo. O sistema-mundo reproduz estruturas coloniais às quais se opõem alternativas decoloniais com autonomia relativa. A SUP busca castrar a reprodução colonial e fomentar a transformação decolonial.
+
+A SUP tem ainda outro significado, pois designa uma rede de pessoas, projetos e instituições dedicadas à promoção da Saúde Única em Periferias. A rede SUP foi criada pelo Professor Dr. Oswaldo Santos Baquero, que vinha acompanhando, antes de ser professor, movimentos culturais e periféricos do município de São Paulo, anos depois de ter feito o mesmo em Bogotá, Colômbia. Em 2017, já como professor, começou a frequentar reuniões mensais e outras atividades na comunidade Jardim São Remo, vizinha da USP. Em 2019 foi elaborado um projeto para o primeiro edital do Programa Aprender na Comunidade da USP e foi assim que começou a se pensar na SUP, diante da dificuldade de conciliar a Saúde Única convencional e a epidemiologia moderna com as realidades periféricas. Apesar do estágio embrionário da rede SUP nesse primeiro projeto, as ações desenvolvidas foram reconhecidas com o primeiro lugar do Prêmio de Aprendizagem Solidária – Experiências que transformam, ao qual concorreram 223 projetos de todas as áreas do conhecimento no Brasil. 
+
+A SUP enquanto rede vem trabalhando principalmente desde o Departamento de Medicina Veterinária Preventiva e Saúde Animal da Faculdade de Medicina Veterinária da Universidade de São Paulo (VPS-FMVZ-USP), o Grupo de Pesquisa das Periferias do Instituto de Estudos Avançados da USP (nPeriferias-IEA-USP) e o Jardim São Remo. Contudo, as ações da SUP estendem-se a outras periferias e a rede de colaboradores envolve outras instituições acadêmicas e coletivos artísticos.
+
+<br>
+
+[Volte ao início](#top)
+
+---
+
+<a name="um">1</a>: Veja as referências disponíveis na Seção "Saiba Mais". Para uma discussão da determinação social da SUP, ver os manuscritos citados acima.
+
+Imagem panorâmica: foto do nosso grande amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
+

@@ -1,0 +1,70 @@
+{% include translation-links.html %}
+
+<nav class="navbar2 navbar-toggleable-sm navbar-dark bg-dark"
+  style="background-color: {{ site.data.snippets.background_color[page.lang] }}" role="navigation">
+
+    <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse"
+    data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
+    aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+
+      <ul class="nav navbar-nav ml-auto w-100 justify-content-end" role="menubar">
+
+      <li class="nav-item" role="menuitem">
+        <a class="nav-link" href="{{site.baseurl}}{{site.data.snippets.menu-inicio[page.lang].link}}"
+          role="menuitem">{{site.data.snippets.menu-inicio[page.lang].title}}</a>
+      </li>
+
+      <li class="nav-item" role="menuitem">
+        <a class="nav-link" href="{{site.baseurl}}{{site.data.snippets.menu-sobre[page.lang].link}}"
+          role="menuitem">{{site.data.snippets.menu-sobre[page.lang].title}}</a>
+      </li>
+
+    <li class="nav-item" role="menuitem">
+        <a class="nav-link" href="{{site.baseurl}}{{site.data.snippets.menu-publicacoes[page.lang].link}}"
+          role="menuitem">{{site.data.snippets.menu-publicacoes[page.lang].title}}</a>
+      </li>
+
+       <li class="nav-item" role="menuitem">
+        <a class="nav-link" href="{{site.baseurl}}{{site.data.snippets.menu-projetos[page.lang].link}}"
+          role="menuitem">{{site.data.snippets.menu-projetos[page.lang].title}}</a>
+      </li>    
+
+      <li class="nav-item dropdown mobile-drop" role="menu">
+        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
+          aria-expanded="false" role="button">
+          {{site.data.snippets.menu-saiba-mais[page.lang].title}}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="{{site.baseurl}}{{site.data.snippets.menu-saiba-mais-referencias[page.lang].link}}"
+            role="menuitem">{{site.data.snippets.menu-saiba-mais-referencias[page.lang].title}}</a>
+        </div>
+      </li>
+
+      <li class="nav-item" role="menuitem">
+        <a class="nav-link" href="{{site.baseurl}}{{site.data.snippets.menu-equipe[page.lang].link}}"
+          role="menuitem">{{site.data.snippets.menu-equipe[page.lang].title}}</a>
+      </li>
+
+       <li class="nav-item" role="menuitem">
+        <a class="nav-link" href="{{site.baseurl}}{{site.data.snippets.menu-apoio[page.lang].link}}"
+          role="menuitem">{{site.data.snippets.menu-apoio[page.lang].title}}</a>
+      </li> 
+
+       <li class="nav-item" role="menuitem">
+        <a class="nav-link" href="{{site.baseurl}}{{site.data.snippets.menu-contato[page.lang].link}}"
+          role="menuitem">{{site.data.snippets.menu-contato[page.lang].title}}</a>
+      </li> 
+      
+  </div>
+      </li>
+    </ul>
+  </div>
+  <!--</div>-->
+</nav>
+
+<nav class="hide-print print-header navbar-brand">The Programming Historian </nav>

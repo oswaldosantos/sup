@@ -1,0 +1,31 @@
+name: Saúde única em Periferias 
+description: Vivência, entendimento e trensformação decoloniais da saúde de coletivos multiespécie periféricos 
+baseurl: "/sup"
+url: "https://oswaldosantos.github.io"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+highlighter: rouge
+markdown: kramdown
+future: true
+plugins:
+  - jekyll-redirect-from
+  - jekyll-paginate
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "pt"
+  - scope:
+      path: "pt"
+    values:
+      lang: "pt"
+  - scope:
+      path: "es"
+    values:
+      lang: "es"
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+

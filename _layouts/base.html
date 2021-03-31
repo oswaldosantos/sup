@@ -1,0 +1,42 @@
+{% comment %}
+This template assembles principal page components (standard HTML header, menu bar, main content, and footer) WITHOUT the
+standard wrapper div (called "container", which sets the standard page width) as found in the "blank" template.
+
+This template, therefore, is most useful on pages requiring full-window bleeds: the index page and lessons pages.
+{% endcomment %}
+
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+  {% include header.html %}
+
+  <body>
+      <a name="top"></a>
+      <div  id="wrapper">  
+    <main>
+      <div class="hide-screen">
+        {% include menu.html %}
+      </div>
+      <div class="hide-screen">
+        {% include menu2.html %}
+      </div>
+
+      <div >
+      {% for image in site.static_files %}
+{% assign nome = page.name | remove: ".md" | remove: "-pt" | remove: "-es" | remove: "-en" | prepend: "topo-" %}
+      {% if image.path contains nome %}
+      <img class="imagem-topo" src="{{stie.url}}{{site.baseurl}}{{image.path}}">
+      {% endif %}
+      {% endfor %}
+      </div>
+      <br>
+      <br>
+      <div class="container">
+      {{content}}
+      </div>
+<div class="push"></div>
+<div>{% include footer.html %}</div>
+    </main>
+      </div>
+  </body>
+
+</html>
