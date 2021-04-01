@@ -9,7 +9,7 @@ title: Início
 
 <a name="inicio">A</a> Saúde Única em Periferias (SUP) é vivência, entendimento e transformação decoloniais da saúde de coletivos multiespécie marginalizados. Esses coletivos têm uma particularidade, estão conformados por indivíduos de diferentes espécies que se relacionam entre si e com outros elementos do entorno, dando lugar a ambientes complexos nos quais as decisões políticas e as relações sociais não envolvem apenas aos humanos e determinam a saúde. Outros animais também fazem parte de um tecido social que por um lado lhes traz benefícios, mas por outro lado os explora e utiliza para estruturar e legitimar hierarquias sociais. A SUP também é uma rede de pessoas, projetos e instituições dedicadas à promoção da Saúde Única em Periferias.
 
-[Saiba mais sobre a SUP]({{site.url}}/sup/sup/sobre-{{page.lang}})
+[Saiba mais sobre a SUP](/sobre-{{page.lang}})
 
 <br>
 <br>
@@ -23,7 +23,7 @@ title: Início
 O professor Oswaldo Baquero da rede SUP é o palestrante convidado para discutir a Saúde Única em Periferias no <a href="https://linktr.ee/ivsa.ph?fbclid=IwAR2lyEeJqX309E6UZE_d_1Oj59mR_uutGHH0IDD073lVDuF9DyWgdmMPL-g">1st IVSA Regional Symposium of the Americas - Public Health</a>.
 </div>
 <figure>
-<img class="fig" src="{{site.url}}/sup/assets/noticias/ivsa.jpeg" width=200 height=auto >
+<img class="fig" src="/assets/noticias/ivsa.jpeg" width=200 height=auto >
 </figure>
 </div>
 
