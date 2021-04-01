@@ -9,7 +9,7 @@ title: Início
 
 <a name="inicio">A</a> Saúde Única em Periferias (SUP) é vivência, entendimento e transformação decoloniais da saúde de coletivos multiespécie marginalizados. Esses coletivos têm uma particularidade, estão conformados por indivíduos de diferentes espécies que se relacionam entre si e com outros elementos do entorno, dando lugar a ambientes complexos nos quais as decisões políticas e as relações sociais não envolvem apenas aos humanos e determinam a saúde. Outros animais também fazem parte de um tecido social que por um lado lhes traz benefícios, mas por outro lado os explora e utiliza para estruturar e legitimar hierarquias sociais. A SUP também é uma rede de pessoas, projetos e instituições dedicadas à promoção da Saúde Única em Periferias.
 
-[Saiba mais sobre a SUP]({{site.url}}/{{page.lang}}/sobre-{{page.lang}})
+[Saiba mais sobre a SUP]({{site.url}}/sup/{{page.lang}}/sobre-{{page.lang}})
 
 <br>
 <br>
