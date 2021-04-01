@@ -5,10 +5,10 @@
 
   
   <div class="navbar-collapse">
-  <img class="imagem-menu" src={{site.url}}/assets/sup-sigla-branco-fd-trans.svg atl="">
+  <img class="imagem-menu" src={{site.url}}{{site.baseurl}}/assets/sup-sigla-branco-fd-trans.svg atl="">
   &nbsp;&nbsp;
   
-  <a class="navbar-brand" href="{{site.data.snippets.menu-inicio[page.lang].link}}">{{site.data.snippets.menu-titulo[page.lang]}}</a>
+  <a class="navbar-brand" href="{{site.baseurl}}{{site.data.snippets.menu-inicio[page.lang].link}}">{{site.data.snippets.menu-titulo[page.lang]}}</a>
   
   <ul class="nav navbar-nav ml-auto w-100 justify-content-end" role="menubar">
 
@@ -34,10 +34,10 @@
 
           {% if alternate_target %}
           <a class="btn btn-secondary nav-link" role="button"
-                                                href="{{site.url}}{{ alternate_target.url }}">{{ site.data.snippets.menu-lang[lang].title }}</a>
+                                                href="{{site.url}}{{site.baseurl}}{{ alternate_target.url }}">{{ site.data.snippets.menu-lang[lang].title }}</a>
           {% else %}
           <a class="btn btn-secondary nav-link" role="button"
-            href="{{site.url}}{{ site.data.snippets.menu-lang[lang].link }}">{{ site.data.snippets.menu-lang[lang].title }}</a>
+            href="{{site.url}}{{site.baseurl}}{{ site.data.snippets.menu-lang[lang].link }}">{{ site.data.snippets.menu-lang[lang].title }}</a>
           {% endif %}
           {% endif %}
           {% endfor %}
