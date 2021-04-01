@@ -35,5 +35,5 @@ Secretaria (VPS-FMVZ-USP): +55 11 3091-7930
 
 ---
 
-Imagem panorâmica: foto dos nossos grandes amigos de [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Imagem panorâmica: foto dos nossos amigos de [Juegos translúcidos](https://www.juegostranslucidos.com/)
 
