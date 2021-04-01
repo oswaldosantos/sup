@@ -35,7 +35,7 @@ O professor Oswaldo Baquero da rede SUP é o palestrante convidado para discutir
 O Instituto de Estudos Avançados da Universidade de São Paulo publica matéria sobre censo Pontes e Vivências de Saberes, que coletou dados demográficos de humanos e animais, além de informações socioculturais e econômicas. O professor Oswaldo Baquero da rede SUP é o coordenador do censo animal e um dos entrevistados. Confira a <a href="http://www.iea.usp.br/noticias/dados-preliminares-de-censo-mostram-crescimento-populacional-das-comunidades-vizinhas-a-usp">matéria</a>.
 </div>
 <figure>
-<img class="fig" src="assets/noticias/censo01.jpg" width=200 height=auto >
+<img class="fig" src="{{root}}/assets/noticias/censo01.jpg" width=200 height=auto >
 </figure>
 </div>
 
