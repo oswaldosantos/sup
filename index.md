@@ -7,7 +7,7 @@ title: Início
 
 <br>
 
-<a name="inicio">A</a> Saúde Única em Periferias (SUP) é vivência, entendimento e transformação decoloniais da saúde de coletivos multiespécie marginalizados. Esses coletivos têm uma particularidade, estão conformados por indivíduos de diferentes espécies que se relacionam entre si e com outros elementos do entorno, dando lugar a ambientes complexos nos quais as decisões políticas e as relações sociais não envolvem apenas aos humanos e determinam a saúde. Outros animais também fazem parte de um tecido social que por um lado lhes traz benefícios, mas por outro lado os explora e utiliza para estruturar e legitimar hierarquias sociais. A SUP também é uma rede de pessoas, projetos e instituições dedicadas à promoção da Saúde Única em Periferias.
+<a name="inicio">A</a> Saúde Única em Periferias (SUP) é vivência, entendimento e transformação decoloniais da saúde de coletivos multiespécie marginalizados. Esses coletivos têm uma particularidade, estão conformados por indivíduos de diferentes espécies que se relacionam entre si e com outros elementos do entorno, dando lugar a ambientes complexos nos quais as decisões políticas e as relações sociais não envolvem apenas aos humanos e determinam a saúde. Outros animais também fazem parte de um tecido social que por um lado beneficia, mas por outro os explora e utiliza para estruturar e legitimar hierarquias sociais. A SUP também é uma rede de pessoas, projetos e instituições dedicadas à promoção da Saúde Única em Periferias.
 
 [Saiba mais sobre a SUP]({{site.url}}/sup/{{page.lang}}/sobre-{{page.lang}})
 
@@ -32,7 +32,7 @@ O professor Oswaldo Baquero da rede SUP é o palestrante convidado para discutir
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
-O Instituto de Estudos Avançados da Universidade de São Paulo publica matéria sobre censo Pontes e Vivências de Saberes, que coletou dados demograficos de humanos e animais, além de informações socioculturais e econômicas. O professor Oswaldo Baquero da rede SUP é o coordenador do censo animal e um dos entrevistados. Confira a <a href="http://www.iea.usp.br/noticias/dados-preliminares-de-censo-mostram-crescimento-populacional-das-comunidades-vizinhas-a-usp">materia</a>.
+O Instituto de Estudos Avançados da Universidade de São Paulo publica matéria sobre censo Pontes e Vivências de Saberes, que coletou dados demográficos de humanos e animais, além de informações socioculturais e econômicas. O professor Oswaldo Baquero da rede SUP é o coordenador do censo animal e um dos entrevistados. Confira a <a href="http://www.iea.usp.br/noticias/dados-preliminares-de-censo-mostram-crescimento-populacional-das-comunidades-vizinhas-a-usp">matéria</a>.
 </div>
 <figure>
 <img class="fig" src="assets/noticias/censo01.jpg" width=200 height=auto >
@@ -57,7 +57,7 @@ A Médica Veterinária Mayara Bertanhe apresenta a pesquisa da rede SUP intitula
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
-O projeto SUP, concorrendo com 223 projetos de todas as áreas no Brasil, e apesar de estar na fase embrionária do desenvolvimento da rede SUP, recebe o primeiro lugar do <a href="https://www.cenpec.org.br/premio-aprendizagem-solidaria">1&#176; Prêmio Aprendizagem Solidária - Experiencias que transformam</a>. A rede SUP agradece à comunidade São Remo por todos os parendizados, e à Pró-Reitoria de Graduação (Programa Aprender na Comunidade) e à Faculdade de Medicina Veterinária e Zootecnia da Universidade de São Paulo pelo apoio.
+O projeto SUP, concorrendo com 223 projetos de todas as áreas no Brasil, e apesar de estar na fase embrionária do desenvolvimento da rede SUP, recebe o primeiro lugar do <a href="https://www.cenpec.org.br/premio-aprendizagem-solidaria">1&#176; Prêmio Aprendizagem Solidária - Experiencias que transformam</a>. A rede SUP agradece à comunidade São Remo por todos os ap:aprendizados, e à Pró-Reitoria de Graduação (Programa Aprender na Comunidade) e à Faculdade de Medicina Veterinária e Zootecnia da Universidade de São Paulo pelo apoio.
 </div>
 <figure>
 <img class="fig" src="assets/noticias/premio-solid.jpg" width=200 height=auto >
@@ -157,4 +157,4 @@ Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Perif
 
 ---
 
-Imagem panorâmica: foto dos nossos grandes amigos de [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Imagem panorâmica: foto dos nossos amigos de [Juegos translúcidos](https://www.juegostranslucidos.com/)
