@@ -25,7 +25,7 @@ Secretaria (VPS-FMVZ-USP): +55 11 3091-7930
 
 **Localização:** Estamos localizados no *Sul global*, esse campo metafórico de desafios epistêmicos que buscam reparar os danos historicamente causados pelo capitalismo na sua relação colonial com o mundo. O Sul global coincide só parcialmente com o Sul geográfico, pois são múltimplos os espaços do Sul global e do Norte global em ambos emisférios geográficos<sup>[1](#sul-global)</sup>.
 <figure>
-<img src="{{root}}/assets/garcia-torres.jpg" width=400 height=auto >
+<img src="{{root}}/assets/garcia-torres.jpg" width=350 height=auto >
 <figcaption>Mapa Invertido da América do Sul. Joaquim Torres Garcia. Reprodução</figcaption>
 </figure>
 
