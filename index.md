@@ -23,7 +23,7 @@ title: Início
 O professor Oswaldo Baquero da rede SUP é o palestrante convidado para discutir a Saúde Única em Periferias no <a href="https://linktr.ee/ivsa.ph?fbclid=IwAR2lyEeJqX309E6UZE_d_1Oj59mR_uutGHH0IDD073lVDuF9DyWgdmMPL-g">1st IVSA Regional Symposium of the Americas - Public Health</a>.
 </div>
 <figure>
-<img class="fig" src="{{site.url}}{{site.baseurl}}/assets/noticias/ivsa.jpeg" width=200 height=auto >
+<img class="fig" src="{{site.url}}/sup/assets/noticias/ivsa.jpeg" width=200 height=auto >
 </figure>
 </div>
 
