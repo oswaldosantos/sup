@@ -24,7 +24,7 @@ This template, therefore, is most useful on pages requiring full-window bleeds: 
       {% for image in site.static_files %}
 {% assign nome = page.name | remove: ".md" | remove: "-pt" | remove: "-es" | remove: "-en" | prepend: "topo-" %}
       {% if image.path contains nome %}
-      <img class="imagem-topo" src="{{stie.url}}{{site.baseurl}}{{image.path}}">
+      <img class="imagem-topo" src="{{stie.url}}{{image.path}}">
       {% endif %}
       {% endfor %}
       </div>
