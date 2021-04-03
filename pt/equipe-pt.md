@@ -8,7 +8,7 @@ redirect_from: /equipe-pt
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}}/assets/pessoas/beatriz.jpg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/beatriz.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Beatriz Gagete Veríssimo de Mello</b><br>
 <br>
@@ -18,7 +18,7 @@ redirect_from: /equipe-pt
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}}/assets/pessoas/evelise.jpg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/evelise.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Evelise Oliveira Telles</b><br>
 Professor Titular do Departamento de Medicina Veterinária Preventiva e Saúde Animal. Trabalha na área de Segurança dos Alimentos e Inspeção Sanitária dos Produtos de Origem Animal.<br>
@@ -29,7 +29,7 @@ Professor Titular do Departamento de Medicina Veterinária Preventiva e Saúde A
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}}/assets/pessoas/gisella.jpg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/gisella.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Gisella Dias</b><br>
 <br>
@@ -39,7 +39,7 @@ Professor Titular do Departamento de Medicina Veterinária Preventiva e Saúde A
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}}/assets/pessoas/ligia.jpeg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/ligia.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Ligia Neves Scuarcialupi</b><br>
 Sou formada em Medicina Veterinária pela Universidade de São Paulo, e atualmente faço mestrado pelo Laboratório de Epidemiologia e Bioestatística. Gosto de estudar zoonoses, principalmente a esporotricose. Também adoro viajar, ler meus livros e passar o tempo com pessoas queridas e com as minhas gatinhas!
@@ -50,7 +50,7 @@ Sou formada em Medicina Veterinária pela Universidade de São Paulo, e atualmen
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}}/assets/pessoas/mayara.jpeg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/mayara.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Mayara Bertanhe</b><br>
 É médica veterinária da FMVZ-USP e trabalha com genômica e virologia. É membro da rede SUP desde 2019.<br>
@@ -60,7 +60,7 @@ Sou formada em Medicina Veterinária pela Universidade de São Paulo, e atualmen
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}}/assets/pessoas/oswaldo.jpg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/oswaldo.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Oswaldo Santos Baquero (coordenador da rede SUP)</b>  <br>
 pluralidade sem periferias<br>
@@ -75,7 +75,7 @@ Professor Doutor do Departamento de Medicina Veterinária Preventiva e Saúde An
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}}/assets/pessoas/yasmin.jpeg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/yasmin.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Yasmin da Silva Alexandre</b><br>
 Estudante de Medicina Veterinária pela FMVZ-USP. Nasceu e cresceu na São Remo, comunidade vizinha a Cidade Universitária, onde vivenciou a realidade periférica e a "distância" em muitos sentidos em relação à USP. É membro da rede SUP desde 2019,  onde encontrou um espaço para repensar a Saúde Única e a Medicina Veterinária pelas particularidades vividas na periferia.<br>
