@@ -38,23 +38,14 @@ Helper classes
     height: auto;
   }
 
-  .imagem-pessoa3 {
-    width: 10px;
-    height: auto;
-    align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50%;
-  }
-
   .imagem-pessoa {
-    width: 25%;
+    width: 200px;
     height: auto;
     display: block;
     float: left;
     border-radius: 50%;
-  }
+    padding: 0 10px 0 0;
+ }
 
   .noclear {
     clear:none;
