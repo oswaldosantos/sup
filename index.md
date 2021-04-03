@@ -7,7 +7,7 @@ title: Início
 
 <br>
 
-<a name="inicio">A</a> Saúde Única em Periferias (SUP) é vivência, entendimento e transformação decoloniais da saúde de coletivos multiespécie marginalizados. Esses coletivos têm uma particularidade, estão conformados por indivíduos de diferentes espécies que se relacionam entre si e com outros elementos do entorno, dando lugar a ambientes complexos nos quais as decisões políticas e as relações sociais não envolvem apenas aos humanos e determinam a saúde. Outros animais também fazem parte de um tecido social que por um lado beneficia, mas por outro os explora e utiliza para estruturar e legitimar hierarquias sociais. A SUP também é uma rede de pessoas, projetos e instituições dedicadas à promoção da Saúde Única em Periferias.
+<a name="inicio">A</a> Saúde Única em Periferias (SUP) compreende vivências, entendimentos e transformações decoloniais da saúde de coletivos multiespécie marginalizados. Esses coletivos têm uma particularidade: estão conformados por indivíduos de diferentes espécies que se relacionam entre si e com outros elementos do entorno, dando lugar a ambientes complexos nos quais as decisões políticas e as relações sociais não envolvem apenas aos humanos e determinam a saúde. Outros animais também fazem parte de um tecido social que se por um lado os beneficia, por outro os explora e utiliza para estruturar e legitimar hierarquias sociais. A SUP também é uma rede de pessoas, projetos e instituições dedicadas à promoção da Saúde Única em Periferias.
 
 [Saiba mais sobre a SUP]({{site.url}}/sup/{{page.lang}}/sobre-{{page.lang}})
 
@@ -45,7 +45,7 @@ O Instituto de Estudos Avançados da Universidade de São Paulo publica matéria
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
-A Médica Veterinária Mayara Bertanhe apresenta a pesquisa da rede SUP intitulada <i>Teoria do comportamento planejado e higienização das mãos por crianças e adolescentes na favela Jardim São Remo, São Paulo, Brasil</i>, no <a href="https://ppgs.com.br/index.php">4&#176; Congresso Brasileiro de Política, Planejamento e Gestão de Saúde: O SUS e o projeto civilizatório: cenário, alternativas e propostas</a>.
+A Médica Veterinária Mayara Bertanhe da rede SUP apresenta a pesquisa da rede SUP intitulada <i>Teoria do comportamento planejado e higienização das mãos por crianças e adolescentes na favela Jardim São Remo, São Paulo, Brasil</i>, no <a href="https://ppgs.com.br/index.php">4&#176; Congresso Brasileiro de Política, Planejamento e Gestão de Saúde: O SUS e o projeto civilizatório: cenário, alternativas e propostas</a>.
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/ppgs.jpg" width=200 height=auto >
@@ -152,6 +152,7 @@ Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Perif
 
 [Volte ao início](#top)
 
+<br>
 <br>
 <br>
 

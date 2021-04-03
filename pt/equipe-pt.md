@@ -110,8 +110,12 @@ Em construção...
 
 [Volte ao início](#top)
 
+<br>
+<br>
+<br>
+
 ---
 
-Imagem panorâmica: foto do nosso grande amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
+Imagem panorâmica: foto do nosso amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
 
 
