@@ -12,12 +12,12 @@ No Brasil, Saúde Única é a tradução de One Health, um marco conceitual refe
 
 Por outro lado, a palavra "periferia" tem uma conotação particular no Brasil, sendo sinônimo de favela e, portanto, carregada tanto de estereótipos como de ressignificações que envolvem resistência, solidariedade e potência das comunidades marginalizadas nas cidades. 
 
-Na SUP, "Saúde Única" e "Periferias" são expressões polissêmicas  e indissociáveis, com profundas implicações epistemológicas, éticas e pragmáticas introduzidas em dois manuscritos: [*Saúde Única em Periferias: biopolítica, determinação social e campo de práxis*]({{site.url}}{{site.baseurl}}/publicacoes-{{page.lang}}) e [*Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Periferias*]({{site.url}}{{site.baseurl}}/publicacoes-{{page.lang}}).
+Na SUP, "Saúde Única" e "Periferias" são expressões polissêmicas  e indissociáveis, com profundas implicações epistemológicas, éticas e pragmáticas introduzidas em dois manuscritos: [*Saúde Única em Periferias: biopolítica, determinação social e campo de práxis*](./publicacoes-{{page.lang}}) e [*Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Periferias*]({./publicacoes-{{page.lang}}).
 
 Ao não pressupor a ideologia capitalista, a SUP enxerga, para além de crises econômicas e políticas, uma crise civilizatória a ser superada. O objetivo da SUP não é buscar melhorias residuais de saúde em alternativas que preservam interesses elitistas, travestidas de único caminho possível, no qual as iniquidades convenientemente fabricadas parecem uma constante da natureza. A SUP também não pressupõe a ciência como empreendimento neutro em busca da verdade. No lugar disso, entende a ciência como instituição social sujeita a diversos interesses e a usa junto a outros saberes em favor do bem viver de coletivos multiespécie periféricos.
 
 <figure>
-<img class="fig" src="{{site.url}}{{site.baseurl}}/assets/sobre/cat-craddle.jpg" width=400 height=auto >
+<img class="fig" src="{{root}}/assets/sobre/cat-craddle.jpg" width=400 height=auto >
 <figcaption>Multispecies Cat’s Cradle, por Nasser Mufti, 2011</figcaption>
 </figure>
 
