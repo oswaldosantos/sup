@@ -8,7 +8,7 @@ This template, therefore, is most useful on pages requiring full-window bleeds: 
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
   {% include header.html %}
-  {% include root.html %}
+
   <body>
       <a name="top"></a>
       <div  id="wrapper">  
@@ -24,7 +24,7 @@ This template, therefore, is most useful on pages requiring full-window bleeds: 
       {% for image in site.static_files %}
 {% assign nome = page.name | remove: ".md" | remove: "-pt" | remove: "-es" | remove: "-en" | prepend: "topo-" %}
       {% if image.path contains nome %}
-      <img class="imagem-topo" src="{{stie.url}}{{image.path}}">
+      <img class="imagem-topo" src="{{root}}{{image.path}}">
       {% endif %}
       {% endfor %}
       </div>
