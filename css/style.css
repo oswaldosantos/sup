@@ -302,13 +302,14 @@ Figures
 ========================================================================== */
 
   figure {
-    display: block;
+    display: table;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
 }
 
   figcaption {
+    display: table-caption;
     text-align: center;
     font-size: .7rem;
 }
