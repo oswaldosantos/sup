@@ -51,7 +51,7 @@ Milhares de artigos são publicados anualmente sobre a Saúde Única e muitos mi
 
 ### <a name="epidemio">Epidemiologia crítica e saúde coletiva</a>
 
-A epidemiologia crítica e a saúde coletiva são movimentos de saúde latino-americanos com propostas para superar a colonialidade da saúde pública do Norte global. Ironicamente têm reproduzido o antropocentrismo colonial, mas publicações recentes parecem acenar uma mudança de postura que pode fazer com que a SUP deixe der um ponto cego desses movimentos. Fora da América Latina, a *saúde pública crítica* e a *nova saúde pública* são as abordagens que compartilham mais afinidades com a epidemiologia crítica e a saúde coletiva.
+A epidemiologia crítica e a saúde coletiva são movimentos de saúde latino-americanos com propostas para superar a colonialidade da saúde pública do Norte global. Ironicamente têm reproduzido o antropocentrismo colonial, mas publicações recentes parecem acenar uma mudança de postura que pode fazer com que a SUP deixe de ser um ponto cego desses movimentos. Fora da América Latina, a *saúde pública crítica* e a *nova saúde pública* são as abordagens que compartilham mais afinidades com a epidemiologia crítica e a saúde coletiva.
 
 * Breilh, J. (2021). Critical Epidemiology and the People's Health. Oxford University Press.
 * Breilh, J. (2019). Critical epidemiology in Latin America: roots, philosophical and methodological ruptures. In Vallverdú, J.J., Puyol, A., & Estany, A. Philosophical and methodological debates in Public Health (pp. 21-45). Springer.
@@ -127,7 +127,7 @@ A conotação de "promoção" na SUP (ver ) é uma releitura multiespécie e dec
 
 ### <a name="biopolitica">Biopolítica mais-que-humana</a>
 
-A biopolítica aborda novas formas de poder ou aspectos do poder outrora desconhecidos, no âmbito de fenômenos tão diversos como os campos de concentração, os processos migratórios, o capitalismo cognitivo, a domesticação, o paradigma imunitário da política moderna, a relação dos humanos com outros animais e com a tecnologia, a soberania, o estado de excepção, e a relação poder/saber. A biopolítica mais-que-humana vem preenchendo lacunas deixadas pela biopolítica restrita a fenômenos humanos. A SUP fica na lacuna biopolítica da saúde de coletivos multiespécie marginalizados. A lista a seguir omite a maioria das orbas de base da literatura atual, entretanto, essas obras aparecem recorrentemente nas que estamos referenciando.
+A biopolítica aborda novas formas de poder ou aspectos do poder outrora desconhecidos, no âmbito de fenômenos tão diversos como os campos de concentração, os processos migratórios, o capitalismo cognitivo, a domesticação, o paradigma imunitário da política moderna, a relação dos humanos com outros animais e com a tecnologia, a soberania, o estado de exceção, e a relação poder/saber. A biopolítica mais-que-humana vem preenchendo lacunas deixadas pela biopolítica restrita a fenômenos humanos. A SUP fica na lacuna biopolítica da saúde de coletivos multiespécie marginalizados. A lista a seguir omite a maioria das obras de base da literatura atual, entretanto, essas obras aparecem recorrentemente nas que estamos referenciando.
 
 * Pugliese, J. (2020). Biopolitics of the More-than-human: Forensic Ecologies of Violence. Duke University Press.
 * Wolfe, C. (2012). Before the law: Humans and other animals in a biopolitical frame. University of Chicago Press.
@@ -156,7 +156,7 @@ A biopolítica aborda novas formas de poder ou aspectos do poder outrora desconh
 
 ### <a name="estudos">Estudos críticos animais</a>
 
-Os estudos críticos animais estão crescendo vertiginosamente e abordam uma ampla variedade de tópicos, como pode ser visto nas coleções indicadas a seguir. São fundamentais para trabalhar dispostiviso de marginalização envolvendo animais não humanos, dai sua relevância na SUP.
+Os estudos críticos animais estão crescendo vertiginosamente e abordam uma ampla variedade de tópicos, como pode ser visto nas coleções indicadas a seguir. São fundamentais para trabalhar dispositivos de marginalização envolvendo animais não humanos, daí sua relevância na SUP.
 
 * [Revista Latinoamericana de Estudios Críticos Animales](http://revistaleca.org/journal/index.php/RLECA/)
 * [The Palgrave Macmillan Animal Ethics Series](https://www.palgrave.com/gp/series/14421/)
@@ -183,12 +183,13 @@ Os estudos críticos animais estão crescendo vertiginosamente e abordam uma amp
 
 ### <a name="inters">Interseccionalidade mais-que-humana</a>
 
-A interseccionalidade mais-que-humana é outra chave interpretativa fundamental para dar sentido à determinação social da saúde na SUP. Os dispositivos de marginalização distribuem os indivíduos em categorias de espécie, raça, etnia, gênero e classe social entre outras, e os sinergismos e antagonismos (interseccionalidade) entre dispostivos de margnialização determinam perfis epidemiológicos de coletivos multiespécie.Não incluimos os principais textos de
+A interseccionalidade mais-que-humana é outra chave interpretativa fundamental para dar sentido à determinação social da saúde na SUP. Os dispositivos de marginalização distribuem os indivíduos em categorias de espécie, raça, etnia, gênero e classe social entre outras, e os sinergismos e antagonismos (interseccionalidade) entre dispositivos de marginalização determinam perfis epidemiológicos de coletivos multiespécie.Não incluímos os principais textos de
 interseccionalidade humana, mas estes aparecem nas referências dos textos a seguir ou são
 
 * Chen, M. Y. (2012). Animacies: Biopolitics, racial mattering, and queer affect. Duke University Press.
 * Kaijser, A., & Kronsell, A. (2014). Climate change through the lens of intersectionality. Environmental politics, 23(3), 417-433.
 * Kings, A. E. (2017). Intersectionality and the changing face of ecofeminism. Ethics and the Environment, 22(1), 63-87.
+* Weheliye, A. G. (2014). Habeas viscus: Racializing assemblages, biopolitics, and black feminist theories of the human. Duke University Press.
 * Hovorka, A. J. (2012). Women/chickens vs. men/cattle: Insights on gender–species intersectionality. Geoforum, 43(4), 875-884.
 * Hovorka, A. J. (2015). The Gender, Place and Culture Jan Monk Distinguished Annual Lecture: Feminism and animals: exploring interspecies relations through intersectionality, performativity and standpoint. Gender, Place & Culture, 22(1), 1-19.
 * Elder, G., Wolch, J., & Emel, J. (1998). Race, place, and the bounds of humanity. Society & Animals, 6(2), 183-202.
@@ -218,7 +219,7 @@ interseccionalidade humana, mas estes aparecem nas referências dos textos a seg
 
 ### <a name="colonialidade">Colonialidade/Modernidade</a>
 
-O recorte aqui é principalmente do movimento intelectual latino-americano, devendo-se notar que neste, colonialidade é diferente de colonialismo. Mignolo por exemplo diz que a "colonialidade nomeia a lógica subjacente da fundação e do desdobramento da civilização ocidental desde o Renascimento até hoje, da qual colonialismos históricos têm sido uma dimensão constituinte, embora minimizada". A modernidade tem um componente mítico pouco conhecido no imaginário popular, sintetizado com extrema clareza pelo Dussel (1993). Essa colonialidade é um dos principais dispostivos de marginalização de coletivos multiespécie. Incluimos também um par de refrências que sem ser do referido movimento, destacam-se pela abordagem mais-que-humana.
+O recorte aqui é principalmente do movimento intelectual latino-americano, devendo-se notar que neste, colonialidade é diferente de colonialismo. Mignolo por exemplo diz que a "colonialidade nomeia a lógica subjacente da fundação e do desdobramento da civilização ocidental desde o Renascimento até hoje, da qual colonialismos históricos têm sido uma dimensão constituinte, embora minimizada". A modernidade tem um componente mítico pouco conhecido no imaginário popular, sintetizado com extrema clareza pelo Dussel (1993). Essa colonialidade é um dos principais dispostivos de marginalização de coletivos multiespécie. Incluímos também algumas refrências que, apesar de não fazerem parte do referido movimento, destacam-se pela abordagem mais-que-humana.
 
 Palavras chave: giro decolonial, Grupo Modernidade/Colonialidade, colonialismo, colonialidade, neocolonial, decolonialidade, transmodernidade, culturas híbridas, epistemologias do Sul, Sul global, ecologia de saberes, interculturalidade, pós-colonial.
 
@@ -305,7 +306,7 @@ Embora insuficiente, já existe mobilização para abordar as doenças negligenc
 
 #### Violências doméstica
 
-A relação entre diferentes tipos de vítimas da violência doméstica tem sido amplamente estudada, privilegiando abordagens focadas em fatores individuais e psicopatológicos, e nas violências reprovadas socialmente. Mas qual o efeito das condições estruturais (sociais, culturais, econômicas) que transcendem o indivíduo? Como a violência doméstica  retoralimenta essas condições? E as violências socialmente invisíveis? Essas são algumas das perguntas que nos fazemos no
+A relação entre diferentes tipos de vítimas da violência doméstica tem sido amplamente estudada, privilegiando abordagens focadas em fatores individuais e psicopatológicos, e nas violências reprovadas socialmente. Mas qual o efeito das condições estruturais (sociais, culturais, econômicas) que transcendem o indivíduo? Como a violência doméstica  retroalimenta essas condições? E as violências socialmente invisíveis? Essas são algumas das perguntas que nos fazemos no
 contexto da promoção decolonial da SUP.
 
 * Flynn, C. P. (2011). Examining the links between animal abuse and human violence. Crime, law and social change, 55(5), 453-468.
@@ -318,7 +319,7 @@ contexto da promoção decolonial da SUP.
 
 #### Favelas
 
-Nas favelas há múltiplas periferias e entras mais invisibilizadas estão as animais não humanas. Assim, não surpreende que a literatura, ja escasa, omita ainda mais a existência de coletivos multiespécie.
+Nas favelas há múltiplas periferias e entras mais invisibilizadas estão as animais não humanas. Assim, não surpreende que a literatura, ja escassa, omita ainda mais a existência de coletivos multiespécie.
 
 * Butala, N. M., VanRooyen, M. J., & Patel, R. B. (2010). Improved health outcomes in urban slums through infrastructure upgrading. Social science & medicine, 71(5), 935-940.
 * Sclar, E. D., Garau, P., & Carolini, G. (2005). The 21st century health challenge of slums and cities. The Lancet, 365(9462), 901-903.
@@ -331,7 +332,8 @@ Nas favelas há múltiplas periferias e entras mais invisibilizadas estão as an
 
 #### Moradores de rua
 
-Existe uma mobilização considerável de grupos de proteção de cães e gatos de rua e, por outro lado, de ações filantrópicas para moradores de rua. Iniciativas voltadas aos coletivos multiespécie em situação de rua são menos comuns, mas a diferença dos que se encontram nas favelas, têm recebido mais atenção na literatura.
+Existe uma mobilização considerável de grupos de proteção de cães e gatos de rua e, por outro lado, de ações filantrópicas para moradores de rua. 
+A mobilização é menor quando se trata de coletivos multiespécie em situação de rua, contudo, tem mais suporte na literatura quando comparada com a mobilização pelos coletivos multiespécie das favelas.
 
 * Irvine, Leslie. "Animals as lifechangers and lifesavers: Pets in the redemption narratives of homeless people." Journal of Contemporary Ethnography 42.1 (2013): 3-30.
 * Rew, L. (2000). Friends and pets as companions: Strategies for coping with loneliness among homeless youth. Journal of child and adolescent psychiatric nursing, 13(3), 125-132.
@@ -348,8 +350,8 @@ Existe uma mobilização considerável de grupos de proteção de cães e gatos 
 
 #### Experimentação em animais
 
-As revisões sistemáticas oferecem a evidência cientifica mais robusta sobres os achados das pesquisas de um dado fenômeno. Essa evidência, somada a considerações éticas e interesses do complexo animal-industrial, oferecem uma visão mais abrangente das determinções da saúde dos coletivos multiespécie desta periferia. As referências desta lista mostram que a experimentção animal não leva inveriavelmente a benefícios para a saúde humana e pode inclusive comprometer os avanços
-médicos que pretende suportar. É necessario mais rigor científico e embasamento ético para evitar sofrimento desnecessário.
+As revisões sistemáticas oferecem a evidência científica mais robusta sobres os achados das pesquisas de um dado fenômeno. Essa evidência, somada a considerações éticas e interesses do complexo animal-industrial, oferecem uma visão mais abrangente das determinações da saúde dos coletivos multiespécie desta periferia. As referências desta lista mostram que a experimentação animal não leva invariavelmente a benefícios para a saúde humana e pode inclusive comprometer os avanços
+médicos que pretende suportar. É necessário mais rigor científico e embasamento ético para evitar sofrimento desnecessário.
 
 * Sandercock, P., & Roberts, I. (2002). Systematic reviews of animal experiments. The Lancet, 360(9333), 586.
 * Pound, P., Ebrahim, S., Sandercock, P., Bracken, M. B., & Roberts, I. (2004). Where is the evidence that animal research benefits humans?. Bmj, 328(7438), 514-517.
@@ -364,7 +366,7 @@ médicos que pretende suportar. É necessario mais rigor científico e embasamen
 
 #### Externalidades do agronegócio
 
-Para termos soberania e segurança alimentar é necessario desconstruir a ideologia do agronegócio. Precisamos comida saudável e sustentável, não periferias doentes decorrentes do lucro de transnacionais.
+Para termos soberania e segurança alimentar é necessário desconstruir a ideologia do agronegócio. Precisamos comida saudável e sustentável, não periferias doentes decorrentes do lucro de transnacionais.
 
 * Neo, H., & Emel, J. (2017). Geographies of meat: Politics, economy and culture. Taylor & Francis.
 * Wallace, R. (2016). Big farms make big flu: dispatches on influenza, agribusiness, and the nature of science. NYU Press.
