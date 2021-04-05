@@ -24,7 +24,7 @@ Na urgência por resolver os inúmeros e graves problemas de saúde, perguntar q
 <br>
 
 <figure>
-<img src="{{root}}/assets/publicacoes/sup01/su-sup-{{page.lang}}.gif" width=400 height=auto >
+<img src="{{root}}/assets/publicacoes/sup01/su-sup-{{page.lang}}.gif" width=350 height=auto >
 </figure>
 
 [Leia a publicação original (preprint)](https://preprints.scielo.org/index.php/scielo/preprint/view/2019)
@@ -48,7 +48,7 @@ Saúde Planetária é um conceito que emergiu recentemente no Norte global para 
 <br>
 
 <figure>
-<img class="fig" src="{{root}}/assets/publicacoes/sup02/garcia-torres.jpg" width=400 height=auto >
+<img class="fig" src="{{root}}/assets/publicacoes/sup02/garcia-torres.jpg" width=350 height=auto >
 <figcaption>Mapa Invertido da América do Sul. Joaquim Torres Garcia.</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ A tradução ao português será disponibilizada assim que for publicada a vers�
 A esporotricose é uma doença causada por um fungo, ou seja, é uma micose.  Além de infectar gatos e, em menor escala aos cães, pode ser transmitida aos humanos, sendo portanto uma zoonose. Quando a doença é negligenciada, lesões que poderiam ser oportunamente tratadas avançam como ilustrado numa das imagens abaixo. As epidemias de esporotricose vêm acometendo o Rio de Janeiro e outras cidades das regiões Sul e Sudeste, especialmente o município de Guarulhos (SP), onde o Centro de Controle de Zoonoses tem relatado o aumento exponencial de casos desde o primeiro caso detectado na favela dos Pallets em 2011, na época em que sofreu reintegração de posse e um incêndio que matou um bebê e um adolescente. Nesta pesquisa identificaram-se as áreas (setores censitários) de Guarulhos que de devem ser priorizadas de acordo com predições de modelos estatísticos espaciais, e encontrou-se evidência compatível com um processo que explica por que as epidemias de esporotricose afetam predominantemente as áreas mais vulneráveis. A pesquisa foi realizada o Laboratório de Epidemiologia e Bioestatística do Departamento de Medicina Veterinária Preventiva e Saúde Animal da Faculdade de Medicina Veterinária e Zootecnia (LEB-VPS-FMVZ-USP) por Ligia Scuarcialupi, Fernando Pereira (CCZ de Guarulhos), e Oswaldo Santos Baquero.
 
 <figure>
-<img class="fig" src="{{root}}/assets/publicacoes/esporo01/lesoes.jpg" width=400 height=auto >
+<img class="fig" src="{{root}}/assets/publicacoes/esporo01/lesoes.jpg" width=350 height=auto >
 <figcaption>Fotos: Fernando Pereira, CCZ de Guarulhos.</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ A esporotricose é uma doença causada por um fungo, ou seja, é uma micose.  Al
 <br>
 
 <figure>
-<img class="fig" src="{{root}}/assets/publicacoes/esporo01/favela-pallets.jpg" width=400 height=auto >
+<img class="fig" src="{{root}}/assets/publicacoes/esporo01/favela-pallets.jpg" width=350 height=auto >
 <figcaption>Foto: Folha de São Paulo, Rivaldo Gomes.</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ A esporotricose é uma doença causada por um fungo, ou seja, é uma micose.  Al
 <br>
 
 <figure>
-<img class="fig" src="{{root}}/assets/publicacoes/esporo01/rc-{{page.lang}}.gif" width=400 height=auto >
+<img class="fig" src="{{root}}/assets/publicacoes/esporo01/rc-{{page.lang}}.gif" width=350 height=auto >
 <figcaption>Processo causal compatível com a maior frequência da esporotricose nas periferias urbanas. Ver na pesquisa a explicação detalhada.Ver na pesquisa a explicação detalhada.
 </figcaption>
 </figure>
@@ -96,7 +96,7 @@ A esporotricose é uma doença causada por um fungo, ou seja, é uma micose.  Al
 <br>
 
 <figure>
-<img class="fig" src="{{root}}/assets/publicacoes/esporo01/mapa-{{page.lang}}.gif" width=400 height=auto >
+<img class="fig" src="{{root}}/assets/publicacoes/esporo01/mapa-{{page.lang}}.gif" width=350 height=auto >
 <figcaption>Casos de esporotricose felina notificados entre 2011 e 2017 no município de Guarulhos.</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ A esporotricose é uma doença causada por um fungo, ou seja, é uma micose.  Al
 <br>
 
 <figure>
-<img class="fig" src="{{root}}/assets/publicacoes/esporo01/ipvs-{{page.lang}}.svg" width=400 height=auto >
+<img class="fig" src="{{root}}/assets/publicacoes/esporo01/ipvs-{{page.lang}}.svg" width=350 height=auto >
 <figcaption>Os setores censitários (divisões territoriais) estão agrupados por grau de vulnerabilidade (IPVS de 1 a 6). Quanto maior o IPVS, maior a vulnerabilidade. A densidade e o total de casos notificados de esporotricose felina são sistematicamente maiores nos setores mais vulneráveis. Guarulhos, 2011 &#8211; 2017. IPVS: Índice Paulista de Vulnerabilidade Social do Estado de São Paulo.</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ A esporotricose é uma doença causada por um fungo, ou seja, é uma micose.  Al
 Há múltiplos estudos relacionando a violência entre humanos e a violência de humanos contra animais, sendo essa relação conhecida como "o elo". A maioria de tais estudos atribui a violência a características individuais do perpetrador (usa os indivíduos como unidade de análise), ignorando ou deixando em segundo plano o contexto sociocultural em que a violência ocorre. É muito o que temos aprendido com essa abordagem, mas também é bastante o que não nos permite entender. Por essa razão, esta pesquisa indagou numa escala geográfica o efeito do grau de vulnerabilidade social na relação entre a quantidade de notificações de violência interpessoal e de abuso animal no município de São Paulo. Além de identificar os distritos administrativos mais afetados, a pesquisa encontrou que quanto maior a vulnerabilidade, maior a quantidade e força da associação entre os dois tipos de notificações, sempre levando em conta o tamanho populacional dos distritos. Portanto, pode se pensar em sinais de alerta referenciados entre si: maior vulnerabilidade social indica maior probabilidade de ocorrência de ambos tipos de violência, enquanto maior ocorrência de um tipo de violência indica maior probabilidade de ocorrência do outro tipo e se tratar de um contexto social mais vulnerável. A recomendação de usar a violência contra animais como sinal de alerta da violência interpessoal e vice-versa no nível individual já é conhecida, sendo a novidade desta pesquisa a extensão da recomendação para níveis geográficos, acrescentando também a vulnerabilidade social. É importante salientar que os achados desta pesquisa não permitem dizer com que frequência os perpetradores da violência contra animais são os mesmos da violência interpessoal, como também não permitem dizer se esses perpetradores tinham atributos individuais de vulnerabilidade social. O Distrito como um todo pode ser vulnerável, enquanto algumas das suas subdivisões geográficas não. Além do mais, a vulnerabilidade do contexto geográfico só constitui uma fração da vulnerabilidade dos seus residentes. A pesquisa foi desenvolvida pelos pesquisadores do Laboratório de Epidemiologia e Bioestatística do Departamento de Medicina Veterinária Preventiva e Saúde Animal da Faculdade de Medicina Veterinária e Zootecnia (LEB-VPS-FMVZ-USP) Oswaldo Santos Baquero, Fernando Ferreira, José Soares Ferreira Neto e Jason Ardila, e pelo Capitão da Polícia Militar do Estado de São Paulo, Marcelo Robis Francisco Nassaro. 
 
 <figure>
-<img class="fig" src="{{root}}/assets/publicacoes/viol01/viol-{{page.lang}}.svg" width=400 height=auto >
+<img class="fig" src="{{root}}/assets/publicacoes/viol01/viol-{{page.lang}}.svg" width=350 height=auto >
 <figcaption>Notificações de violência interpessoal e de violéncia contra animais nos distritos administrativos do município de São Paulo, 2011-2012. Os paineis diferem no grau de vulnerabilidade (IPVS de 1 a 4). Quanto maior o IPVS, maior a vulnerabilidade e a quantidade de notificações de ambos tipos. A linha azul e a faixa cinza mostram a tendência da relação positiva entre os tipos de notificação. IPVS: Índice Paulista de Vulnerabilidade Social. </figcaption>
 </figure>
 
@@ -148,7 +148,7 @@ continuarão sendo fragmentadas, superficiais e incapazes de resolver os problem
 <br>
 
 <figure>
-<img class="fig" src="{{root}}/assets/publicacoes/lepto01/lepto.gif" width=400 height=auto >
+<img class="fig" src="{{root}}/assets/publicacoes/lepto01/lepto.gif" width=350 height=auto >
 <figcaption>Dinâmica espaçotemporal do excesso de risco de casos de leptospirose humana nos Estados brasileiros entre 200 e 2016. Esse excesso de risco [Pr(RR > 1)] representa a probabilidade de ter mais casos que a média de casos em todos dos Estados, considerando os tamanhos populacionais dos mesmos.</figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ continuarão sendo fragmentadas, superficiais e incapazes de resolver os problem
 <br>
 
 <figure>
-<img class="fig" src="{{root}}/assets/publicacoes/lepto01/lepto-pi.jpg" width=400 height=auto >
+<img class="fig" src="{{root}}/assets/publicacoes/lepto01/lepto-pi.jpg" width=350 height=auto >
 <figcaption>Índice de priorização (PI) dos Estados, conforme a quantidade relativa de casos. Um estão com um PI de 100 tem o dobro de prioridade que um Estado com um PI de 50.</figcaption>
 </figure>
 
