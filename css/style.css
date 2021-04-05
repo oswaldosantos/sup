@@ -310,6 +310,7 @@ Figures
 
   figcaption {
     display: table-caption;
+    caption-side: bottom;
     text-align: center;
     font-size: .7rem;
 }
