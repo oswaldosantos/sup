@@ -11,6 +11,7 @@ redirect_from: /equipe-pt
 <img src="{{root}}/assets/pessoas/beatriz.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Beatriz Gagete Veríssimo de Mello</b><br>
+Formada em Medicina Veterinária pela FMVZ da UNESP Botucatu e mestranda em Epidemiologia Experimental aplicada às Zoonoses pela FMVZ USP. Também permacultora e terapeuta de Ayurveda, busco uma visão holística da vida e a harmonia com a natureza.
 <br>
 <a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
 </div>
@@ -21,7 +22,7 @@ redirect_from: /equipe-pt
 <img src="{{root}}/assets/pessoas/evelise.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Evelise Oliveira Telles</b><br>
-Professor Titular do Departamento de Medicina Veterinária Preventiva e Saúde Animal. Trabalha na área de Segurança dos Alimentos e Inspeção Sanitária dos Produtos de Origem Animal.<br>
+Professora Titular do Departamento de Medicina Veterinária Preventiva e Saúde Animal. Trabalha na área de Segurança dos Alimentos e Inspeção Sanitária dos Produtos de Origem Animal.<br>
 <a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
 <a href="https://scholar.google.com.br/citations?user=zYzySFIAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
 </div>
@@ -32,6 +33,7 @@ Professor Titular do Departamento de Medicina Veterinária Preventiva e Saúde A
 <img src="{{root}}/assets/pessoas/gisella.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Gisella Dias</b><br>
+Sou médica veterinária, mestranda em Epidemiologia experimental no Laboratório de Epidemiologia e Bioestatística na USP. Sou apaixonada por animais, gosto de ler, ver séries e viajar. Sou membro da coordenação da rede SUP desde 2020, onde aprendo novas visões sobre a saúde de coletivos multiespécie em diferentes contextos e realidades. 
 <br>
 <a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
 </div>
