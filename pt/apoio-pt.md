@@ -10,27 +10,17 @@ redirect_from: /apoio-pt
 
 <br>
 
-
-### [Aprender na Comunidade - USP](https://www.prg.usp.br/aprender-na-comunidade/)
-
-<img src="{{root}}/assets/apoio/aprender-na-comunidade.png" width="20%" height="auto">
-
-<br>
-
-
 ### [Faculdade de Medicina Veterinária e Zootecnia (FMVZ-USP)](http://portal.fmvz.usp.br/)
 
 <img src="{{root}}/assets/apoio/fmvz.jpg" width="30%" height="auto">
 
 <br>
 
-
 ### [Departamento de Medicina Veterinária Preventiva e Saúde Animal (VPS-FMVZ-USP)](http://vps2.fmvz.usp.br/)
 
 <img src="{{root}}/assets/apoio/vps2.gif" width="30%" height="auto">
 
 <br>
-
 
 ### [Laboratório de Epidemiologia e Bioestatística (LEB-VPS-FMVZ-USP)](https://leb.fmvz.usp.br/pt-br)
 
@@ -41,6 +31,12 @@ redirect_from: /apoio-pt
 ### [Grupo de Pesquisa das Periferias (nPeriferias-IEA-USP)](http://www.iea.usp.br/pesquisa/grupos-pesquisa/nperiferias)
 
 <img src="{{root}}/assets/apoio/nperiferias.png" width="20%" height="auto">
+
+<br>
+
+### [Aprender na Comunidade - USP](https://www.prg.usp.br/aprender-na-comunidade/)
+
+<img src="{{root}}/assets/apoio/aprender-na-comunidade.png" width="20%" height="auto">
 
 <br>
 
