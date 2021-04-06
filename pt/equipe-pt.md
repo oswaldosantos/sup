@@ -103,6 +103,7 @@ Em construção...
 <div>
 <b>Myriam Acero Aguilar</b><br>
 Médica Veterinária com PhD em Saúde Pública, professora da Faculdade de Medicina Veterinária e Zootecnia da Universidad Nacional de Colombia. É lider do grupo de pesquisa em Estudios Humano Animal.<br>
+<a href="http://medicinaveterinariaydezootecnia.bogota.unal.edu.co/">FMVZ-UNAL</a><br>
 </div>
 </div>
 <br>
