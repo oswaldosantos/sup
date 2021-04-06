@@ -1,6 +1,6 @@
 instagram:
   id: ''
-  href: 'https://www.instagram.com/'
+  href: 'https://www.instagram.com/rede_sup'
   title: 'Instagram'
   fa-icon: 'fa-instagram'
   class: 'fas'
@@ -21,7 +21,7 @@ youtube:
   path: assets/social/youtube.svg
 twitter:
   id: ''
-  href: 'https://www.twitter.com/'
+  href: 'https://www.twitter.com/rede_sup'
   title: 'Twitter'
   fa-icon: 'fa-twitter'
   class: 'fas'
