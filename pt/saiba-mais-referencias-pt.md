@@ -4,6 +4,17 @@ title: Saiba mais - Referências
 redirect_from: /saiba-mais-referencias-pt
 ---
 
+### Nota
+
+Sabia que a publicação de um artigo científico chega a custar 11.300,00 dólares e a linha de extrema pobreza que os ricos definem para os pobres é de 1,90 dólares por dia? Isso mesmo, um artigo só desses, digamos que de 15 paginas, é 5.946 (cinco mil novecentos e quarenta e seis) vezes maior que o limiar de pobreza extrema, abaixo do qual há milhões de pessoas. Semanalmente são publicados milhares de artigos científicos em revistas que cobraram uma taxa elevadíssima aos autores dispostos a pagar para que os artigos possam ser lidos "gratuitamente" por qualquer pessoa. Quando os autores não podem pagar, cada pessoa que quiser lê-lo, ou a instituição à que ela está filhada, tem que pagar uma taxa que é qualquer coisa menos barata. O diferencial das revistas científicas é que os artigos são revisados por especialistas. Aqui vem o outro detalhe: os especialistas fazem isso de graça! A indústria de publicação científica é das mais lucrativas do planeta. É outro caso lamentável no qual parte dos impostos pagos pelos extremamente pobres, vão parar no bolso dos extremamente ricos. Tudo em nome da ciência!
+
+Como é de se esperar, muitos pesquisadores não confundem essa indústria com a ciência. É o caso da maravilhosa Alexandra Elbakyan, descrita pela [Sociedade Brasileira de Medicina Tropical](https://www.sbmt.org.br/portal/o-mercado-contra-a-ciencia-alexandra-elbakyan-rouba-das-editoras-para-dar-aos-cientistas/) como a Robin Hood da ciência. Ela criou o Sci-Hub, uma página de internet que permite baixar gratuitamente muitos artigos apropriados pela indústria de publicação. É semelhante ao Libgen, que além de artigos, permite baixar livros e outros tipos de publicação, especificando o tipo de busca (Libgen para livros, Scientific Articles para artigos ou capitulos de alguns livros não disponíveis na íntegra etc). Ambas páginas são constantemente atacadas e por isso mudam de domínio com frequência. São páginas legítimas e ilegais fazendo um serviço social frente à legalidade ilegítima da indústria de publicação? Cada quem tira suas conclusões. Há quem usa as páginas para acessar o conhecimento privatizado e quem além de usá-las lhes faz doações para fortalecer a iniciativa.
+
+<br>
+<br>
+
+---
+
 Aqui compartilhamos uma lista de referências que se caracteriza ante tudo pela sua incompletude e divisão arbitrária. Muitas das referências que estão numa seção deveriam ser repetidas em outras e, muitas mais, nem aparecem na lista apesar da sua qualidade e relevância para a SUP. Contudo, o objetivo é fornecer pontos de entrada sobre tópicos que ao serem entrelaçados, e por vezes reformulados ou deformados, levam à SUP. 
 
 ### <a name="indice">Índice</a>
@@ -257,6 +268,8 @@ Uma pequena lista frente à urgência de pensar diferente.
 * Acosta, A. (2019). O bem viver: uma oportunidade para imaginar outros mundos. Editora Elefante.
 * Krenak, A. (2019). Ideias para adiar o fim do mundo. Companhia das Letras.
 * Kopenawa, D., & Albert, B. (2019). A queda do céu: palavras de um xamã yanomami. Editora Companhia das Letras.
+* de Oliveria, J.C., Amoroso, M, de Lima, A.G.M., Shiratori, K., Marras, S. & Emperaire, L. (2021). Vozes vegetais: diversidade, resistências e histórias da floresta. Ubu Editora.
+* Fausto, J. (2020). A cosmopolítica dos animais. N-1 Edições.
 * Santos, B. D. S. (2007). Para além do pensamento abissal: das linhas globais a uma ecologia de saberes. Revista crítica de ciências sociais, (78), 3-46.
 * Santos, B. D. S. (2007). Beyond abyssal thinking: From global lines to ecologies of knowledges. Review (Fernand Braudel Center), 45-89.
 * Haraway, D. J. (2016). Staying with the trouble: Making kin in the Chthulucene. Duke University Press.
@@ -371,6 +384,7 @@ Para termos soberania e segurança alimentar é necessário desconstruir a ideol
 
 * Neo, H., & Emel, J. (2017). Geographies of meat: Politics, economy and culture. Taylor & Francis.
 * Wallace, R. (2016). Big farms make big flu: dispatches on influenza, agribusiness, and the nature of science. NYU Press.
+* Davis, M (2020). The Monster Enters: COVID-19, Avian Flu and the Plagues of Capitalism. OR Books.
 * Singer P. (2009). Animal Liberation: The Definite Classic of Animal Movement. Harper Perennial Modern Classics.
 * Robbins, J. A., Franks, B., Weary, D. M., & Von Keyserlingk, M. A. G. (2016). Awareness of ag-gag laws erodes trust in farmers and increases support for animal welfare regulations. Food Policy, 61, 121-125.
 * Wallace, R. (2020). Pandemia e agronegócio: doenças infecciosas, capitalismo e ciência. Elefante.
