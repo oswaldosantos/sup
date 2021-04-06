@@ -99,7 +99,7 @@ Estudante de Medicina Veterinária pela FMVZ-USP. Nasceu e cresceu na São Remo,
 Em construção...
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/myriam.jpeg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/myriam.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Myriam Acero Aguilar</b><br>
 Médica Veterinária com PhD em Saúde Pública, professora da Faculdade de Medicina Veterinária e Zootecnia da Universidad Nacional de Colombia. É lider do grupo de pesquisa em Estudios Humano Animal.<br>
