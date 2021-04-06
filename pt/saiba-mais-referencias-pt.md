@@ -219,12 +219,13 @@ interseccionalidade humana, mas estes aparecem nas referências dos textos a seg
 
 ### <a name="colonialidade">Colonialidade/Modernidade</a>
 
-O recorte aqui é principalmente do movimento intelectual latino-americano, devendo-se notar que neste, colonialidade é diferente de colonialismo. Mignolo por exemplo diz que a "colonialidade nomeia a lógica subjacente da fundação e do desdobramento da civilização ocidental desde o Renascimento até hoje, da qual colonialismos históricos têm sido uma dimensão constituinte, embora minimizada". A modernidade tem um componente mítico pouco conhecido no imaginário popular, sintetizado com extrema clareza pelo Dussel (1993). Essa colonialidade é um dos principais dispostivos de marginalização de coletivos multiespécie. Incluímos também algumas refrências que, apesar de não fazerem parte do referido movimento, destacam-se pela abordagem mais-que-humana.
+O recorte aqui é principalmente do movimento intelectual latino-americano, devendo-se notar que neste, colonialidade é diferente de colonialismo. Mignolo por exemplo diz que a "colonialidade nomeia a lógica subjacente da fundação e do desdobramento da civilização ocidental desde o Renascimento até hoje, da qual colonialismos históricos têm sido uma dimensão constituinte, embora minimizada". A modernidade tem um componente mítico pouco conhecido no imaginário popular, sintetizado com extrema clareza pelo Dussel (1993). Essa colonialidade é um dos principais dispostivos de marginalização de coletivos multiespécie. Incluímos também algumas refrências que sem ser parte do referido movimento, destacam-se pela abordagem mais-que-humana.
 
 Palavras chave: giro decolonial, Grupo Modernidade/Colonialidade, colonialismo, colonialidade, neocolonial, decolonialidade, transmodernidade, culturas híbridas, epistemologias do Sul, Sul global, ecologia de saberes, interculturalidade, pós-colonial.
 
 * Belcourt, B. R. (2015). Animal bodies, colonial subjects:(Re) locating animality in decolonial thought. Societies, 5(1), 1-11.
 * Montford, K. S., & Taylor, C. (Eds.). (2020). Colonialism and Animality: Anti-colonial Perspectives in Critical Animal Studies. Routledge.
+* [Environmental Justice, Settler Colonialism, and More-than-Humans in the Occupied West Bank](https://journals.sagepub.com/toc/enea/4/1)(Número especial com vários artigos).
 * Quijano, A. (2007). Coloniality and modernity/rationality. Cultural studies, 21(2-3), 168-178.
 * Mignolo, W. D. (2007). Delinking: The rhetoric of modernity, the logic of coloniality and the grammar of de-coloniality. Cultural studies, 21(2-3), 449-514.
 * Grosfoguel, R. (2007). The epistemic decolonial turn: Beyond political-economy paradigms. Cultural studies, 21(2-3), 211-223.
