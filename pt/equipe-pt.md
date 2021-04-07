@@ -133,6 +133,18 @@ Médica Veterinária com PhD em Saúde Pública, professora da Faculdade de Medi
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/simone.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Simone Rennó Junqueira</b><br>
+Sou professora na disciplina de Saúde Coletiva em Odontologia (FO-USP). Orientadora no Mestrado Profissional Formação Interdisciplinar em Saúde. 
+Já atuei na rede de serviços de saúde do SUS, na capital e no interior. Mãe de três filhos.<br>
+<a href="http://www.fo.usp.br/pos/?page_id=3386">Mestrado profissional interunidades em formação interdisciplinar em saúde</a>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/tatiane.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Tatiane Braz Camargo</b><br>
@@ -141,7 +153,6 @@ Moradora da comunidade São Remo, protetora de animais e realizadora de diversas
 </div>
 <br>
 <br>
-
 
 ---
 
