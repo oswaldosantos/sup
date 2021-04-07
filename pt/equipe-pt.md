@@ -138,7 +138,7 @@ Médica Veterinária com PhD em Saúde Pública, professora da Faculdade de Medi
 <b>Simone Rennó Junqueira</b><br>
 Sou professora na disciplina de Saúde Coletiva em Odontologia (FO-USP). Orientadora no Mestrado Profissional Formação Interdisciplinar em Saúde. 
 Já atuei na rede de serviços de saúde do SUS, na capital e no interior. Mãe de três filhos.<br>
-<a href="http://www.fo.usp.br/pos/?page_id=3386">Mestrado profissional interunidades em formação interdisciplinar em saúde</a>
+<a href="http://www.fo.usp.br/pos/?page_id=3386">Mestrado profissional interunidades em formação interdisciplinar em saúde (FO-USP)</a>
 </div>
 </div>
 <br>
