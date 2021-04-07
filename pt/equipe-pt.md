@@ -99,6 +99,29 @@ Estudante de Medicina Veterinária pela FMVZ-USP. Nasceu e cresceu na São Remo,
 Em construção...
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/erica.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Érica Peçanha</b><br>
+Pesquisadora de pós-doutorado do Instituto de Estudos Avançados da USP e do nPeriferias - Grupo de Pesquisa das Periferias, com bolsa do projeto Democracia, Artes e Saberes Plurais. Doutora em Antropologia Social pela USP, com estágio pós-doutoral na Faculdade de Educação da mesma instituição. Atua nas áreas de antropologia urbana, pesquisa social e ciências humanas e saúde, com foco nas discussões sobre periferia, cultura e juventude.<br>
+<a href="http://www.iea.usp.br/pesquisa/grupos-pesquisa/nperiferias">nPeriferias-IEA-USP</a><br>
+<a href="http://www.iea.usp.br/pesquisa/catedras-e-convenios/catedra-olavo-setubal-de-arte-cultura-e-ciencia/censo-jardim-sao-remo-jardim-keralux-e-vila-guaraciaba-1">Projeto Democracia, Artes e Saberes Plurais (IEA-USP)</a>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/mario.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Mario Benavides Fernández</b><br>
+Médico Veterinario da Universidad Nacional de Colombia, especialista em epidemiologia, membro da Fundación del Área Andina e mestrando em Filosofia Contempornea da Universidad de San Buenaventura.<br>
+<a href="https://www.usbbog.edu.co/">Universidad de San Buenaventura</a><br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/myriam.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Myriam Acero Aguilar</b><br>
@@ -110,16 +133,15 @@ Médica Veterinária com PhD em Saúde Pública, professora da Faculdade de Medi
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/erica.jpg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/tatiane.jpeg" class="imagem-pessoa" ><br>
 <div>
-<b>Érica Peçanha</b><br>
-Pesquisadora de pós-doutorado do Instituto de Estudos Avançados da USP e do nPeriferias - Grupo de Pesquisa das Periferias, com bolsa do projeto Democracia, Artes e Saberes Plurais. Doutora em Antropologia Social pela USP, com estágio pós-doutoral na Faculdade de Educação da mesma instituição. Atua nas áreas de antropologia urbana, pesquisa social e ciências humanas e saúde, com foco nas discussões sobre periferia, cultura e juventude.<br>
-<a href="http://www.iea.usp.br/pesquisa/grupos-pesquisa/nperiferias">nPeriferias-IEA-USP</a><br>
-<a href="http://www.iea.usp.br/pesquisa/catedras-e-convenios/catedra-olavo-setubal-de-arte-cultura-e-ciencia/censo-jardim-sao-remo-jardim-keralux-e-vila-guaraciaba-1">Projeto Democracia, Artes e Saberes Plurais (IEA-USP)</a>
+<b>Tatiane Braz Camargo</b><br>
+Moradora da comunidade São Remo, protetora de animais e realizadora de diversas ações sociais.<br>
 </div>
 </div>
 <br>
 <br>
+
 
 ---
 
