@@ -22,7 +22,7 @@ Formada em Medicina Veterinária pela FMVZ da UNESP Botucatu e mestranda em Epid
 <img src="{{root}}/assets/pessoas/evelise.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Evelise Oliveira Telles</b><br>
-Professora Titular do Departamento de Medicina Veterinária Preventiva e Saúde Animal. Trabalha na área de Segurança dos Alimentos e Inspeção Sanitária dos Produtos de Origem Animal.<br>
+Professora do Departamento de Medicina Veterinária Preventiva e Saúde Animal. Trabalha na área de Segurança dos Alimentos e Inspeção Sanitária dos Produtos de Origem Animal.<br>
 <a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
 <a href="https://scholar.google.com.br/citations?user=zYzySFIAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
 </div>
@@ -68,7 +68,7 @@ Sou formada em Medicina Veterinária pela Universidade de São Paulo, e atualmen
 pluralidade sem periferias<br>
 <s>antropocentrismo colonialidade capitalismo</s><br>
 <s>agronegócio</s> soberania e segurança alimentar<br>
-Professor Doutor do Departamento de Medicina Veterinária Preventiva e Saúde Animal, e do Grupo de Pesquisa das Periferias do Instituto de Estudos Avançados.<br>
+Sou  professor do Departamento de Medicina Veterinária Preventiva e Saúde Animal, e do Grupo de Pesquisa das Periferias do Instituto de Estudos Avançados.<br>
 <a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
 <a href="http://www.iea.usp.br/pesquisa/grupos-pesquisa/nperiferias">nPeriferias-IEA-USP</a><br>
 <a href="https://scholar.google.com.br/citations?user=CiotlWsAAAAJ&hl=en&oi=ao">Google Scholar</a>
@@ -99,12 +99,45 @@ Estudante de Medicina Veterinária pela FMVZ-USP. Nasceu e cresceu na São Remo,
 Em construção...
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/ana-carolina.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Ana Carolina Basso Schmitt</b><br>
+Docente da Atenção Primária à Saúde do Curso de Fisioterapia da Faculdade de Medicina da Universidade de São Paulo.<br>
+<a href="http://www2.fm.usp.br/fofito/">FOFITO-USP</a><br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/erica.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Érica Peçanha</b><br>
 Pesquisadora de pós-doutorado do Instituto de Estudos Avançados da USP e do nPeriferias - Grupo de Pesquisa das Periferias, com bolsa do projeto Democracia, Artes e Saberes Plurais. Doutora em Antropologia Social pela USP, com estágio pós-doutoral na Faculdade de Educação da mesma instituição. Atua nas áreas de antropologia urbana, pesquisa social e ciências humanas e saúde, com foco nas discussões sobre periferia, cultura e juventude.<br>
 <a href="http://www.iea.usp.br/pesquisa/grupos-pesquisa/nperiferias">nPeriferias-IEA-USP</a><br>
 <a href="http://www.iea.usp.br/pesquisa/catedras-e-convenios/catedra-olavo-setubal-de-arte-cultura-e-ciencia/censo-jardim-sao-remo-jardim-keralux-e-vila-guaraciaba-1">Projeto Democracia, Artes e Saberes Plurais (IEA-USP)</a>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/leo.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Leonardo Rossato</b><br>
+Bacharel e licenciado em Ciências Biológicas pelo Instituto de Biociências da USP (IB-USP). Atua como educador ambiental desde 2017 em projetos de extensão universitária e atualmente trabalha como professor de biologia. Membro da rede SUP desde 2019. <br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/ligia-gomes.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Ligia Ferreira Gomes</b><br>
+Professora da Faculdade de Ciências Farmacêuticas da Universidade de São Paulo, especialista em Docência para a Saúde. Atua em projetos didáticos de ensino vivencial na Atenção Básica e é orientadora do Programa de Mestrado Profissional Interunidades da Universidade de São Paulo. <br>
+<a href="http://www.fcf.usp.br/">FCF-USP</a><br>
+<a href="http://www.fo.usp.br/pos/?page_id=3386">Mestrado profissional interunidades em formação interdisciplinar em saúde (FO-USP)</a>
 </div>
 </div>
 <br>

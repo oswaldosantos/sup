@@ -224,6 +224,8 @@ Os espaços pequenos e o sedentarismo, assim como a privação de alguns estímu
 
 <br>
 
+Ao trabalharmos educação ambiental, devemos considerar que não há uma única abordagem, um debate padronizado ou soluções prontas. Cada comunidade, cada público e cada ambiente tem suas peculiaridades. Assim, as crianças e adolescentes do Circo Escola ajudaram-nos a compreender alguns desafios da São Remo. Com elas estabelecemos diálogos e reflexões para incentivar atitudes coletivas e pensar soluções praticas para problemas cotidianos que ao afetarem o ambiente, impactam também os seres que nele vivem e convivem. Além do mais, realizamos mapeamentos para identificar os locais mais problemáticos do território, desenvolvemos atividades de conscientização junto à empresa (Loga) responsável pela coleta de resíduos domiciliares e visitamos o aterro sanitário gerido pela empresa.
+
 <figure>
 <img src="{{root}}/assets/projetos/eduambiental/buracana.jpg" width=350 height=auto >
  <figcaption>Buracanã, Jardim São Remo.</figcaption>
