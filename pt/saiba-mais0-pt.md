@@ -20,14 +20,7 @@ Neste projeto, os estudantes coordenam ações de educação em saúde desenvolv
 <br>
 <br>
 
-#### Programa Aprender na Comunidade - Prática Multiprofissional na Atenção Básica à Saúde
-
-O projeto trata de consolidar e ampliar uma estratégia exitosa de interação ensino-serviço conduzida através de uma disciplina de graduação que recebe estudantes de todos os cursos da área da Saúde, como disciplina optativa. Desde 2016, com dois oferecimentos anuais, a Disciplina Prática Multiprofissional na Atenção Básica à Saúde (PMABS) leva turmas interprofissionais de estudantes da Saúde para os cenários de práticas da Atenção Primária e viabiliza a reflexão crítica sobre o SUS fundamentada sobre a experiência prática da imersão vivencial supervisionada. As interações são pactuadas e avaliadas de forma compartilhada pela Universidade e o Serviço de Saúde. Desde a proposta original, a experiência do aprendizado resulta da imersão de pequenos grupos de estudantes em atividades observacionais e práticas guiadas por possibilidades individuais e arranjos situacionais cotidianos. Preceptores e docentes supervisionam percursos educativos, nos cenários de práticas da Disciplina que, em 2021, integrou novos docentes e preceptores a equipamentos da Atenção Primária e Secundária em Saúde. A experiência das ações em rede foi ampliada também com a interação com outros projetos Aprender na Comunidade, como o Saúde Única em Periferias. O ensino baseado em projetos de intervenção foi adequado para a dinâmica pós-pandêmica, discutindo-se espaços possíveis de grupalidade, vulnerabilidades relativas ao isolamento social, acesso a tecnologias e qualificação de teleatendimentos para diferentes públicos. A estratégia favorece percepções realistas da complexidade de: interações interprofissionais nas equipes, da dinâmica dos territórios, da organização do SUS, da gestão e das redes de cuidado em Saúde em equipamentos da Atenção Primária e Secundária associadas à experiência motivadora da responsabilidade compartilhada por resultados no trabalho interprofissional em Saúde. O projeto é coordenado pela professora Ligia Ferreira Gomes da FCF-USP.
-
-<br>
-<br>
-
-#### Planejamento e Ações para Educação em Saúde Única (VPS3200)
+#### Planejamento e Ações para Educação em Saúde Única
 
 Disciplina optativa da FMVZ-USP, predominantemente prática, na qual os estudantes elaboram uma proposta educativa atenta à realidade periférica, a apresentam a educadores de instituições parceiras que trabalham com crianças, e após uma fase de ajustes a partir de conversas com os educadores, é implementada. O primeiro oferecimento foi no ano 2019, no Espaço Girassol do Jardim São Remo. A disciplina voltará a ser oferecida quando a Covid-19 estiver controlada. A professora Evelise Telles e os professores Fábio Gregori e Oswaldo Baquero são os responsáveis pela disciplina.
 
@@ -35,6 +28,13 @@ Disciplina optativa da FMVZ-USP, predominantemente prática, na qual os estudant
 <img src="{{root}}/assets/saiba-mais0/disciplina.jpg" width=350 height=auto >
  <figcaption>Crianças desenhando o que mais gostaram da atividade. Espaço Girassol, Jardim São Remo.</figcaption>
 </figure>
+
+<br>
+<br>
+
+#### Programa Aprender na Comunidade - Prática Multiprofissional na Atenção Básica à Saúde
+
+O projeto trata de consolidar e ampliar uma estratégia exitosa de interação ensino-serviço conduzida através de uma disciplina de graduação que recebe estudantes de todos os cursos da área da Saúde, como disciplina optativa. Desde 2016, com dois oferecimentos anuais, a Disciplina Prática Multiprofissional na Atenção Básica à Saúde (PMABS) leva turmas interprofissionais de estudantes da Saúde para os cenários de práticas da Atenção Primária e viabiliza a reflexão crítica sobre o SUS fundamentada sobre a experiência prática da imersão vivencial supervisionada. As interações são pactuadas e avaliadas de forma compartilhada pela Universidade e o Serviço de Saúde. Desde a proposta original, a experiência do aprendizado resulta da imersão de pequenos grupos de estudantes em atividades observacionais e práticas guiadas por possibilidades individuais e arranjos situacionais cotidianos. Preceptores e docentes supervisionam percursos educativos, nos cenários de práticas da Disciplina que, em 2021, integrou novos docentes e preceptores a equipamentos da Atenção Primária e Secundária em Saúde. A experiência das ações em rede foi ampliada também com a interação com outros projetos Aprender na Comunidade, como o Saúde Única em Periferias. O ensino baseado em projetos de intervenção foi adequado para a dinâmica pós-pandêmica, discutindo-se espaços possíveis de grupalidade, vulnerabilidades relativas ao isolamento social, acesso a tecnologias e qualificação de teleatendimentos para diferentes públicos. A estratégia favorece percepções realistas da complexidade de: interações interprofissionais nas equipes, da dinâmica dos territórios, da organização do SUS, da gestão e das redes de cuidado em Saúde em equipamentos da Atenção Primária e Secundária associadas à experiência motivadora da responsabilidade compartilhada por resultados no trabalho interprofissional em Saúde. O projeto é coordenado pela professora Ligia Ferreira Gomes da FCF-USP.
 
 <br>
 <br>

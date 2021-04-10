@@ -3,5 +3,4 @@ layout: base
 title: Sepa más - Referéncias
 original: saiba-mais-referencias-pt
 ---
-
-sea más es
+El contenido estará disponible en un par de semanas!

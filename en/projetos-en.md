@@ -3,5 +3,4 @@ layout: base
 title: Projects 
 original: projetos-pt
 ---
-
-projects en
+The content will be available in a couple of weeks!

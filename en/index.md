@@ -3,4 +3,5 @@ layout: base
 title: One Health of Peripheries
 original: index
 ---
-index en
+
+The content will be available in a couple of weeks!

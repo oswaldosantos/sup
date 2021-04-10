@@ -3,5 +3,4 @@ layout: base
 title: Publicaciones
 original: publicacoes-pt
 ---
-
-publicaciones es
+El contenido estará disponible en un par de semanas!

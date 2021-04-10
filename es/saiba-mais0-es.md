@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Acerca de Una Salud de las Periferias
-original: sobre-pt
+title: Sepa más
+original: saiba-mais0-pt
 ---
 El contenido estará disponible en un par de semanas!
