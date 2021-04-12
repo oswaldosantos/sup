@@ -110,12 +110,32 @@ Docente da Atenção Primária à Saúde do Curso de Fisioterapia da Faculdade d
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/dumangue.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Carlos Dumangue</b><br>
+Carlos Dumange, morador do Riacho Doce da comunidade São Remo, professor de Capoeira e responsável pelo Centro Cultural Riacho Doce.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/erica.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Érica Peçanha</b><br>
 Pesquisadora de pós-doutorado do Instituto de Estudos Avançados da USP e do nPeriferias - Grupo de Pesquisa das Periferias, com bolsa do projeto Democracia, Artes e Saberes Plurais. Doutora em Antropologia Social pela USP, com estágio pós-doutoral na Faculdade de Educação da mesma instituição. Atua nas áreas de antropologia urbana, pesquisa social e ciências humanas e saúde, com foco nas discussões sobre periferia, cultura e juventude.<br>
 <a href="http://www.iea.usp.br/pesquisa/grupos-pesquisa/nperiferias">nPeriferias-IEA-USP</a><br>
 <a href="http://www.iea.usp.br/pesquisa/catedras-e-convenios/catedra-olavo-setubal-de-arte-cultura-e-ciencia/censo-jardim-sao-remo-jardim-keralux-e-vila-guaraciaba-1">Projeto Democracia, Artes e Saberes Plurais (IEA-USP)</a>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/ericsson.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Ericsson Magnavita</b><br>
+Me chamo ERICSSON MAGNAVITA sou um dos articuladores dentro da são remo e atuo como uma liderança que está em prol da comunidade engajado em alguns projetos. Nascido na comunidade, 36 anos com 3 filhos Emilly, Evellyn, Lucas e minha esposa Tatiane, trabalho como autonomo. <br>
 </div>
 </div>
 <br>
@@ -160,6 +180,17 @@ Médico Veterinario da Universidad Nacional de Colombia, especialista em epidemi
 <b>Myriam Acero Aguilar</b><br>
 Médica Veterinária com PhD em Saúde Pública, professora da Faculdade de Medicina Veterinária e Zootecnia da Universidad Nacional de Colombia. É lider do grupo de pesquisa em Estudios Humano Animal.<br>
 <a href="http://medicinaveterinariaydezootecnia.bogota.unal.edu.co/">FMVZ-UNAL</a><br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/rosangela-ribeiro.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Rosangela Ribeiro Gebara</b><br>
+Médica Veterinária e Mestre em Ciência Veterinárias (FMVZ-USP), especialista em Bem-Estar Animal (Cambridge e-Learning Institute) e especialista em Bioética (FM-USP). É membro das comissões de ética ao uso de animais da UNIFESP e FMU, e das comissões de bem-estar animal do CRMV-SP e do CFMV. Foi Gerente de Programas Veterinários na ONG internacional World Animal Protection e atualmente é Gerente de Projetos da ONG Ampara Animal.<br>
+<a href="https://amparanimal.org.br/">Ampara Animal</a><br>
 </div>
 </div>
 <br>

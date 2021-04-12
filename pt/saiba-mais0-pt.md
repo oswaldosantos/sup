@@ -42,9 +42,9 @@ O projeto trata de consolidar e ampliar uma estratégia exitosa de interação e
 
 ---
 
-### Oportunidades des pesquisa
+### Oportunidades de pesquisa
 
-Oferecemos orientação de projetos de Mestrado, Doutorado e Doutorado Direto no Departamento de Medicina Veterinaria Preventiva e Saúde Animal [VPS-FMVZ-USP](http://vps2.fmvz.usp.br/). Também supervisamos projetos de pós-doutorado no VPS-FMVZ-USP e no Grupo de Pesquisa das Periferias do Instituto de Estudos Avançados [nPeriferias-IEA-USP](http://www.iea.usp.br/pesquisa/grupos-pesquisa/nperiferias). Es interessades devem entrar em contato para consultar a disponibilidade de vagas e enviar o currículo e uma carta explicando por que pretendem trabalhar com a SUP. Adicionalmente, devem ter familiaridade com as duas publicações listadas a seguir, com algumas referências de pelo menos duas seções da lista disponível abaixo, e uma proposta de pesquisa.
+Oferecemos orientação de projetos de Mestrado, Doutorado e Doutorado Direto no Departamento de Medicina Veterinaria Preventiva e Saúde Animal [VPS-FMVZ-USP](http://vps2.fmvz.usp.br/). Também supervisamos projetos de pós-doutorado no VPS-FMVZ-USP e no Grupo de Pesquisa das Periferias do Instituto de Estudos Avançados [nPeriferias-IEA-USP](http://www.iea.usp.br/pesquisa/grupos-pesquisa/nperiferias). Os interessados devem entrar em contato para consultar a disponibilidade de vagas, enviar o currículo e uma carta explicando por que pretendem trabalhar com a SUP. Adicionalmente, devem ter familiaridade com as duas publicações listadas a seguir, com algumas referências de pelo menos duas seções da lista disponível abaixo, e uma proposta de pesquisa. Serão especialmente consideradas propostas envolvendo externalidades do agronegócio, agricultura familiar e/ou agroecologia.
 
 * [Saúde Única em Periferias: biopolítica, determinação social e campo de práxis](./publicacoes-{{page.lang}})
 * [Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Periferias](./publicacoes-{{page.lang}}).
