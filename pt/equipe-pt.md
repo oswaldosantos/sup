@@ -130,7 +130,7 @@ Carlos Dumange, morador do Riacho Doce da comunidade São Remo, professor de Cap
 <img src="{{root}}/assets/pessoas/dora.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Dora Mariela Salcedo Barrientos</b><br>
-Enfermeira em saúde coletiva. Terapeuta de Familia e Casal. Terapeuta Comunitaria Integrativa. Docente do curso de Obstetricia da EACH-USP.<br>
+Enfermeira em saúde coletiva. Terapeuta de Familia e Casal. Terapeuta Comunitária Integrativa. Docente do curso de Obstetricia da Eescola de Artes, Ciências e Humanidades da Universidade de São Paulo.<br>
 </div>
 </div>
 <br>
