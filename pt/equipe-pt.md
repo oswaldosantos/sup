@@ -97,20 +97,20 @@ Estudante de Medicina Veterinária pela FMVZ-USP. Nasceu e cresceu na São Remo,
 Em construção...
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/ana-claudia.jpeg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/ana-carolina.jpeg" class="imagem-pessoa" ><br>
 <div>
-<b>Ana Claudia Germani</b><br>
-Médica sanitarista, Docente do departamento de Medicina Preventiva da FMUSP.<br>
+<b>Ana Carolina Basso Schmitt</b><br>
+Docente da Atenção Primária à Saúde do Curso de Fisioterapia da Faculdade de Medicina da Universidade de São Paulo.<br>
 </div>
 </div>
 <br>
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/ana-carolina.jpeg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/ana-claudia.jpeg" class="imagem-pessoa" ><br>
 <div>
-<b>Ana Carolina Basso Schmitt</b><br>
-Docente da Atenção Primária à Saúde do Curso de Fisioterapia da Faculdade de Medicina da Universidade de São Paulo.<br>
+<b>Ana Claudia Germani</b><br>
+Médica sanitarista, Docente do departamento de Medicina Preventiva da FMUSP.<br>
 </div>
 </div>
 <br>
