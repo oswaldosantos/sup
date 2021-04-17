@@ -110,7 +110,7 @@ Docente da Atenção Primária à Saúde do Curso de Fisioterapia da Faculdade d
 <img src="{{root}}/assets/pessoas/ana-claudia.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Ana Claudia Germani</b><br>
-Médica sanitarista, Docente do departamento de Medicina Preventiva da FMUSP.<br>
+Médica sanitarista, Docente do departamento de Medicina Preventiva da Faculdade de Medicina da Universidade de São Paulo.<br>
 </div>
 </div>
 <br>
