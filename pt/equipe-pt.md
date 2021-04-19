@@ -120,7 +120,10 @@ Médica sanitarista, Docente do departamento de Medicina Preventiva da Faculdade
 <img src="{{root}}/assets/pessoas/carlos.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Carlos Curtidor</b><br>
-Publicista da Universidad Jorge Tadeo Lozano, Bogotá-Colombia. Com o coletivo, Juegos Translúcidos tenho desenvolvido a exploração do som produzido ao vivo por brinquedos e objetos que acompanham e complementam a experiência audiovisual.<br>
+Publicista da Universidad Jorge Tadeo Lozano, Bogotá-
+Colombia. Com o coletivo, Juegos Translúcidos tenho desenvolvido 
+ a exploração do som produzido ao vivo por brinquedos e objetos que acompanham e complementam a experiência audiovisual, retomando o Foley como un medio de expresión recursivo e imaginativo.
+Considero o projeto do coletivo como um meio alternativo de comunicação que se adapta e integra a diferentes cenários, sempre desde o respeito à vida.<br>
 </div>
 </div>
 <br>
@@ -141,7 +144,7 @@ Carlos Dumange, morador do Riacho Doce da comunidade São Remo, professor de Cap
 <div>
 <b>Diana Magdalena Jiménez</b><br>
 Artista Plástica e Visual, Universidad Distrital Francisco José de
-Caldas, Facultad de Artes ASAB, Bogotá-Colombia. Sou diretora e fundadora do coletivo de visuais análogas Juegos Translúcidos.<br>
+Caldas, Facultad de Artes ASAB, Bogotá-Colombia. Sou diretora e fundadora do coletivo de visuais análogas Juegos Translúcidos. O coletivo tem participado em diferentes festivais de cinema, teatro infantil, intervenções artísticas de rua, concertos lúdicos, apoio visual em campanhas de comunicação alternativas e oficinas de formação e criação.<br>
 </div>
 </div>
 <br>
