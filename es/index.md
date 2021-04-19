@@ -4,7 +4,7 @@ title: Una Salud de las Periferias
 original: index
 ---
 
-### Saúde Única em Periferias
+### Una Salud de las Periferias
 
 <br>
 

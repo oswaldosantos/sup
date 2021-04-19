@@ -117,10 +117,31 @@ Médica sanitarista, Docente do departamento de Medicina Preventiva da Faculdade
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/carlos.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Carlos Curtidor</b><br>
+Publicista da Universidad Jorge Tadeo Lozano, Bogotá-Colombia. Com o coletivo, Juegos Translúcidos tenho desenvolvido a exploração do som produzido ao vivo por brinquedos e objetos que acompanham e complementam a experiência audiovisual.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/dumangue.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Carlos Dumangue</b><br>
 Carlos Dumange, morador do Riacho Doce da comunidade São Remo, professor de Capoeira e responsável pelo Centro Cultural Riacho Doce.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/magda.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Diana Magdalena Jiménez</b><br>
+Artista Plástica e Visual, Universidad Distrital Francisco José de
+Caldas, Facultad de Artes ASAB, Bogotá-Colombia. Sou diretora e fundadora do coletivo de visuais análogas Juegos Translúcidos.<br>
 </div>
 </div>
 <br>
