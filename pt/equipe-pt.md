@@ -171,6 +171,16 @@ Pesquisadora de pós-doutorado do Instituto de Estudos Avançados da USP e do nP
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/fabio.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Fabio Gregori</b><br>
+Médico veterinário e pedagogo. Professor do Departamento de Medicina Veterinária Preventiva e Saúde Animal (FMVZ-USP). Trabalha na área de Virologia, Gerenciamento em Saúde Animal e Saúde Pública e Educação Sanitária. <br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/ericsson.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Ericsson Magnavita</b><br>

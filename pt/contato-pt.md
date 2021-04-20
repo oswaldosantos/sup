@@ -7,7 +7,7 @@ redirect_from: /contato-pt
 ### Contato
 <br>
 
-**E-mail:**
+**E-mail:** redesup@usp.br
 
 ---
 
