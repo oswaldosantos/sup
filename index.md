@@ -57,7 +57,7 @@ A Médica Veterinária Mayara Bertanhe da rede SUP apresenta a pesquisa da rede 
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
-O projeto SUP, concorrendo com 223 projetos Brasileiros de diversas áreas do conhecimento, e apesar de estar na fase embrionária do desenvolvimento da rede SUP, recebe o primeiro lugar do <a href="https://www.cenpec.org.br/premio-aprendizagem-solidaria">1&#176; Prêmio Aprendizagem Solidária - Experiencias que transformam</a>. A rede SUP agradece à comunidade São Remo por todos os aprendizados, e à Pró-Reitoria de Graduação (Programa Aprender na Comunidade) e à Faculdade de Medicina Veterinária e Zootecnia da Universidade de São Paulo pelo apoio.
+O projeto SUP, concorrendo com 223 projetos brasileiros de diversas áreas do conhecimento, e apesar de estar na fase embrionária do desenvolvimento da rede SUP, recebe o primeiro lugar do <a href="https://www.cenpec.org.br/premio-aprendizagem-solidaria">1&#176; Prêmio Aprendizagem Solidária - Experiencias que transformam</a>. A rede SUP agradece à comunidade São Remo por todos os aprendizados, e à Pró-Reitoria de Graduação (Programa Aprender na Comunidade) e à Faculdade de Medicina Veterinária e Zootecnia da Universidade de São Paulo pelo apoio.
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/premio-solid.jpg" width=200 height=auto >

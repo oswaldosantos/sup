@@ -191,6 +191,16 @@ Me chamo ERICSSON MAGNAVITA sou um dos articuladores dentro da são remo e atuo 
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/tozzi.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Juliana Tozzi de Almeida</b><br>
+Médica Veterinária, pela Universidade Federal do Espírito Santo (2013); Mestre em Ciências Veterinárias, pela Universidade Federal do Paraná (2017), vinculada ao Laboratório de Bem-estar Animal (LABEA) e atualmente doutoranda em Medicina Veterinária Preventiva e Saúde animal pela FMVZ-USP (SP). Membro da rede SUP desde 2019. Atua com o olhar para a sociedade através dos animais, em prol de uma coexistência mais harmônica entre as espécies. <br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/julia.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Júlia Amorin</b><br>
@@ -276,6 +286,15 @@ Moradora da comunidade São Remo, protetora de animais e realizadora de diversas
 ### Estudantes de graduação
 
 Em construção...
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/helena.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Helena Martos Romboli</b><br>
+Estudante de Medicina Veterinária (FMVZ-USP), bolsista pelo Programa Aprender na Comunidade - Projeto Saúde Única em Periferias. <br>
+</div>
+</div>
+<br>
+<br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/isadora.jpeg" class="imagem-pessoa" ><br>
@@ -288,10 +307,40 @@ Graduanda em gestão de políticas públicas pela USP. Atuou como pesquisadora d
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/luiza.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Luiza Lopes Romero</b><br>
+Doula, consultora em amamentação e estudante do 5º ano de Obstetrícia (EACH-USP). Atualmente membro do projeto Saúde Única em Periferias (SUP) e pesquisadora e membro do grupo de pesquisa Mulher & Saúde: Violência doméstica no período gravídico-puerperal pela EACH-USP. Além disso, é Representante Discente de Turma e monitora da disciplina 'Assistência à Mulher na Família e na Comunidade' do curso de Obstetrícia.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/raissa.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Raissa Nouér de Oliveira</b><br>
+Estudante de Medicina Veterinária pela FMVZ-USP. É integrante do Departamento de Extensão do Centro Acadêmico desde 2019, e voluntária no Projeto Medicina Aviária: Saúde no Parque e em ações em aldeias indígenas pela ONG APINAN. Foi uma das precursoras do projeto “Saúde única nas aldeias do Jaraguá” por meio do projeto “VIAJ - Veterinário Itinerante: Aldeias do Jaraguá”.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/sara.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Sara Cristina</b><br>
 Estudante do quarto ano de Fisioterapia da Faculdade de Medicina da Universidade de São Paulo.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/thainara.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Thainara Rodrigues</b><br>
+Estudante de Medicina Veterinária (FMVZ-USP), bolsista pelo Programa Aprender na Comunidade - Projeto Saúde Única em Periferias. <br>
 </div>
 </div>
 <br>

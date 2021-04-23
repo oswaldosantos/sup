@@ -6,11 +6,11 @@ redirect_from: /publicacoes-pt
 
 ### <a name="indice">Índice</a>
 
-* [Saúde Única em Periferias: biopolítica, determinação social e campo de práxis](#sup01)
-* [Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Periferias](#sup02)
-* [Vulnerabilidade social, esporotricose e lugares a serem priorizados](#esporo01)
-* [Violência interpessoal, abuso animal e vulnerabilidade social no município de São Paulo](#viol01)
-* [Dinâmica espaçotemporal e fatores de risco da leptospirose humana no Brasil](#lepto01)
+* [Saúde Única em Periferias: biopolítica, determinação social e campo de práxis.](#sup01)
+* [Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Periferias.](#sup02)
+* [Vulnerabilidade social, esporotricose e lugares a serem priorizados.](#esporo01)
+* [Violência interpessoal, abuso animal e vulnerabilidade social no município de São Paulo.](#viol01)
+* [Dinâmica espaçotemporal e fatores de risco da leptospirose humana no Brasil.](#lepto01)
 
 ---
 
@@ -64,7 +64,7 @@ A tradução ao português será disponibilizada assim que for publicada a vers�
 
 ---
 
-### <a name="esporo01">Vulnerabilidade social, esporotricose e lugares a serem priorizados</a>
+### <a name="esporo01">Vulnerabilidade social, esporotricose e lugares a serem priorizados.</a>
 
 <br>
 
@@ -116,7 +116,7 @@ A esporotricose é uma doença causada por fungos, ou seja, é uma micose.  Alé
 
 ---
 
-### <a name="viol01">Violência interpessoal, abuso animal e vulnerabilidade social no município de São Paulo<a/>
+### <a name="viol01">Violência interpessoal, abuso animal e vulnerabilidade social no município de São Paulo.<a/>
 
 <br>
 
@@ -141,7 +141,7 @@ Há múltiplos estudos relacionando a violência entre humanos e a violência de
 
 <br>
 
-Entre os anos 2000 e 2016 houve 63.302 casos e 6.064 óbitos por leptospirose humana notificados no Brasil. Nesta pesquisa identificaram-se os Estados Brasileiros a serem priorizados com base no número de casos e óbitos nesse período. Adicionalmente, avaliou-se a influência de fatores climáticos e socioeconômicos na dinâmica de ocorrência da doença. Para isto usaram-se imagens satelitais e medidas relativas ao manejo do lixo, ao analfabetismo e à pobreza. O Estado de Acre foi sistematicamente o mais
+Entre os anos 2000 e 2016 houve 63.302 casos e 6.064 óbitos por leptospirose humana notificados no Brasil. Nesta pesquisa identificaram-se os Estados brasileiros a serem priorizados com base no número de casos e óbitos nesse período. Adicionalmente, avaliou-se a influência de fatores climáticos e socioeconômicos na dinâmica de ocorrência da doença. Para isto usaram-se imagens satelitais e medidas relativas ao manejo do lixo, ao analfabetismo e à pobreza. O Estado de Acre foi sistematicamente o mais
 afetado, demandando uma alocação de recursos muito maior que os Estados restantes. Esta pesquisa foi desenvolvida pensando em priorizar os Estados mais afetados, porém, sem ter ainda iniciado a conceituação da SUP. Isso favoreceu uma discussão tecnicista dos achados, sem sequer apontar os processos que possibilitam marginalização social e sanitária dos Estados mais acometidos. Dessa forma, a pesquisa deixou de somar explicitamente à demanda por mudanças estruturais, sem as quais as intervenções de saúde
 continuarão sendo fragmentadas, superficiais e incapazes de resolver os problemas de base. A pesquisa foi desenvolvida pelos professores Oswaldo Santos Baquero, e Gustavo Machado (Universidade da Carolina do Norte).
 
@@ -149,7 +149,7 @@ continuarão sendo fragmentadas, superficiais e incapazes de resolver os problem
 
 <figure>
 <img class="fig" src="{{root}}/assets/publicacoes/lepto01/lepto.gif" width=350 height=auto >
-<figcaption>Dinâmica espaçotemporal do excesso de risco de casos de leptospirose humana nos Estados Brasileiros entre 200 e 2016. Esse excesso de risco [Pr(RR > 1)] representa a probabilidade dos Estados terem mais casos que a média de casos no Brasil, considerando os respectivos tamanhos populacionais.</figcaption>
+<figcaption>Dinâmica espaçotemporal do excesso de risco de casos de leptospirose humana nos Estados brasileiros entre 200 e 2016. Esse excesso de risco [Pr(RR > 1)] representa a probabilidade dos Estados terem mais casos que a média de casos no Brasil, considerando os respectivos tamanhos populacionais.</figcaption>
 </figure>
 
 <br>
