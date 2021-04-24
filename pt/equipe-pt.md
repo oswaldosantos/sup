@@ -317,6 +317,15 @@ Doula, consultora em amamentação e estudante do 5º ano de Obstetrícia (EACH-
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/mayara-araujo.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Mayara Palos Araujo</b><br>
+Estudante da Faculdade de Odontologia da Universidade de São Paulo.<br>
+</div>
+</div>
+<br>
+<br>
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/raissa.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Raissa Nouér de Oliveira</b><br>

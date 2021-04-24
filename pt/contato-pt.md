@@ -11,9 +11,7 @@ redirect_from: /contato-pt
 
 ---
 
-**Telefones:**<br>
-Prof. Oswaldo Santos Baquero (VPS-FMVZ-USP): +55 11 3091-1367<br>
-Secretaria (VPS-FMVZ-USP): +55 11 3091-7930
+**Telefone** (Secretaria do VPS-FMVZ-USP): +55 11 3091-7930
 
 ---
 
@@ -35,5 +33,5 @@ Secretaria (VPS-FMVZ-USP): +55 11 3091-7930
 
 ---
 
-Imagem panorâmica: foto dos nossos amigos de [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Imagem panorâmica: foto des nosses amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)
 

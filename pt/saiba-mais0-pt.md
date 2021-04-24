@@ -10,7 +10,7 @@ redirect_from: /saiba-mais0-pt
 
 #### Programa Aprender na Comunidade - Saúde Única em Periferias
 
-Neste projeto, os estudantes coordenam ações de educação em saúde desenvolvidas no Jardim São Remo, comunidade vizinha da Cidade Universitária. Mais que instrutores, os estudantes são participantes de uma construção coletiva, lúdica e dialógica, com crianças, docentes, educadores e outros membros da comunidade São Remo. As ações buscam (1) consolidar uma relação de vizinhança entre a USP e a São Remo, pautada no acolhimento, na colaboração e nos saberes plurais; (2) aprofundar o conhecimento sobre os modos e estilos de vida na São Remo e; (3) identificar oportunidade para promover a saúde. O projeto é coordenado pelo professor Oswaldo Baquero. 
+Neste projeto, os estudantes coordenam ações de educação em saúde desenvolvidas no Jardim São Remo, comunidade vizinha da Cidade Universitária. Mais que instrutores, os estudantes são participantes de uma construção coletiva, lúdica e dialógica, com crianças, docentes, educadores e outros membros da comunidade São Remo. As ações buscam (1) consolidar uma relação de vizinhança entre a USP e a São Remo, pautada no acolhimento, na colaboração e nos saberes plurais; (2) aprofundar o conhecimento sobre os modos e estilos de vida na São Remo e; (3) identificar oportunidades para promover a saúde. O projeto é coordenado pelo professor Oswaldo Baquero. 
 
 <figure>
 <img src="{{root}}/assets/saiba-mais0/batuque.jpg" width=350 height=auto >
@@ -44,7 +44,7 @@ O projeto trata de consolidar e ampliar uma estratégia exitosa de interação e
 
 ### Oportunidades de pesquisa
 
-Oferecemos orientação de projetos de Mestrado, Doutorado e Doutorado Direto no Departamento de Medicina Veterinaria Preventiva e Saúde Animal [VPS-FMVZ-USP](http://vps2.fmvz.usp.br/). Também supervisamos projetos de pós-doutorado no VPS-FMVZ-USP e no Grupo de Pesquisa das Periferias do Instituto de Estudos Avançados [nPeriferias-IEA-USP](http://www.iea.usp.br/pesquisa/grupos-pesquisa/nperiferias). Os interessados devem entrar em contato para consultar a disponibilidade de vagas, enviar o currículo e uma carta explicando por que pretendem trabalhar com a SUP. Adicionalmente, devem ter familiaridade com as duas publicações listadas a seguir, com algumas referências de pelo menos duas seções da lista disponível abaixo, e uma proposta de pesquisa. Serão especialmente consideradas propostas envolvendo externalidades do agronegócio, agricultura familiar e/ou agroecologia.
+Oferecemos orientação de projetos de Mestrado, Doutorado e Doutorado Direto no Departamento de Medicina Veterinaria Preventiva e Saúde Animal [VPS-FMVZ-USP](http://vps2.fmvz.usp.br/). Também supervisamos projetos de pós-doutorado no VPS-FMVZ-USP e no Grupo de Pesquisa das Periferias do Instituto de Estudos Avançados [nPeriferias-IEA-USP](http://www.iea.usp.br/pesquisa/grupos-pesquisa/nperiferias). Es interessades devem entrar em contato para consultar a disponibilidade de vagas, enviar o currículo e uma carta explicando por que pretendem trabalhar com a SUP. Adicionalmente, devem ter familiaridade com as duas publicações listadas a seguir, com algumas referências de pelo menos duas seções da lista disponível abaixo, e uma proposta de pesquisa. Serão especialmente consideradas propostas envolvendo externalidades do agronegócio e/ou agricultura social e ecologicamente sustentável.
 
 * [Saúde Única em Periferias: biopolítica, determinação social e campo de práxis](./publicacoes-{{page.lang}})
 * [Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Periferias](./publicacoes-{{page.lang}}).
@@ -57,7 +57,15 @@ Oferecemos orientação de projetos de Mestrado, Doutorado e Doutorado Direto no
 
 ### Referências
 
-Aqui compartilhamos uma lista de referências que se caracteriza ante tudo pela sua incompletude e divisão arbitrária. Muitas das referências que estão numa seção deveriam ser repetidas em outras e, muitas mais, nem aparecem na lista apesar da sua qualidade e relevância para a SUP. Contudo, o objetivo é fornecer pontos de entrada sobre tópicos que ao serem entrelaçados, e por vezes reformulados ou deformados, levam à SUP. 
+Aqui compartilhamos uma lista de referências que se caracteriza ante tudo pela sua incompletude e divisão arbitrária. Muitas das referências que estão numa seção poderiam ser repetidas em outras e, muitas mais, nem aparecem na lista apesar da sua qualidade e relevância para a SUP. Contudo, o objetivo é fornecer pontos de entrada sobre tópicos que ao serem entrelaçados, e por vezes reformulados ou deformados, levam à SUP. 
 
 [Veja a lista](./saiba-mais-referencias-{{page.lang}})
 
+
+<br>
+<br>
+<br>
+
+---
+
+Imagem panorâmica: foto des nosses amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)
