@@ -286,6 +286,18 @@ Moradora da comunidade São Remo, protetora de animais e realizadora de diversas
 ### Estudantes de graduação
 
 Em construção...
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/giovanna.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Giovanna Gimarães Casoni</b><br>
+Estudante de Nutrição e Saúde Pública pela FSP-USP. Encantada pelo SUS e pelas PICS! Também gosto muito de música (canto), línguas e viagens, principalmente as que tem maior contato com a natureza. Estou envolvida com o projeto de Prática Multiprofissional na Atenção Básica à Saúde, principalmente na São Remo e, apaixonada, hoje sou também membro da rede SUP. Atualmente também pesquiso sobre saúde de imigrantes e refugiados na cidade de São Paulo.<br>
+</div>
+</div>
+<br>
+<br>
+
+
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/helena.jpeg" class="imagem-pessoa" ><br>
 <div>
