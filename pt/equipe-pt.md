@@ -231,6 +231,16 @@ Professora da Faculdade de Ciências Farmacêuticas da Universidade de São Paul
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/marcao.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Marcos Bryan Heinemann</b><br>
+ou professor do Departamento de Medicina Veterinária Preventiva e Saúde Animal, da FMVZ-USP, responsável pelo Laboratório de Zoonoses Bacterianas, atuando principalmente com leptospira e leptospirose. Também coordeno um projeto de divulgação científica "Luz, Câmera e Ciência".<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/mario.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Mario Benavides Fernández</b><br>
