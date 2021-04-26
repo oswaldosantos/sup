@@ -191,6 +191,16 @@ Me chamo ERICSSON MAGNAVITA sou um dos articuladores dentro da são remo e atuo 
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/gislene.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Gislene Aparecida dos Santos</b><br>
+Professora da Universidade de São Paulo (USP), lecionando no curso de graduação em Gestão de Políticas Públicas da Escola de Artes, Ciências e Humanidades (EACH) e no programa de pós-graduação em Direito (área de Direitos Humanos). É líder do GEPPIS – Grupo de Estudos e Pesquisas das Políticas Públicas para a Inclusão Social (EACH – USP) e, atualmente, é coordenadora do nPeriferias – Grupo de Pesquisa das Periferias do Instituto de Estudos Avançados da USP. <br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/tozzi.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Juliana Tozzi de Almeida</b><br>
