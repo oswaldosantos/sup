@@ -97,6 +97,15 @@ Estudante de Medicina Veterinária pela FMVZ-USP. Nasceu e cresceu na São Remo,
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/alessandro.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Alessandro de Oliveira dos Santos</b><br>
+Professor Livre-Docente do Instituto de Psicologia da USP e pesquisador associado do Grupo de Pesquisa nPeriferias do Instituto de Estudos Avançados da USP. Pesquisa temas relacionados a intercultura e raça-etnia.<br>
+</div>
+</div>
+<br>
+<br>
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/ana-carolina.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Ana Carolina Basso Schmitt</b><br>
