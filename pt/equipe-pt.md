@@ -94,13 +94,23 @@ Estudante de Medicina Veterinária pela FMVZ-USP. Nasceu e cresceu na São Remo,
 
 ### Colaboradores
 
-Em construção...
+<br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/ana-carolina.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Ana Carolina Basso Schmitt</b><br>
 Docente da Atenção Primária à Saúde do Curso de Fisioterapia da Faculdade de Medicina da Universidade de São Paulo.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/bia-rocha.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Beatriz Rocha</b><br>
+Atuo na área da extensão universitária, como educadora social, no Programa Aproxima Ação/PRCEU, que tem como missão atuar na garantia do Direitos  de crianças e adolescentes em situação de risco pessoal e social, bem como ser referencia na interlocução entre a Universidade e comunidades do seu entorno..<br>
 </div>
 </div>
 <br>
@@ -305,12 +315,12 @@ Moradora da comunidade São Remo, protetora de animais e realizadora de diversas
 
 ### Estudantes de graduação
 
-Em construção...
+<br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/giovanna.jpeg" class="imagem-pessoa" ><br>
 <div>
-<b>Giovanna Gimarães Casoni</b><br>
+<b>Giovanna Guimarães Casoni</b><br>
 Estudante de Nutrição e Saúde Pública pela FSP-USP. Encantada pelo SUS e pelas PICS! Também gosto muito de música (canto), línguas e viagens, principalmente as que tem maior contato com a natureza. Estou envolvida com o projeto de Prática Multiprofissional na Atenção Básica à Saúde, principalmente na São Remo e, apaixonada, hoje sou também membro da rede SUP. Atualmente também pesquiso sobre saúde de imigrantes e refugiados na cidade de São Paulo.<br>
 </div>
 </div>
@@ -357,11 +367,32 @@ Estudante da Faculdade de Odontologia da Universidade de São Paulo.<br>
 </div>
 <br>
 <br>
+
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/raissa.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Raissa Nouér de Oliveira</b><br>
 Estudante de Medicina Veterinária pela FMVZ-USP. É integrante do Departamento de Extensão do Centro Acadêmico desde 2019, e voluntária no Projeto Medicina Aviária: Saúde no Parque e em ações em aldeias indígenas pela ONG APINAN. Foi uma das precursoras do projeto “Saúde única nas aldeias do Jaraguá” por meio do projeto “VIAJ - Veterinário Itinerante: Aldeias do Jaraguá”.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/raquel.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Raquel Gomes Catozo</b><br>
+Vice-presidente do Centro Acadêmico do FMVZ-USP. Integrante do coletivo Ercilia Cobra - idealizadora do projeto Sangue Livre para doação de absorventes para mulheres em situação de vulnerabilidade.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/sabrina.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Sabrina Alves Luz</b><br>
+Graduanda da Faculdade de Medicina Veterinária e Zootecnia da USP. Participante do Departamento de Extensão da Liga de Saúde Única da FMVZ-USP.<br>
 </div>
 </div>
 <br>
