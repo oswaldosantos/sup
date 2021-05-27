@@ -119,7 +119,7 @@ Docente da Atenção Primária à Saúde do Curso de Fisioterapia da Faculdade d
 <img src="{{root}}/assets/pessoas/bia-rocha.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Beatriz Rocha</b><br>
-Atuo na área da extensão universitária, como educadora social, no Programa Aproxima Ação/PRCEU, que tem como missão atuar na garantia do Direitos  de crianças e adolescentes em situação de risco pessoal e social, bem como ser referencia na interlocução entre a Universidade e comunidades do seu entorno..<br>
+Atuo na área da extensão universitária, como educadora social, no Programa Aproxima Ação/PRCEU, que tem como missão atuar na garantia do Direitos  de crianças e adolescentes em situação de risco pessoal e social, bem como ser referencia na interlocução entre a Universidade e comunidades do seu entorno.<br>
 </div>
 </div>
 <br>
@@ -129,7 +129,7 @@ Atuo na área da extensão universitária, como educadora social, no Programa Ap
 <img src="{{root}}/assets/pessoas/ana-claudia.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Ana Claudia Germani</b><br>
-Médica sanitarista, Docente do departamento de Medicina Preventiva da Faculdade de Medicina da Universidade de São Paulo.<br>
+Médica sanitarista, Docente do Departamento de Medicina Preventiva da Faculdade de Medicina da Universidade de São Paulo.<br>
 </div>
 </div>
 <br>
@@ -141,7 +141,7 @@ Médica sanitarista, Docente do departamento de Medicina Preventiva da Faculdade
 <b>Carlos Curtidor</b><br>
 Publicista da Universidad Jorge Tadeo Lozano, Bogotá-
 Colombia. Com o coletivo, Juegos Translúcidos tenho desenvolvido 
- a exploração do som produzido ao vivo por brinquedos e objetos que acompanham e complementam a experiência audiovisual, retomando o Foley como un medio de expresión recursivo e imaginativo.
+ a exploração do som produzido ao vivo por brinquedos e objetos que acompanham e complementam a experiência audiovisual, retomando o Foley como un meio de expresión recursivo e imaginativo.
 Considero o projeto do coletivo como um meio alternativo de comunicação que se adapta e integra a diferentes cenários, sempre desde o respeito à vida.<br>
 </div>
 </div>
@@ -173,7 +173,7 @@ Caldas, Facultad de Artes ASAB, Bogotá-Colombia. Sou diretora e fundadora do co
 <img src="{{root}}/assets/pessoas/dora.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Dora Mariela Salcedo Barrientos</b><br>
-Enfermeira em saúde coletiva. Terapeuta de Familia e Casal. Terapeuta Comunitária Integrativa. Docente do curso de Obstetricia da Eescola de Artes, Ciências e Humanidades da Universidade de São Paulo.<br>
+Enfermeira em saúde coletiva. Terapeuta de Familia e Casal. Terapeuta Comunitária Integrativa. Docente do curso de Obstetricia da Escola de Artes, Ciências e Humanidades da Universidade de São Paulo.<br>
 </div>
 </div>
 <br>
@@ -263,7 +263,7 @@ Professora da Faculdade de Ciências Farmacêuticas da Universidade de São Paul
 <img src="{{root}}/assets/pessoas/marcao.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Marcos Bryan Heinemann</b><br>
-ou professor do Departamento de Medicina Veterinária Preventiva e Saúde Animal, da FMVZ-USP, responsável pelo Laboratório de Zoonoses Bacterianas, atuando principalmente com leptospira e leptospirose. Também coordeno um projeto de divulgação científica "Luz, Câmera e Ciência".<br>
+Sou professor do Departamento de Medicina Veterinária Preventiva e Saúde Animal, da FMVZ-USP, responsável pelo Laboratório de Zoonoses Bacterianas, atuando principalmente com leptospira e leptospirose. Também coordeno um projeto de divulgação científica "Luz, Câmera e Ciência".<br>
 </div>
 </div>
 <br>
@@ -273,7 +273,7 @@ ou professor do Departamento de Medicina Veterinária Preventiva e Saúde Animal
 <img src="{{root}}/assets/pessoas/mario.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Mario Benavides Fernández</b><br>
-Médico Veterinario da Universidad Nacional de Colombia, especialista em epidemiologia, membro da Fundación del Área Andina e mestrando em Filosofia Contempornea da Universidad de San Buenaventura.<br>
+Médico Veterinário da Universidad Nacional de Colombia, especialista em epidemiologia, membro da Fundación del Área Andina e mestrando em Filosofia Contempornea da Universidad de San Buenaventura.<br>
 </div>
 </div>
 <br>
@@ -391,7 +391,7 @@ Estudante de Medicina Veterinária pela FMVZ-USP. É integrante do Departamento 
 <img src="{{root}}/assets/pessoas/raquel.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Raquel Gomes Catozo</b><br>
-Vice-presidente do Centro Acadêmico do FMVZ-USP. Integrante do coletivo Ercilia Cobra - idealizadora do projeto Sangue Livre para doação de absorventes para mulheres em situação de vulnerabilidade.<br>
+Vice-presidente do Centro Acadêmico da FMVZ-USP. Integrante do coletivo Ercilia Cobra - idealizadora do projeto Sangue Livre para doação de absorventes para mulheres em situação de vulnerabilidade.<br>
 </div>
 </div>
 <br>

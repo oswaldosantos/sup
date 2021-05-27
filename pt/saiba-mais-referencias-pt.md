@@ -6,7 +6,7 @@ redirect_from: /saiba-mais-referencias-pt
 
 ### Nota
 
-Sabia que a publicação de um artigo científico chega a custar 11.300,00 dólares e a linha de extrema pobreza que os ricos definem para os pobres é de 1,90 dólares por dia? Isso mesmo, um artigo só desses, digamos que de 15 paginas, é 5.946 (cinco mil novecentos e quarenta e seis) vezes maior que o limiar de pobreza extrema, abaixo do qual há milhões de pessoas. Semanalmente são publicados milhares de artigos científicos em revistas que cobraram uma taxa elevadíssima aos autores dispostos a pagar para que os artigos possam ser lidos "gratuitamente" por qualquer pessoa. Quando os autores não podem pagar, cada pessoa que quiser lê-lo, ou a instituição à que ela está filhada, tem que pagar uma taxa que é qualquer coisa menos barata. O diferencial das revistas científicas é que os artigos são revisados por especialistas. Aqui vem o outro detalhe: os especialistas fazem isso de graça! A indústria de publicação científica é das mais lucrativas do planeta. É outro caso lamentável no qual parte dos impostos pagos pelos extremamente pobres, vão parar no bolso dos extremamente ricos. Tudo em nome da ciência!
+Sabia que a publicação de um artigo científico chega a custar 11.300,00 dólares e a linha de extrema pobreza que os ricos definem para os pobres é de 1,90 dólares por dia? Isso mesmo! Um artigo só desses, digamos que de 15 paginas, é 5.946 (cinco mil novecentos e quarenta e seis) vezes maior que o limiar de pobreza extrema, abaixo do qual há milhões de pessoas. Semanalmente são publicados milhares de artigos científicos em revistas que cobraram uma taxa elevadíssima aos autores dispostos a pagar para que os artigos possam ser lidos "gratuitamente" por qualquer pessoa. Quando os autores não podem pagar, cada pessoa que quiser lê-lo, ou a instituição à que ela está filhada, tem que pagar taxas que é qualquer coisa menos barata. O diferencial das revistas científicas é que os artigos são revisados por especialistas. Aqui vem o outro detalhe: os especialistas fazem isso de graça! A indústria de publicação científica é das mais lucrativas do planeta. É outro caso lamentável no qual parte dos impostos pagos pelos extremamente pobres, vão parar no bolso dos extremamente ricos. Tudo em nome da ciência!
 
 Como é de se esperar, muitos pesquisadores não confundem essa indústria com a ciência. É o caso da maravilhosa Alexandra Elbakyan, descrita pela [Sociedade Brasileira de Medicina Tropical](https://www.sbmt.org.br/portal/o-mercado-contra-a-ciencia-alexandra-elbakyan-rouba-das-editoras-para-dar-aos-cientistas/) como a Robin Hood da ciência. Ela criou o Sci-Hub, uma página de internet que permite baixar gratuitamente muitos artigos apropriados pela indústria de publicação. É semelhante ao Libgen, que além de artigos, permite baixar livros e outros tipos de publicação, especificando o tipo de busca (Libgen para livros, Scientific Articles para artigos ou capitulos de alguns livros não disponíveis na íntegra etc). Ambas páginas são constantemente atacadas e por isso mudam de domínio com frequência. São páginas legítimas e ilegais fazendo um serviço social frente à legalidade ilegítima da indústria de publicação? Cada quem tira suas conclusões. Há quem usa as páginas para acessar o conhecimento privatizado e quem além de usá-las lhes faz doações para fortalecer a iniciativa.
 
@@ -62,7 +62,7 @@ Milhares de artigos são publicados anualmente sobre a Saúde Única e muitos mi
 
 ### <a name="epidemio">Epidemiologia crítica e saúde coletiva</a>
 
-A epidemiologia crítica e a saúde coletiva são movimentos de saúde latino-americanos com propostas para superar a colonialidade da saúde pública do Norte global. Ironicamente têm reproduzido o antropocentrismo colonial, mas publicações recentes parecem acenar uma mudança de postura que pode fazer com que a SUP deixe de ser um ponto cego desses movimentos. Fora da América Latina, a *saúde pública crítica* e a *nova saúde pública* são as abordagens que compartilham mais afinidades com a epidemiologia crítica e a saúde coletiva.
+A epidemiologia crítica e a saúde coletiva são movimentos de saúde latino-americanos com propostas para superar a colonialidade da saúde pública do Norte global. Ironicamente têm reproduzido o antropocentrismo colonial, mas publicações recentes parecem acenar uma mudança de postura convenientes para que a SUP deixe de ser um ponto cego desses movimentos. Fora da América Latina, a *saúde pública crítica* e a *nova saúde pública* são as abordagens que compartilham mais afinidades com a epidemiologia crítica e a saúde coletiva.
 
 * Breilh, J. (2021). Critical Epidemiology and the People's Health. Oxford University Press.
 * Breilh, J. (2019). Critical epidemiology in Latin America: roots, philosophical and methodological ruptures. In Vallverdú, J.J., Puyol, A., & Estany, A. Philosophical and methodological debates in Public Health (pp. 21-45). Springer.
@@ -88,7 +88,7 @@ A epidemiologia crítica e a saúde coletiva são movimentos de saúde latino-am
 
 ### <a name="determinacao">Determinação social e determinantes sociais da saúde</a>
 
-A determinação social da saúde e os determinantes sociais da saúde são marcos conceituais diferentes. Desde o primeiro tem se criticado o segundo por ser na prática mais conivente com os interesses dos grupos dominantes. No entanto, e em conosnância com um dos princípios da determinação social (o movimento dialético), acreditamos que é possível uma síntese de ambas abordagens. Na rede SUP pesquisamos essa possibilidade usando os coletivos multiespécie e os dispostivos de margnialização como chaves interpretativas.
+A determinação social da saúde e os determinantes sociais da saúde são marcos conceituais diferentes. Desde o primeiro tem se criticado o segundo por ser, na prática, conivente com os interesses dos grupos dominantes. No entanto, e em conosnância com um dos princípios da determinação social (o movimento dialético), acreditamos que é possível uma síntese de ambas abordagens. Na rede SUP pesquisamos essa possibilidade usando os coletivos multiespécie e os dispositivos de marginalização como chaves interpretativas.
 
 * Samaja, J. (2004). Epistemología de la salud. Lugar Editorial.
 * Breilh, J. (2013). La determinación social de la salud como herramienta de transformación hacia una nueva salud pública (salud colectiva). Revista Facultad Nacional de Salud Pública, 31, 13-27.
@@ -118,9 +118,10 @@ A determinação social da saúde e os determinantes sociais da saúde são marc
 
 ### <a name="promocao">Promoção da saúde</a>
 
-A conotação de "promoção" na SUP (ver ) é uma releitura multiespécie e decolonial do que se conhece por "promoção da saúde".
+A conotação de "promoção" na SUP (ver From modern Planetary Health to decolonial promotion of One Health of Peripheries) é uma releitura multiespécie e decolonial do que se conhece por "promoção da saúde".
 
 * World Health Organization. (2009). Milestones in health promotion: Statements from global conferences (No. WHO/NMH/CHP/09.01). World Health Organization.
+* McPhail-Bell, K., Fredericks, B., & Brough, M. (2013). Beyond the accolades: a postcolonial critique of the foundations of the Ottawa Charter. Global Health Promotion, 20(2), 22-29.
 * Nutbeam, D. (1998). Health promotion glossary. Health promotion international, 13(4), 349-364.
 * Nettleton, S., & Bunton, R. (1995). Sociological critiques of health promotion. The sociology of health promotion, 41-58.
 * Robertson, A., & Minkler, M. (1994). New health promotion movement: a critical examination. Health education quarterly, 21(3), 295-312.
@@ -138,7 +139,7 @@ A conotação de "promoção" na SUP (ver ) é uma releitura multiespécie e dec
 
 ### <a name="biopolitica">Biopolítica mais-que-humana</a>
 
-A biopolítica aborda novas formas de poder ou aspectos do poder outrora desconhecidos, no âmbito de fenômenos tão diversos como os campos de concentração, os processos migratórios, o capitalismo cognitivo, a domesticação, o paradigma imunitário da política moderna, a relação dos humanos com outros animais e com a tecnologia, a soberania, o estado de exceção, e a relação poder/saber. A biopolítica mais-que-humana vem preenchendo lacunas deixadas pela biopolítica restrita a fenômenos humanos. A SUP fica na lacuna biopolítica da saúde de coletivos multiespécie marginalizados. A lista a seguir omite a maioria das obras de base da literatura atual, entretanto, essas obras aparecem recorrentemente nas que estamos referenciando.
+A biopolítica aborda novas formas de poder ou aspectos do poder outrora desconhecidos, no âmbito de fenômenos tão diversos como os campos de concentração, os processos migratórios, o capitalismo cognitivo, a domesticação, o paradigma imunitário da política moderna, a relação dos humanos com outros animais e com a tecnologia, a soberania, o estado de exceção, e a relação poder/saber. A biopolítica mais-que-humana vem complementando biopolítica restrita a fenômenos humanos e a SUP contribui a essa complementação. A seguinte lista refere-se principalmente às vertentes mais-que-humans.
 
 * Pugliese, J. (2020). Biopolitics of the More-than-human: Forensic Ecologies of Violence. Duke University Press.
 * Wolfe, C. (2012). Before the law: Humans and other animals in a biopolitical frame. University of Chicago Press.
@@ -167,7 +168,7 @@ A biopolítica aborda novas formas de poder ou aspectos do poder outrora desconh
 
 ### <a name="estudos">Estudos críticos animais</a>
 
-Os estudos críticos animais estão crescendo vertiginosamente e abordam uma ampla variedade de tópicos, como pode ser visto nas coleções indicadas a seguir. São fundamentais para trabalhar dispositivos de marginalização envolvendo animais não humanos, daí sua relevância na SUP.
+Os estudos críticos animais estão crescendo vertiginosamente e abordam uma ampla variedade de tópicos, como pode ser visto nas coleções indicadas a seguir, fundamentais para trabalhar dispositivos de marginalização envolvendo animais não humanos.
 
 * [Revista Latinoamericana de Estudios Críticos Animales](http://revistaleca.org/journal/index.php/RLECA/)
 * [The Palgrave Macmillan Animal Ethics Series](https://www.palgrave.com/gp/series/14421/)
@@ -194,8 +195,7 @@ Os estudos críticos animais estão crescendo vertiginosamente e abordam uma amp
 
 ### <a name="inters">Interseccionalidade mais-que-humana</a>
 
-A interseccionalidade mais-que-humana é outra chave interpretativa fundamental para dar sentido à determinação social da saúde na SUP. Os dispositivos de marginalização distribuem os indivíduos em categorias de espécie, raça, etnia, gênero e classe social entre outras, e os sinergismos e antagonismos (interseccionalidade) entre dispositivos de marginalização determinam perfis epidemiológicos de coletivos multiespécie.Não incluímos os principais textos de
-interseccionalidade humana, mas estes aparecem nas referências dos textos a seguir ou são
+A interseccionalidade mais-que-humana é outra chave interpretativa fundamental para dar sentido à determinação social da SUP. Os dispositivos de marginalização distribuem os indivíduos em categorias de espécie, raça, etnia, gênero e classe social entre outras, e os sinergismos e antagonismos (interseccionalidade) entre dispositivos de marginalização determinam perfis epidemiológicos de coletivos multiespécie. Não incluímos os principais textos de interseccionalidade humana.
 
 * Chen, M. Y. (2012). Animacies: Biopolitics, racial mattering, and queer affect. Duke University Press.
 * Kaijser, A., & Kronsell, A. (2014). Climate change through the lens of intersectionality. Environmental politics, 23(3), 417-433.
@@ -230,7 +230,7 @@ interseccionalidade humana, mas estes aparecem nas referências dos textos a seg
 
 ### <a name="colonialidade">Colonialidade/Modernidade</a>
 
-O recorte aqui é principalmente do movimento intelectual latino-americano, devendo-se notar que neste, colonialidade é diferente de colonialismo. Mignolo por exemplo diz que a "colonialidade nomeia a lógica subjacente da fundação e do desdobramento da civilização ocidental desde o Renascimento até hoje, da qual colonialismos históricos têm sido uma dimensão constituinte, embora minimizada". A modernidade tem um componente mítico pouco conhecido no imaginário popular, sintetizado com extrema clareza pelo Dussel (1993). Essa colonialidade é um dos principais dispostivos de marginalização de coletivos multiespécie. Incluímos também algumas refrências que sem ser parte do referido movimento, destacam-se pela abordagem mais-que-humana.
+O recorte aqui é principalmente do movimento intelectual latino-americano, devendo-se notar que neste, colonialidade é diferente de colonialismo. Mignolo por exemplo diz que a "colonialidade nomeia a lógica subjacente da fundação e do desdobramento da civilização ocidental desde o Renascimento até hoje, da qual colonialismos históricos têm sido uma dimensão constituinte, embora minimizada". A modernidade tem um componente mítico pouco conhecido no imaginário popular, sintetizado com extrema clareza pelo Dussel (1993). Essa colonialidade é um dos principais dispositivos de marginalização de coletivos multiespécie. Incluímos também algumas referências que sem ser parte do referido movimento, destacam-se pela abordagem mais-que-humana.
 
 Palavras chave: giro decolonial, Grupo Modernidade/Colonialidade, colonialismo, colonialidade, neocolonial, decolonialidade, transmodernidade, culturas híbridas, epistemologias do Sul, Sul global, ecologia de saberes, interculturalidade, pós-colonial.
 
@@ -250,6 +250,7 @@ Palavras chave: giro decolonial, Grupo Modernidade/Colonialidade, colonialismo, 
 * Santos, B. S., & Paula, M. M. (2010). Epistemologias do sul. Cortez Editora.
 * [Epistemologies of the South](https://www.routledge.com/Epistemologies-of-the-South/book-series/EPISTEMOLOGIES) (Coleção de livros).
 * Latour, B. (2012). We have never been modern. Harvard university press.
+* Latour, B. (2019). Jamais fomos modernos. Ensaio de antropologia simétrica.
 
 [Volte ao índice](#indice)
 
@@ -291,7 +292,7 @@ Uma pequena lista frente à urgência de pensar diferente.
 
 ### <a name="justicia">Justícia multiespécie</a>
 
-As inquidiades são um conceito fundamental da determinação social da saúde e portanto são necessárias teorias de justícia multiespécie na SUP.
+As iniquidades são um conceito fundamental da determinação social da saúde e portanto são necessárias teorias de justícia multiespécie na SUP.
 
 * Nussbaum, M. C. (2006). Frontiers of justice: Disability, nationality, species membership (pp. 76-8). Cambridge, MA: Belknap Press.
 * Blattner, C. E., Coulter, K., & Kymlicka, W. (Eds.). (2019). Animal Labour: A New Frontier of Interspecies Justice?. Oxford University Press.
@@ -312,15 +313,15 @@ Algumas periferias para promover a SUP.
 
 #### Doenças negligenciadas
 
-Embora insuficiente, já existe mobilização para abordar as doenças negligenciadas. Essa mobilização pode ser aproveitada para promover a SUP, lembrando que mais do que doenças há coletivos multiespécie negligenciados.
+Embora insuficiente, já existe mobilização para abordar as doenças negligenciadas. Essa mobilização pode ser aproveitada para promover a SUP, lembrando que mais do que doenças negligenciadas, há coletivos multiespécie negligenciados.
 
 * Trouiller, P., Olliaro, P., Torreele, E., Orbinski, J., Laing, R., & Ford, N. (2002). Drug development for neglected diseases: a deficient market and a public-health policy failure. The Lancet, 359(9324), 2188-2194.
 * Manderson, L., Aagaard-Hansen, J., Allotey, P., Gyapong, M., & Sommerfeld, J. (2009). Social research on neglected diseases of poverty: continuing and emerging themes. PLoS Negl Trop Dis, 3(2), e332.
 <br>
 
-#### Violências doméstica
+#### Violência doméstica
 
-A relação entre diferentes tipos de vítimas da violência doméstica tem sido amplamente estudada, privilegiando abordagens focadas em fatores individuais e psicopatológicos, e nas violências reprovadas socialmente. Mas qual o efeito das condições estruturais (sociais, culturais, econômicas) que transcendem o indivíduo? Como a violência doméstica  retroalimenta essas condições? E as violências socialmente invisíveis? Essas são algumas das perguntas que nos fazemos no
+A relação entre diferentes tipos de vítimas da violência doméstica tem sido amplamente estudada, privilegiando abordagens focadas em fatores individuais e psicopatológicos, e nas violências reprovadas socialmente. Mas qual o efeito das condições estruturais (sociais, culturais, econômicas) que transcendem o indivíduo? Como a violência doméstica  retroalimenta essas condições? Que tipos de violência têm ampla aceitação social? Essas são algumas das perguntas que nós fazemos no
 contexto da promoção decolonial da SUP.
 
 * Flynn, C. P. (2011). Examining the links between animal abuse and human violence. Crime, law and social change, 55(5), 453-468.
@@ -333,7 +334,7 @@ contexto da promoção decolonial da SUP.
 
 #### Favelas
 
-Nas favelas há múltiplas periferias e entras mais invisibilizadas estão as animais não humanas. Assim, não surpreende que a literatura, ja escassa, omita ainda mais a existência de coletivos multiespécie.
+Nas favelas há múltiplas periferias e entras mais invisibilizadas estão as constituídas por animais não humanas. Assim, não surpreende que a literatura acadêmica omita ainda mais a existência de coletivos multiespécie.
 
 * Butala, N. M., VanRooyen, M. J., & Patel, R. B. (2010). Improved health outcomes in urban slums through infrastructure upgrading. Social science & medicine, 71(5), 935-940.
 * Sclar, E. D., Garau, P., & Carolini, G. (2005). The 21st century health challenge of slums and cities. The Lancet, 365(9462), 901-903.
@@ -364,7 +365,7 @@ A mobilização é menor quando se trata de coletivos multiespécie em situaçã
 
 #### Experimentação em animais
 
-As revisões sistemáticas oferecem a evidência científica mais robusta sobres os achados das pesquisas de um dado fenômeno. Essa evidência, somada a considerações éticas e interesses do complexo animal-industrial, oferecem uma visão mais abrangente das determinações da saúde dos coletivos multiespécie desta periferia. As referências desta lista mostram que a experimentação animal não leva invariavelmente a benefícios para a saúde humana e pode inclusive comprometer os avanços
+As revisões sistemáticas oferecem a evidência científica mais robusta sobres os achados das pesquisas de um dado fenômeno. Essa evidência, somada a considerações éticas e interesses do complexo animal-industrial, oferecem uma visão mais abrangente das determinações da saúde dos coletivos multiespécie dessa periferia. As referências desta lista mostram que a experimentação animal não leva invariavelmente a benefícios para a saúde humana e pode inclusive comprometer os avanços
 médicos que pretende suportar. É necessário mais rigor científico e embasamento ético para evitar sofrimento desnecessário.
 
 * Sandercock, P., & Roberts, I. (2002). Systematic reviews of animal experiments. The Lancet, 360(9333), 586.
@@ -380,7 +381,7 @@ médicos que pretende suportar. É necessário mais rigor científico e embasame
 
 #### Externalidades do agronegócio
 
-Para termos soberania e segurança alimentar é necessário desconstruir a ideologia do agronegócio. Precisamos comida saudável e sustentável, não periferias doentes decorrentes do lucro de transnacionais.
+Para termos soberania e segurança alimentar é necessário desconstruir a ideologia do agronegócio. Precisamos comida saudável e sustentável, no lugar de transnacionais geradoras de pobreza e enfermidade.
 
 * Neo, H., & Emel, J. (2017). Geographies of meat: Politics, economy and culture. Taylor & Francis.
 * Wallace, R. (2016). Big farms make big flu: dispatches on influenza, agribusiness, and the nature of science. NYU Press.
@@ -400,6 +401,6 @@ Para termos soberania e segurança alimentar é necessário desconstruir a ideol
 
 ---
 
-Imagem panorâmica: foto dos nossos grandes amigos de [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Imagem panorâmica: foto des nosses amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)
 
 
