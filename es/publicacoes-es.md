@@ -6,11 +6,11 @@ original: publicacoes-pt
 
 ### <a name="indice">Índice</a>
 
-* [Una Salud de las Periferias: biopolítica, determinación social e campo de praxis](#sup01)
-* [De la Salud Planetaria moderna a la promoción decolonial de Una Salud de las Periferias](#sup02)
-* [Vulnerabilidad social, esporotricosis e lugares a ser priorizados](#esporo01)
-* [Violencia interpersonal, abuso animal y vulnerabilidad social en la ciudad de São Paulo](#viol01)
-* [Dinámica espacio-temporal y factores de riesgo de leptospirosis humana en Brasil](#lepto01)
+* [Una Salud de las Periferias: biopolítica, determinación social e campo de praxis.](#sup01)
+* [De la Salud Planetaria moderna a la promoción decolonial de Una Salud de las Periferias.](#sup02)
+* [Vulnerabilidad social, esporotricosis y lugares a ser priorizados.](#esporo01)
+* [Violencia interpersonal, abuso animal y vulnerabilidad social en la ciudad de São Paulo.](#viol01)
+* [Dinámica espacio-temporal y factores de riesgo de leptospirosis humana en Brasil.](#lepto01)
 
 ---
 
@@ -61,7 +61,7 @@ La traducción al español cuando sea publicada la versión final del texto.
 
 ---
 
-### <a name="esporo01">Vulnerabilidad social, esporotricosis e lugares a ser priorizados</a>
+### <a name="esporo01">Vulnerabilidad social, esporotricosis e lugares a ser priorizados.</a>
 
 <br>
 La esporotricosis es una enfermedad causa por hongos, es decir, es una micosis. Además de afectar gatos y en menor medida a perros, puede ser transmitida de estos animales a los humanos, siendo por lo tanto una zoonosis. Cuando la enfermedad es desatendidas, lesiones que podrían ser oportunamente tratadas avanzan como ilustrado en las fotos a seguir. Las epidemias de esporotricosis vienen afectando a Rio de Janeiro y otras ciudades de las regiones Sur y Sureste, especialmente la ciudad de Guarulhos (SP), donde el Centro de Control de Zoonosis detectó el primer caso en la favela de los Pallets en 2011 (en la época que sufrió reintegración de posesión y un incendio que mató un bebé y un adolescente) y desde entonces reportó un crecimiento exponencial de casos hasta 2017, período analizado en la presente investigación. Por medio de esta última se identificaron áreas (sectores censales) de Guarulhos que deben ser priorizados de acuerdo con predicciones de modelos estadísticos espaciales, y se generó evidencia compatible con un proceso que explica por que las epidemias de esporotricosis afectan predominantemente las áreas más vulnerables. La investigación fue realizada por el Laboratório de Epidemiologia e Bioestatística del Departamento de Medicina Veterinária Preventiva e Saúde Animal de la Faculdade de Medicina Veterinária e Zootecnia (LEB-VPS-FMVZ-USP) por Ligia Scuarcialupi, Fernando Pereira (CCZ de Guarulhos), e Oswaldo Santos Baquero.
@@ -112,7 +112,7 @@ La esporotricosis es una enfermedad causa por hongos, es decir, es una micosis. 
 
 ---
 
-### <a name="viol01">Violencia interpersonal, abuso animal y vulnerabilidad social en la ciudad de São Paulo<a/>
+### <a name="viol01">Violencia interpersonal, abuso animal y vulnerabilidad social en la ciudad de São Paulo.<a/>
 
 <br>
 Hay múltiples estudios relacionando la violencia entre humanos y la violencia contra animales, siendo esa relación conocida como “el hilo” (the Link). La mayoría de tales estudios atribuye la violencia a características individuales del perpetrador (usa los individuos como unidad de análisis), ignorando o dejando en segundo plano el contexto sociocultural en que la violencia ocurre. Es mucho lo que hemos aprendido de ese abordaje, pero también es bastante lo que no nos permite entender. Por esa
@@ -139,13 +139,13 @@ subdivisiones geográficas no. Adicionalmente, la vulnerabilidad del contexto ge
 ### <a name="lepto01">Dinámica espacio-temporal y factores de riesgo de leptospirosis humana en Brasil.</a>
 
 <br>
-Entre los años 2000 y 2016 hubo 63,302 casos y 6,064 muertes por leptospirosis humana notificados en Brasil. En este estudio se identificaron los Estados Brasileros a ser priorizados con base en el número de casos y muerte en ese periodo. También se evaluó la influencia de factores climáticos y socio-económicos en la dinámica de la ocurrencia de la enfermedad. Para esto se usaron imágenes satelitales y mediciones relacionadas al manejo de basuras, al analfabetismo y a la pobreza. El Estado de Acre fue sistemáticamente el más afectado, demandando un aporte de recursos mucho mayor que los Estados restantes. Esta investigación fue realizada pensando en priorizar los Estados más afectados, aunque sin haber iniciado todavía la concepción de la SUP. Eso favoreció una discusión tecnicista de los hallazgos, sin siquiera apuntar los procesos que posibilitan la marginalización social y sanitaria de los Estados más afectados. De esa forma el estudio dejó de sumar explícitamente a la demanda por cambios estructurales, sin los cuáles las intervenciones de salud continuarán siendo fragmentadas, superficiales e incapaces de resolver los problemas de base. La investigación fue realizada por los profesores Oswaldo Santos Baquero, y Gustavo Machado (Universidad de Carolina del Norte).
+Entre los años 2000 y 2016 hubo 63,302 casos y 6,064 muertes por leptospirosis humana notificados en Brasil. En este estudio se identificaron los Estados brasileros a ser priorizados con base en el número de casos y muerte en ese periodo. También se evaluó la influencia de factores climáticos y socio-económicos en la dinámica de la ocurrencia de la enfermedad. Para esto se usaron imágenes satelitales y mediciones relacionadas al manejo de basuras, al analfabetismo y a la pobreza. El Estado de Acre fue sistemáticamente el más afectado, demandando un aporte de recursos mucho mayor que los Estados restantes. Esta investigación fue realizada pensando en priorizar los Estados más afectados, aunque sin haber iniciado todavía la concepción de la SUP. Eso favoreció una discusión tecnicista de los hallazgos, sin siquiera apuntar los procesos que posibilitan la marginalización social y sanitaria de los Estados más afectados. De esa forma el estudio dejó de sumar explícitamente a la demanda por cambios estructurales, sin los cuáles las intervenciones de salud continuarán siendo fragmentadas, superficiales e incapaces de resolver los problemas de base. La investigación fue realizada por los profesores Oswaldo Santos Baquero, y Gustavo Machado (Universidad de Carolina del Norte).
 
 <br>
 
 <figure>
 <img class="fig" src="{{root}}/assets/publicacoes/lepto01/lepto.gif" width=350 height=auto >
-<figcaption>Dinámica espacio-temporal del exceso de riesgo de casos de leptospirosis humana en los Estados Brasileros entre 2000 y 2016. Ese exceso de riesgo [Pr(RR > 1)] representa la probabilidad de que los Estados tengan más casos que la media de casos en Brasil, considerando los respectivos tamaños poblacionales.</figcaption>
+<figcaption>Dinámica espacio-temporal del exceso de riesgo de casos de leptospirosis humana en los Estados brasileros entre 2000 y 2016. Ese exceso de riesgo [Pr(RR > 1)] representa la probabilidad de que los Estados tengan más casos que la media de casos en Brasil, considerando los respectivos tamaños poblacionales.</figcaption>
 </figure>
 
 <br>
@@ -153,7 +153,7 @@ Entre los años 2000 y 2016 hubo 63,302 casos y 6,064 muertes por leptospirosis 
 
 <figure>
 <img class="fig" src="{{root}}/assets/publicacoes/lepto01/lepto-pi.jpg" width=350 height=auto >
-<figcaption>Índice de prioridad (PI) de los Estados, conforme la cantidad relativa de casos. Un Estado con PI de 100 tiene el doble de prioridad que un Estado con PI de 50.</figcaption>
+<figcaption>Índice de priorización (PI) de los Estados, conforme la cantidad relativa de casos. Un Estado con PI de 100 tiene el doble de prioridad que un Estado con PI de 50.</figcaption>
 </figure>
 
 <br>
