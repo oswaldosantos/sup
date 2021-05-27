@@ -73,7 +73,7 @@ Encuentro que organizamos con nuestrxs amigxs de [Juegos Translúcidos](https://
 <img src="{{root}}/assets/projetos/sup-trans01/IMG_0010.JPG" width=350 height=auto >
 </figure>
 
-[Volte ao índice](#indice)
+[Vuelva al índice](#indice)
 
 <br>
 <br>
@@ -89,7 +89,7 @@ El lavado de las manos es un procedimiento que ayuda a prevenir zoonosis y otras
 <figcaption>Dibujo por Sebastián Mora.</figcaption>
 </figure>
 
-[Volte ao índice](#indice)
+[Vuelva al índice](#indice)
 
 <br>
 <br>
@@ -152,7 +152,7 @@ Algunas enfermedades están relativamente restrictas a las periferias, afectando
  <figcaption>Exceso de riesgo (RE) de esporotricosis felina en los sectores censales de Guarulhos entre 2011 y 2019. Ese exceso de riesgo representa la probabilidad de que la densidad de casos en los sectores sea mayor que la densidad de casos en la ciudad. Aquí asumimos que no se tenía información en los sectores silenciosos y predecimos el número de casos.</figcaption>
 </figure>
 
-[Volte ao índice](#indice)
+[Vuelva al índice](#indice)
 
 <br>
 <br>

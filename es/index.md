@@ -114,7 +114,7 @@ De la Salude Planetaria moderna a la promoción decolonial de Una Salud de las P
 
 ---
 
-### Proyetos
+### Proyectos
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <figure>
@@ -149,7 +149,7 @@ De la Salude Planetaria moderna a la promoción decolonial de Una Salud de las P
 </figure>
 </div>
 
-[Conozca algunos proyetos de la red SUP]({{site.url}}/sup/{{page.lang}}/projetos-{{page.lang}})
+[Conozca algunos proyectos de la red SUP]({{site.url}}/sup/{{page.lang}}/projetos-{{page.lang}})
 
 [Vuelva al inicio](#top)
 
