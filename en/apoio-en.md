@@ -6,7 +6,7 @@ original: apoio-pt
 
 ### [University of São Paulo (USP)](https://www5.usp.br/)
 
-<img src="{{site.url}}{{site.baseurl}}/assets/apoio/usp.jpg" width="40%" height="auto">
+<img src="{{site.url}}{{site.baseurl}}/assets/apoio/usp.jpg" width="20%" height="auto">
 
 <br>
 
@@ -36,3 +36,9 @@ original: apoio-pt
 
 <img src="{{site.url}}{{site.baseurl}}/assets/apoio/leb.jpg" width="20%" height="auto">
 <br>
+
+[Back to top](#top)
+
+---
+
+Panoramic image of our friend Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
