@@ -397,6 +397,6 @@ Para tener soberanía y seguridad alimentar es necesario desconstruir la ideolog
 
 ---
 
-Imagen panorámica: foto de nuestres amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Imagen panorámica de nuestres amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)
 
 

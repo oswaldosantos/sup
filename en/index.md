@@ -159,4 +159,4 @@ From modern Planetary Health to decolonial promotion of One Health of Peripherie
 
 ---
 
-Panoramic picture of our friends of [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Panoramic image of our friends of [Juegos translúcidos](https://www.juegostranslucidos.com/)

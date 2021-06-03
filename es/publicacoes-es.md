@@ -139,7 +139,7 @@ subdivisiones geográficas no. Adicionalmente, la vulnerabilidad del contexto ge
 ### <a name="lepto01">Dinámica espacio-temporal y factores de riesgo de leptospirosis humana en Brasil.</a>
 
 <br>
-Entre los años 2000 y 2016 hubo 63,302 casos y 6,064 muertes por leptospirosis humana notificados en Brasil. En este estudio se identificaron los Estados brasileros a ser priorizados con base en el número de casos y muerte en ese periodo. También se evaluó la influencia de factores climáticos y socio-económicos en la dinámica de la ocurrencia de la enfermedad. Para esto se usaron imágenes satelitales y mediciones relacionadas al manejo de basuras, al analfabetismo y a la pobreza. El Estado de Acre fue sistemáticamente el más afectado, demandando un aporte de recursos mucho mayor que los Estados restantes. Esta investigación fue realizada pensando en priorizar los Estados más afectados, aunque sin haber iniciado todavía la concepción de la SUP. Eso favoreció una discusión tecnicista de los hallazgos, sin siquiera apuntar los procesos que posibilitan la marginalización social y sanitaria de los Estados más afectados. De esa forma el estudio dejó de sumar explícitamente a la demanda por cambios estructurales, sin los cuáles las intervenciones de salud continuarán siendo fragmentadas, superficiales e incapaces de resolver los problemas de base. La investigación fue realizada por los profesores Oswaldo Santos Baquero, y Gustavo Machado (Universidad de Carolina del Norte).
+Entre los años 2000 y 2016 hubo 63,302 casos y 6,064 muertes por leptospirosis humana notificados en Brasil. En este estudio se identificaron los Estados brasileros a ser priorizados con base en el número de casos y muerte en ese periodo. También se evaluó la influencia de factores climáticos y socio-económicos en la dinámica de la ocurrencia de la enfermedad. Para esto se usaron imágenes satelitales y mediciones relacionadas al manejo de basuras, al analfabetismo y a la pobreza. El Estado de Acre fue sistemáticamente el más afectado, demandando un aporte de recursos mucho mayor que los Estados restantes. Esta investigación fue realizada pensando en priorizar los Estados más afectados, aunque sin haber iniciado todavía la concepción de la SUP. Concentró la atención en aspectos estadísticos y no discutió las implicaciones de la hipótesis propuesta y de los resultados. La investigación fue realizada por los profesores Oswaldo Santos Baquero, y Gustavo Machado (Universidade da Carolina do Norte).
 
 <br>
 
@@ -174,5 +174,5 @@ Entre los años 2000 y 2016 hubo 63,302 casos y 6,064 muertes por leptospirosis 
 
 ---
 
-Imagen panorámica: foto de nuestros amigos de [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Imagen panorámica de nuestres amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)
 

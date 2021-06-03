@@ -66,4 +66,4 @@ Aquí compartimos una lista de referencias que se caracteriza ante todo por ser 
 
 ---
 
-Imagen panorámica: foto de nuestres amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Imagen panorámica de nuestres amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)

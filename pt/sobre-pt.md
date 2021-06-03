@@ -42,5 +42,5 @@ A SUP enquanto rede vem trabalhando principalmente desde o Departamento de Medic
 
 <a name="um">1</a>: Veja as referências disponíveis na seção "Saiba Mais". Para uma discussão da determinação social da SUP, veja os manuscritos citados acima.
 
-Imagem panorâmica: foto do nosso amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
+Imagem panorâmica do nosso amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
 

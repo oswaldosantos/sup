@@ -8,7 +8,7 @@ original: index
 
 <br>
 
-<a name="inicio">A</a> Una Salud de las Periferias (SUP por sus siglas en portugués) comprende vivencias, entendimientos y transformaciones decoloniales de la salud de colectivos multiespecie marginalizados. Esos colectivos tienen una particularidad: están conformados por individuos de diferentes especies que se relacionan entre si y con otros elementos del entorno, dando lugar a ambientes complejos en los cuales las decisiones políticas e las relaciones sociales no envuelven apenas a los humanos y determinan la salud. Otros animales también hacen parte de un tejido social que se por un lado los beneficia, por otro los explora y utiliza para estructurar y legitimar jerarquías sociales. La SUP también es una red de personas, proyectos e instituciones dedicadas a la promoción de Una Salude de las Periferias.
+<a name="inicio">Una</a> Salud de las Periferias (SUP por sus siglas en portugués) comprende vivencias, entendimientos y transformaciones decoloniales de la salud de colectivos multiespecie marginalizados. Esos colectivos tienen una particularidad: están conformados por individuos de diferentes especies que se relacionan entre si y con otros elementos del entorno, dando lugar a ambientes complejos en los cuales las decisiones políticas e las relaciones sociales no envuelven apenas a los humanos y determinan la salud. Otros animales también hacen parte de un tejido social que se por un lado los beneficia, por otro los explora y utiliza para estructurar y legitimar jerarquías sociales. La SUP también es una red de personas, proyectos e instituciones dedicadas a la promoción de Una Salude de las Periferias.
 
 [Sepa más sobre la SUP]({{site.url}}/sup/{{page.lang}}/sobre-{{page.lang}})
 
@@ -159,4 +159,4 @@ De la Salude Planetaria moderna a la promoción decolonial de Una Salud de las P
 
 ---
 
-Imagen panorámica: foto de nuestros amigos de [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Imagen panorámica de nuestres amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)

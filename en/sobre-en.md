@@ -41,5 +41,5 @@ OHP as a network has been working mainly from (1) the Department of Preventive V
 
 <a name="um">1</a>: See the references available in the “Learn More” section. For a discussion of the social determination of OHP, see the manuscripts cited above.
 
-Panoramic picture of our friend Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
+Panoramic image of our friend Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
 

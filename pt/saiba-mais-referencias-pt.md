@@ -401,6 +401,6 @@ Para termos soberania e segurança alimentar é necessário desconstruir a ideol
 
 ---
 
-Imagem panorâmica: foto des nosses amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Imagem panorâmica des nosses amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)
 
 

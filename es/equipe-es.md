@@ -201,6 +201,16 @@ Médico veterinário e pedagogo. Profesor del Departamento de Medicina Veteriná
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/fernando.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Fernando Ferreira</b><br>
+Profesor del Departamento de Medicina Veterinária Preventiva e Saúde Animal (FMVZ-USP).<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/ericsson.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Ericsson Magnavita</b><br>
@@ -435,5 +445,5 @@ Estudiante de Medicina Veterinaria (FMVZ-USP), con beca del Programa Aprender na
 
 ---
 
-Imagen panorámica: foto de nuestro amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
+Imagen panorámica de nuestro amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
 

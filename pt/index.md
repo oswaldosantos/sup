@@ -158,4 +158,4 @@ Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Perif
 
 ---
 
-Imagem panorâmica: foto dos nossos amigos de [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Imagem panorâmica des nosses amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)

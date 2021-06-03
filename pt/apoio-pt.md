@@ -50,5 +50,5 @@ redirect_from: /apoio-pt
 
 ---
 
-Imagem panorâmica: foto do nosso amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
+Imagem panorâmica do nosso amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
 

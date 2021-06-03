@@ -33,5 +33,5 @@ redirect_from: /contato-pt
 
 ---
 
-Imagem panorâmica: foto des nosses amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Imagem panorâmica des nosses amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)
 

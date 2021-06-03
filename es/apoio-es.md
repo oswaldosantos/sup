@@ -50,5 +50,5 @@ original: apoio-pt
 
 ---
 
-Imagen panorámica: foto de nuestro amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
+Imagen panorámica de nuestro amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
 

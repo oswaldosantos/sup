@@ -40,5 +40,5 @@ La SUP como red viene trabajando principalmente desde el Departamento Medicina V
 
 <a name="um">1</a>: Vea las referencias disponibles en la sección "Sepa Más". Para una discusión de la determinación social de la SUP, vea los artículos citados anteriormente.
 
-Imagen panorámica: foto de nuestro amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
+Imagen panorámica de nuestro amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
 

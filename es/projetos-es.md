@@ -277,4 +277,4 @@ La importancia de las zoonosis se entiende al ver que 75% de las enfermedades in
 
 ---
 
-Imagen panorámica: foto de nuestro amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
+Imagen panorámica de nuestro amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)

@@ -286,4 +286,4 @@ A importância das zoonoses entende-se ao ver que 75% das doenças infecciosas e
 
 ---
 
-Imagem panorâmica: foto do nosso amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
+Imagem panorâmica do nosso amigo Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
