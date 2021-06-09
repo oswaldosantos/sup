@@ -135,7 +135,7 @@ Multiple studies relate human-to-human violence with human-to-animal violence, a
 
 ---
 
-### <a name="lepto01">Dinâmica espaçotemporal e fatores de risco da leptospirose humana no Brasil.</a>
+### <a name="lepto01">Spatiotemporal dynamics and risk factors for human Leptospirosis in Brazil.</a>
 
 <br>
 
