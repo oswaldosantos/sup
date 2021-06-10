@@ -52,9 +52,9 @@ Saúde Planetária é um conceito que emergiu recentemente no Norte global para 
 <figcaption>Mapa Invertido da América do Sul. Joaquim Torres Garcia.</figcaption>
 </figure>
 
-[Leia a publicação original (preprint)](https://preprints.scielo.org/index.php/scielo/preprint/view/2053)
+[Leia a publicação original](https://www.frontiersin.org/articles/10.3389/fpubh.2021.637897/full)
 
-A tradução ao português será disponibilizada assim que for publicada a versão final do texto.
+Espere em breve a tradução ao português.
 
 [Volte ao índice](#indice)
 

@@ -50,9 +50,7 @@ The concept of Planetary Health has recently emerged in the global North as a co
 <figcaption>Inverted Map of South America. Joaquim Torres Garcia.</figcaption>
 </figure>
 
-[Read the paper](https://www.frontiersin.org/articles/10.3389/fpubh.2021.637897/abstract)
-
-[Preprint](https://preprints.scielo.org/index.php/scielo/preprint/view/2053)
+[Read the paper](https://www.frontiersin.org/articles/10.3389/fpubh.2021.637897/full)
 
 [Back to index](#indice)
 
