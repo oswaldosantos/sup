@@ -263,6 +263,7 @@ Una pequeña lista frente a la urgencia de pensar diferente.
 
 * Churuchumbi, G. (2020). Usos cotidianos del término sumak kawsay en el territorio kayambi. Anaconda Comunicación Sim.
 * Churuchumbi, G. (2014). Usos cotidianos del término sumak kawsay en el territorio kayambi. Tesis de Maestría, Universidad Andina Simón Bolivar.
+* Marañón Pimentel, B. (2014). Buen Vivir y descolonialidad. Crítica al desarrollo y la racionalidad instrumentales. Universidad Nacional Autónoma de México.
 * Acosta, A. (2013). El Buen Vivir: Sumak Kawsay, una oportunidad para imaginar otros mundos. Icaria.
 * Acosta, A. (2019). O bem viver: uma oportunidade para imaginar outros mundos. Editora Elefante.
 * Krenak, A. (2019). Ideias para adiar o fim do mundo. Companhia das Letras.
