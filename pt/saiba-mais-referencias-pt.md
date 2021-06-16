@@ -236,7 +236,8 @@ Palavras chave: giro decolonial, Grupo Modernidade/Colonialidade, colonialismo, 
 
 * Belcourt, B. R. (2015). Animal bodies, colonial subjects:(Re) locating animality in decolonial thought. Societies, 5(1), 1-11.
 * Montford, K. S., & Taylor, C. (Eds.). (2020). Colonialism and Animality: Anti-colonial Perspectives in Critical Animal Studies. Routledge.
-* [Environmental Justice, Settler Colonialism, and More-than-Humans in the Occupied West Bank](https://journals.sagepub.com/toc/enea/4/1)(Número especial com vários artigos).
+* Deckha, M. (2012). Toward a postcolonial, posthumanist feminist theory: Centralizing race and culture in feminist work on nonhuman animals. Hypatia, 27(3), 527-545.
+* [Environmental Justice, Settler Colonialism, and More-than-Humans in the Occupied West Bank] (https://journals.sagepub.com/toc/enea/4/1)(Número especial com vários artigos).
 * Quijano, A. (2007). Coloniality and modernity/rationality. Cultural studies, 21(2-3), 168-178.
 * Mignolo, W. D. (2007). Delinking: The rhetoric of modernity, the logic of coloniality and the grammar of de-coloniality. Cultural studies, 21(2-3), 449-514.
 * Grosfoguel, R. (2007). The epistemic decolonial turn: Beyond political-economy paradigms. Cultural studies, 21(2-3), 211-223.
