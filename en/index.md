@@ -21,6 +21,28 @@ original: index
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+<br>
+06/28/2021
+<br>
+The webinar series <b>Insalubridade e frigoríficos</b> (slaughterhouses and ill-health), organized by the OHP network and the nPeriferias group, will address biosecurity discourses, precarious working conditions, risk classification, and violence spillover from animals and workers in slaughterhouses to neighbor communities. There will be four presentations in Portuguese, each one based on a study, and a fifth meeting to discuss a documentary.<br>
+Image source: We Animals.
+<br>
+<br>
+<a href="{{root}}/assets/docs/insalubridade-frigorificos.pdf">Learn more (Portuguese)</a>  and register for free. There will be participation certificates!
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/frigo.jpg" width=200 height=auto >
+</figure>
+</div>
+
+<br>
+<br>
+
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+04/10/2021
+<br>
 Professor Oswaldo Baquero from the OHP network is the guest speaker to discuss One Health of Peripheries in the <a href="https://linktr.ee/ivsa.ph?fbclid=IwAR2lyEeJqX309E6UZE_d_1Oj59mR_uutGHH0IDD073lVDuF9DyWgdmMPL-g">1st IVSA Regional Symposium of the Americas - Public Health</a>.
 </div>
 <figure>
@@ -33,6 +55,8 @@ Professor Oswaldo Baquero from the OHP network is the guest speaker to discuss O
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+04/02/2021
+<br>
 The Institute of Advanced Studies of the University of São Paulo publishes an article on the Pontes e Vivências de Saberes census, which collected human and animal demographic data, as well as socio-cultural and economic information. Professor Oswaldo Baquero from the SUP network is the coordinator of the animal census and one of the interviewees. Check out the Portuguese <a href="http://www.iea.usp.br/noticias/dados-preliminares-de-censo-mostram-crescimento-populacional-das-comunidades-vizinhas-a-usp">article</a>.
 </div>
 <figure>
@@ -46,6 +70,8 @@ The Institute of Advanced Studies of the University of São Paulo publishes an a
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+03/22/2021
+<br>
 Veterinarian Mayara Bertanhe of the OHP network presents the OHP network research entitled <i> Theory of planned behavior and hand hygiene by children and adolescents in the Jardim São Remo favela, São Paulo, Brazil</i>, in the<a href="https://ppgs.com.br/index.php">4&#176; Congresso Brasileiro de Política, Planejamento e Gestão de Saúde: O SUS e o projeto civilizatório: cenário, alternativas e propostas</a>.
 </div>
 <figure>
@@ -58,6 +84,8 @@ Veterinarian Mayara Bertanhe of the OHP network presents the OHP network researc
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+03/10/2021
+<br>
 The OHP project, among 223 Brazilian projects from different areas of knowledge, and despite its embryonic stage, receives the first place in the <a href="https://www.cenpec.org.br/premio-aprendizagem-solidaria">1&#176; Solidarity Learning Award - Transformative Experiences</a>. The OHP network thanks the São Remo community for all the lessons learned. It also acknowledges the Dean of Graduate Studies (Program Learning in the Community) and the Faculty of Veterinary Medicine and Animal Science of the University of São Paulo for their support. 
 </div>
 <figure>
@@ -70,6 +98,8 @@ The OHP project, among 223 Brazilian projects from different areas of knowledge,
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+02/25/2021
+<br>
 The OHP project is selected in the second call of the program Learning in the Community of the Undergraduate Dean's Office of the University of São Paulo. With this, the OHP network advances in the consolidation of participatory spaces to promote health through plural knowledge.
 </div>
 <figure>

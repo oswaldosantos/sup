@@ -20,6 +20,27 @@ title: Início
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+<br>
+28/06/2021
+<br>
+Série de webinários <b>Insalubridade e frigoríficos</b>, organizada pela rede SUP e o nPeriferias, abordará discursos de biossegurança, condições de trabalho precárias, tipificação de riscos, e transbordamento da violência sofrida por animais e trabalhadores para as comunidades vizinhas. Serão quatro apresentações, cada uma baseada numa pesquisa, e um quinto encontro para discutir um documentário.<br>
+Fonte da imagem: We Animals.
+<br>
+<br>
+<a href="{{root}}/assets/docs/insalubridade-frigorificos.pdf">Saiba mais</a> e inscreva-se gratuitamente. Haverá emissão de certificados!
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/frigo.jpg" width=200 height=auto >
+</figure>
+</div>
+
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+10/04/2021
+<br>
 O professor Oswaldo Baquero da rede SUP é o palestrante convidado para discutir a Saúde Única em Periferias no <a href="https://linktr.ee/ivsa.ph?fbclid=IwAR2lyEeJqX309E6UZE_d_1Oj59mR_uutGHH0IDD073lVDuF9DyWgdmMPL-g">1st IVSA Regional Symposium of the Americas - Public Health</a>.
 </div>
 <figure>
@@ -32,6 +53,8 @@ O professor Oswaldo Baquero da rede SUP é o palestrante convidado para discutir
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+02/04/2021
+<br>
 O Instituto de Estudos Avançados da Universidade de São Paulo publica matéria sobre censo Pontes e Vivências de Saberes, que coletou dados demográficos de humanos e animais, além de informações socioculturais e econômicas. O professor Oswaldo Baquero da rede SUP é o coordenador do censo animal e um dos entrevistados. Confira a <a href="http://www.iea.usp.br/noticias/dados-preliminares-de-censo-mostram-crescimento-populacional-das-comunidades-vizinhas-a-usp">matéria</a>.
 </div>
 <figure>
@@ -45,6 +68,8 @@ O Instituto de Estudos Avançados da Universidade de São Paulo publica matéria
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+22/03/2021
+<br>
 A Médica Veterinária Mayara Bertanhe da rede SUP apresenta a pesquisa da rede SUP intitulada <i>Teoria do comportamento planejado e higienização das mãos por crianças e adolescentes na favela Jardim São Remo, São Paulo, Brasil</i>, no <a href="https://ppgs.com.br/index.php">4&#176; Congresso Brasileiro de Política, Planejamento e Gestão de Saúde: O SUS e o projeto civilizatório: cenário, alternativas e propostas</a>.
 </div>
 <figure>
@@ -57,6 +82,8 @@ A Médica Veterinária Mayara Bertanhe da rede SUP apresenta a pesquisa da rede 
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+10/03/2021
+<br>
 O projeto SUP, concorrendo com 223 projetos brasileiros de diversas áreas do conhecimento, e apesar de estar na fase embrionária do desenvolvimento da rede SUP, recebe o primeiro lugar do <a href="https://www.cenpec.org.br/premio-aprendizagem-solidaria">1&#176; Prêmio Aprendizagem Solidária - Experiencias que transformam</a>. A rede SUP agradece à comunidade São Remo por todos os aprendizados, e à Pró-Reitoria de Graduação (Programa Aprender na Comunidade) e à Faculdade de Medicina Veterinária e Zootecnia da Universidade de São Paulo pelo apoio.
 </div>
 <figure>
@@ -69,6 +96,8 @@ O projeto SUP, concorrendo com 223 projetos brasileiros de diversas áreas do co
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+25/02/2021
+<br>
 O projeto SUP é selecionado no segundo edital do Programa Aprender na Comunidade da Pró-Reitoria de Graduação da Universidade de São Paulo. Com isto, a rede SUP avança na consolidação de espaços participativos para promover a saúde mediante saberes plurais.
 </div>
 <figure>
@@ -158,4 +187,4 @@ Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Perif
 
 ---
 
-Imagem panorâmica des nosses amiges de [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Imagem panorâmica dos nossos amigos de [Juegos translúcidos](https://www.juegostranslucidos.com/)

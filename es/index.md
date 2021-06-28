@@ -21,6 +21,27 @@ original: index
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+<br>
+28/06/2021
+<br>
+Serie de webinarios <b>Insalubridade e frigoríficos</b>, organizada por la red SUP y el grupo nPeriferias, abordará discursos de biosegurança, condiciones de trabajo precarias, tipificación de riesgos, y transbordamiento de la violencia sufrida por animales y trabajadores para las comunidades vecinas. Serán cuatro presentaciones en portugés, cada una basada en una investigación, y un quinto encuentro para discutir un documentario.<br>
+Fuente de la imagen: We Animals.
+<br>
+<br>
+<a href="{{root}}/assets/docs/insalubridade-frigorificos.pdf">Sepa más (português)</a> e inscriva se gratuitamente. Habrá emisión de certificados!
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/frigo.jpg" width=200 height=auto >
+</figure>
+</div>
+
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+10/04/2021
+<br>
 El profesor Oswaldo Baquero de la red SUP es el expositor invitado para discutir Una Salud de las Periferias en el <a href="https://linktr.ee/ivsa.ph?fbclid=IwAR2lyEeJqX309E6UZE_d_1Oj59mR_uutGHH0IDD073lVDuF9DyWgdmMPL-g">1st IVSA Regional Symposium of the Americas - Public Health</a>.
 </div>
 <figure>
@@ -33,6 +54,8 @@ El profesor Oswaldo Baquero de la red SUP es el expositor invitado para discutir
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+02/04/2021
+<br>
 El Instituto de Estudios Avanzados de la Universidad de São Paulo publica materia sobre el censo Pontes e Vivências de Saberes, que colectó datos demográficos de humanos y animales, además de informaciones socioculturales y económicas. El profesor Oswaldo Baquero de la red SUP es el coordinador del censo animal y uno de los entrevistados. Lea la <a href="http://www.iea.usp.br/noticias/dados-preliminares-de-censo-mostram-crescimento-populacional-das-comunidades-vizinhas-a-usp">materia</a>.
 </div>
 <figure>
@@ -46,6 +69,8 @@ El Instituto de Estudios Avanzados de la Universidad de São Paulo publica mater
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+22/03/2021
+<br>
 La Médica Veterinaria Mayara Bertanhe de la red SUP presenta una investigación de la red SUP denominada <i>Teoría del comportamiento planeado e higiene de las manos en niños de la favela Jardim São Remo.</i>, en el <a href="https://ppgs.com.br/index.php">4&#176; Congresso Brasileiro de Política, Planejamento e Gestão de Saúde: O SUS e o projeto civilizatório: cenário, alternativas e propostas</a>.
 </div>
 <figure>
@@ -58,6 +83,8 @@ La Médica Veterinaria Mayara Bertanhe de la red SUP presenta una investigación
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+10/03/2021
+<br>
 El proyecto SUP, concursando con 223 proyectos brasileros de diversas áreas del conocimiento, y a pesar de estar en la fase embrionaria del desarrollo de la red SUP, recibe el primer lugar del <a href="https://www.cenpec.org.br/premio-aprendizagem-solidaria">1&#176; Prêmio Aprendizagem Solidária - Experiencias que transformam</a>. La red SUP le agradece a la comunidad São Remo por todo el aprendizaje, y a la Pró-Reitoria de Graduação (Programa Aprender na Comunidade) y a la Faculdade de Medicina Veterinária e Zootecnia de la Universidade de São Paulo por el apoyo.
 </div>
 <figure>
@@ -70,6 +97,8 @@ El proyecto SUP, concursando con 223 proyectos brasileros de diversas áreas del
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+25/02/2021
+<br>
 El proyecto SUP es seleccionado en la segunda convocatoria del Programa Aprender na Comunidade de la Pró-Reitoria de Graduação de la Universidade de São Paulo. Con esto, la red SUP avanza en la consolidación de espacios participativos para promover la salud mediante saberes plurales.
 </div>
 <figure>
