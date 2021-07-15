@@ -26,9 +26,7 @@ Amid the urgency to solve countless and severe health problems, asking what is h
 <img src="{{root}}/assets/publicacoes/sup01/su-sup-{{page.lang}}.gif" width=350 height=auto >
 </figure>
 
-[Read the paper](https://www.frontiersin.org/articles/10.3389/fpubh.2021.617003/abstract)
-
-[Preprint](https://preprints.scielo.org/index.php/scielo/preprint/view/2019)
+[Read the paper](https://www.frontiersin.org/articles/10.3389/fpubh.2021.617003/full)
 
 [Back to index](#indice)
 

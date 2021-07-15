@@ -26,7 +26,7 @@ Frente a la urgencia para resolver innúmeros e severos problemas de salud, preg
 <img src="{{root}}/assets/publicacoes/sup01/su-sup-{{page.lang}}.gif" width=350 height=auto >
 </figure>
 
-[Lea la publicación original (preprint)](https://preprints.scielo.org/index.php/scielo/preprint/view/2019)
+[Lea la publicación original)](https://www.frontiersin.org/articles/10.3389/fpubh.2021.617003/full)
 
 La traducción al español cuando sea publicada la versión final del texto.
 

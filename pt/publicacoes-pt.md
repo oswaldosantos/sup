@@ -27,7 +27,7 @@ Diante da urgência para resolver inúmeros e severos problemas de saúde, pergu
 <img src="{{root}}/assets/publicacoes/sup01/su-sup-{{page.lang}}.gif" width=350 height=auto >
 </figure>
 
-[Leia a publicação original (preprint)](https://preprints.scielo.org/index.php/scielo/preprint/view/2019)
+[Leia a publicação original](https://www.frontiersin.org/articles/10.3389/fpubh.2021.617003/full)
 
 A tradução ao português será disponibilizada assim que for publicada a versão final do texto.
 
