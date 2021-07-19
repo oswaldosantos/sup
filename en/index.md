@@ -22,6 +22,18 @@ original: index
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 <br>
+19/07/2021
+<br>
+The project Agente Mirim da Saúde Única em Periferias opens a call to offer scholarships to adolescents who will participate in community actions to promote OHP. Check out the call <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">here</a>.
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
+</figure>
+</div>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+<br>
 06/28/2021
 <br>
 The webinar series <b>Insalubridade e frigoríficos</b> (slaughterhouses and ill-health), organized by the OHP network and the nPeriferias group, will address biosecurity discourses, precarious working conditions, risk classification, and violence spillover from animals and workers in slaughterhouses to neighbor communities. There will be four presentations in Portuguese, each one based on a study, and a fifth meeting to discuss a documentary.<br>

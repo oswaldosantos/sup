@@ -21,6 +21,18 @@ title: Início
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 <br>
+19/07/2021
+<br>
+O projeto Agente Mirim da Saúde Única em Periferias abre as inscrições para a seleção de bolsistas adolescentes que participarão em ações comunitárias de promoção da SUP. Confira o edital <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">aqui</a>.
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
+</figure>
+</div>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+<br>
 28/06/2021
 <br>
 Série de webinários <b>Insalubridade e frigoríficos</b>, organizada pela rede SUP e o nPeriferias, abordará discursos de biossegurança, condições de trabalho precárias, tipificação de riscos, e transbordamento da violência sofrida por animais e trabalhadores para as comunidades vizinhas. Serão quatro apresentações, cada uma baseada numa pesquisa, e um quinto encontro para discutir um documentário.<br>

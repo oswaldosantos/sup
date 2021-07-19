@@ -22,6 +22,18 @@ original: index
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 <br>
+19/07/2021
+<br>
+El proyecto Agente Mirim da Saúde Única em Periferias abre las inscripciones para la selección de becarios adolescentes que participarán en acciones comunitarias de promoción de la SUP. Vea la convocatoria <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">aqui</a>.
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
+</figure>
+</div>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+<br>
 28/06/2021
 <br>
 Serie de webinarios <b>Insalubridade e frigoríficos</b>, organizada por la red SUP y el grupo nPeriferias, abordará discursos de biosegurança, condiciones de trabajo precarias, tipificación de riesgos, y transbordamiento de la violencia sufrida por animales y trabajadores para las comunidades vecinas. Serán cuatro presentaciones en portugés, cada una basada en una investigación, y un quinto encuentro para discutir un documentario.<br>
