@@ -8,6 +8,7 @@ redirect_from: /publicacoes-pt
 
 * [Saúde Única em Periferias: biopolítica, determinação social e campo de práxis.](#sup01)
 * [Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Periferias.](#sup02)
+* [Vivências da pandemia na São Remo: um discurso coletivo](#covid01)
 * [Vulnerabilidade social, esporotricose e lugares a serem priorizados.](#esporo01)
 * [Violência interpessoal, abuso animal e vulnerabilidade social no município de São Paulo.](#viol01)
 * [Dinâmica espaçotemporal e fatores de risco da leptospirose humana no Brasil.](#lepto01)
@@ -29,7 +30,7 @@ Diante da urgência para resolver inúmeros e severos problemas de saúde, pergu
 
 [Leia a publicação original](https://www.frontiersin.org/articles/10.3389/fpubh.2021.617003/full)
 
-A tradução ao português será disponibilizada assim que for publicada a versão final do texto.
+Espere em breve a tradução ao português.
 
 [Volte ao índice](#indice)
 
@@ -64,6 +65,36 @@ Espere em breve a tradução ao português.
 
 ---
 
+### <a name="covid01">Vivências da pandemia na São Remo: um discurso coletivo.<a/>
+
+<br>
+
+O Jardim São Remo é uma comunidade da Zona Oeste do município de São Paulo, onde a vivência da pandemia de Covid-19 se assemelha à de outras periferias urbanas em alguns aspectos e difere em outros. Na comunidade, as vivências também misturam elementos comuns a todos os seus integrantes e particularidades de cada grupo, família e indivíduo. Entre janeiro e abril de 2021, houve uma construção coletiva para retratar vivências de alguns moradores da São Remo, considerando diversas experiências e memórias registradas em entrevistas ou durante a aplicação de um método fotográfico de pesquisa comunitária conhecido como Photovoice.
+
+O texto a seguir é um discurso coletivo composto por vários desses registros, cuja construção apoiou-se parcialmente em algumas ideias  de um método denominado discurso do sujeito coletivo. Nem todos os registros foram utilizados e a forma de articulá-los foi uma entre
+muitas. O resultado traz nuanças, afetos e retratos que reforçam o que parece óbvio e continua negligenciado e expondo uma contradição crônica: as comunidades marginalizadas continuam sofrendo desproporcionalmente os danos coletivos, com o qual essa marginalização se aprofunda e as crises se intensificam. Mas não é só isso. O resultado traz também aprendizados e pontos de vista necessários para superar o mal-estar crônico.
+
+Alguns fragmentos do texto foram modificados, principalmente para concatenar as ideias, acrescentar termos implícitos no contexto original e aumentar a concordância de número e gênero entre frases de registros diferentes. Essas modificações estão em cinza.
+
+Vale salientar que apesar de termos usado alguns elementos do Photovoice e do discurso do sujeito coletivo, este documento não relata a aplicação desses métodos nem o que resultaria dessa
+aplicação. Outros documentos abordarão aspectos metodológicos
+e seus respectivos resultados, valendo-se de registros adicionais e reaproveitando alguns dos utilizados aqui.
+<br>
+
+<figure>
+<img src="{{root}}/assets/publicacoes/covid01/covid01-{{page.lang}}.png" width=350 height=auto >
+</figure>
+
+<a href="{{root}}/assets/publicacoes/covid01/vivencias-{{page.lang}}.pdf">Leia a publicação<a/>
+
+
+[Volte ao índice](#indice)
+
+<br>
+<br>
+<br>
+
+---
 ### <a name="esporo01">Vulnerabilidade social, esporotricose e lugares a serem priorizados.</a>
 
 <br>
