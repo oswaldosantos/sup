@@ -8,17 +8,6 @@ redirect_from: /equipe-pt
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/beatriz.jpg" class="imagem-pessoa" ><br>
-<div>
-<b>Beatriz Gagete Veríssimo de Mello</b><br>
-Formada em Medicina Veterinária pela FMVZ da UNESP Botucatu e mestranda em Epidemiologia Experimental aplicada às Zoonoses pela FMVZ USP. Também permacultora e terapeuta de Ayurveda, busco uma visão holística da vida e a harmonia com a natureza.
-<br>
-<a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
-</div>
-</div>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/evelise.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Evelise Oliveira Telles</b><br>
@@ -29,14 +18,23 @@ Professora do Departamento de Medicina Veterinária Preventiva e Saúde Animal. 
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/gisella.jpg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/julia.jpeg" class="imagem-pessoa" ><br>
 <div>
-<b>Gisella Dias</b><br>
-Sou médica veterinária, mestranda em Epidemiologia experimental no Laboratório de Epidemiologia e Bioestatística na USP. Sou apaixonada por animais, gosto de ler, ver séries e viajar. Sou membro da coordenação da rede SUP desde 2020, onde aprendo novas visões sobre a saúde de coletivos multiespécie em diferentes contextos e realidades. 
+<b>Júlia Amorim</b><br>
+Sou médica veterinária formada pela Pontifícia Universidade Católica de Minas Gerais (PUC-Minas). Atuo no âmbito de Medicina Veterinária Legal como perita no Ministério Público de Minas Gerais (MPMG) e como técnica no Instituto de Medicina Veterinária do Coletivo (IMVC). Luto para alterar o paradigma acerca da superioridade humana, que fornece meios para que os animais sejam considerados espécies inferiores, e considero a Saúde Única como prática primordial para promoção de saúde. <br>
+</div>
+</div>
 <br>
-<a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/julia-da-mata.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Júlia da Mata</b><br>
+Mulher, negra e nordestina estudante de medicina veterinária na FMVZ-USP. Atualmente me interesso por tópicos de segurança alimentar e resistência à antimicrobianos, e no tempo livre maratono séries, pratico yoga e improviso pontos no crochê. <br>
 </div>
 </div>
+<br>
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
@@ -45,16 +43,6 @@ Sou médica veterinária, mestranda em Epidemiologia experimental no Laboratóri
 <b>Ligia Neves Scuarcialupi</b><br>
 Sou formada em Medicina Veterinária pela Universidade de São Paulo, e atualmente faço mestrado pelo Laboratório de Epidemiologia e Bioestatística. Gosto de estudar zoonoses, principalmente a esporotricose. Também adoro viajar, ler meus livros e passar o tempo com pessoas queridas e com as minhas gatinhas!
 <br>
-<a href="http://portal.fmvz.usp.br/">FMVZ-USP</a><br>
-</div>
-</div>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/mayara.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Mayara Bertanhe</b><br>
-É médica veterinária da FMVZ-USP e trabalha com genômica e virologia. É membro da rede SUP desde 2019.<br>
 <a href="http://portal.fmvz.usp.br/">FMVZ-USP</a><br>
 </div>
 </div>
@@ -113,6 +101,17 @@ Docente da Atenção Primária à Saúde do Curso de Fisioterapia da Faculdade d
 </div>
 </div>
 <br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/beatriz.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Beatriz Gagete Veríssimo de Mello</b><br>
+Formada em Medicina Veterinária pela FMVZ da UNESP Botucatu e mestranda em Epidemiologia Experimental aplicada às Zoonoses pela FMVZ USP. Também permacultora e terapeuta de Ayurveda, busco uma visão holística da vida e a harmonia com a natureza.
+<br>
+<a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
+</div>
+</div>
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
@@ -220,6 +219,17 @@ Me chamo ERICSSON MAGNAVITA sou um dos articuladores dentro da são remo e atuo 
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/gisella.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Gisella Dias</b><br>
+Sou médica veterinária, mestranda em Epidemiologia experimental no Laboratório de Epidemiologia e Bioestatística na USP. Sou apaixonada por animais, gosto de ler, ver séries e viajar. Sou membro da coordenação da rede SUP desde 2020, onde aprendo novas visões sobre a saúde de coletivos multiespécie em diferentes contextos e realidades. 
+<br>
+<a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
+</div>
+</div>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/gislene.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Gislene Aparecida dos Santos</b><br>
@@ -234,16 +244,6 @@ Professora da Universidade de São Paulo (USP), lecionando no curso de graduaç�
 <div>
 <b>Juliana Tozzi de Almeida</b><br>
 Médica Veterinária, pela Universidade Federal do Espírito Santo (2013); Mestre em Ciências Veterinárias, pela Universidade Federal do Paraná (2017), vinculada ao Laboratório de Bem-estar Animal (LABEA) e atualmente doutoranda em Medicina Veterinária Preventiva e Saúde animal pela FMVZ-USP (SP). Membro da rede SUP desde 2019. Atua com o olhar para a sociedade através dos animais, em prol de uma coexistência mais harmônica entre as espécies. <br>
-</div>
-</div>
-<br>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/julia.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Júlia Amorin</b><br>
-Sou médica veterinária formada pela Pontifícia Universidade Católica de Minas Gerais (PUC-Minas). Atuo no âmbito de Medicina Veterinária Legal como perita no Ministério Público de Minas Gerais (MPMG) e como técnica no Instituto de Medicina Veterinária do Coletivo (IMVC). Luto para alterar o paradigma acerca da superioridade humana, que fornece meios para que os animais sejam considerados espécies inferiores, e considero a Saúde Única como prática primordial para promoção de saúde. <br>
 </div>
 </div>
 <br>
@@ -337,6 +337,16 @@ Moradora da comunidade São Remo, protetora de animais e realizadora de diversas
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/danielle-santos.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Danille Santos</b><br>
+Graduanda do terceiro semestre em Medicina Veterinária pela FMVZ-USP e bolsista SUP.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/giovanna.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Giovanna Guimarães Casoni</b><br>
@@ -392,16 +402,6 @@ Estudante da Faculdade de Odontologia da Universidade de São Paulo.<br>
 <div>
 <b>Raissa Nouér de Oliveira</b><br>
 Estudante de Medicina Veterinária pela FMVZ-USP. É integrante do Departamento de Extensão do Centro Acadêmico desde 2019, e voluntária no Projeto Medicina Aviária: Saúde no Parque e em ações em aldeias indígenas pela ONG APINAN. Foi uma das precursoras do projeto “Saúde única nas aldeias do Jaraguá” por meio do projeto “VIAJ - Veterinário Itinerante: Aldeias do Jaraguá”.<br>
-</div>
-</div>
-<br>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/raquel.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Raquel Gomes Catozo</b><br>
-Vice-presidente do Centro Acadêmico da FMVZ-USP. Integrante do coletivo Ercilia Cobra - idealizadora do projeto Sangue Livre para doação de absorventes para mulheres em situação de vulnerabilidade.<br>
 </div>
 </div>
 <br>

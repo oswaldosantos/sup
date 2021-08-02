@@ -10,17 +10,6 @@ original: equipe-pt
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/beatriz.jpg" class="imagem-pessoa" ><br>
-<div>
-<b>Beatriz Gagete Veríssimo de Mello</b><br>
-Médica Veterinaria de la FMVZ-UNESP Botucatu y candidata de maestría en Epidemiologia Experimental aplicada às Zoonoses de la FMVZ USP. También permacultora y terapeuta de Ayurveda. Busco una visión holística de la vida y la harmonía con la naturaleza.
-<br>
-<a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
-</div>
-</div>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/evelise.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Evelise Oliveira Telles</b><br>
@@ -31,14 +20,24 @@ Profesora del Departamento de Medicina Veterinária Preventiva e Saúde Animal (
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/gisella.jpg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/julia.jpeg" class="imagem-pessoa" ><br>
 <div>
-<b>Gisella Dias</b><br>
-Soy médica veterinária, canidata de maestría en Epidemiologia experimental en el Laboratório de Epidemiologia e Bioestatística (FMVZ-USP). Soy apacionada por animales, me gusta leer, ver seriados y viajar. Soy miembro de la coordinación de la rede SUP desde el 2020, donde aprendo nuevas visiones sobre la salud de colectivos multiespecie en diferentes contextos y realidades. 
+<b>Júlia Amorim</b><br>
+Soy médica veterinaria de la Pontifícia Universidade Católica de Minas Gerais (PUC-Minas). Act en el ámbito de la Medicina Veterinaria Legal como perita en el Ministério Público de Minas Gerais (MPMG) y como técnica en Instituto de Medicina Veterinária do Coletivo (IMVC). Lucho para alterar el paradigma de superioridad humana, que proporciona medios para que los animales sean considerados especies inferiores, y considero la Saúde Única como práctica primordial para la promoción de la salud. <br>
+</div>
+</div>
 <br>
-<a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/julia.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Júlia da Mata</b><br>
+Mujer, negra y nordestina estudiante de medicina veterinaria de la FMVZ-USP. Actualmente me intereso por tópicos de seguridad alimentar y resistência a antimicrobianos, y en el tiempo libre maratono series, pratico yoga e improviso puntos no croché.
+<br>
 </div>
 </div>
+<br>
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
@@ -47,16 +46,6 @@ Soy médica veterinária, canidata de maestría en Epidemiologia experimental en
 <b>Ligia Neves Scuarcialupi</b><br>
 Soy Médica Veterinaria de la Universidade de São Paulo, y actualmente realizo maestría en el Laboratório de Epidemiologia e Bioestatística. Me gusta estudar zoonosis, principalmente la esporotricosis. También adoro viajar, ler miss libros y pasar el tiempo con persnoas queridas y con  mis gaticas!
 <br>
-<a href="http://portal.fmvz.usp.br/">FMVZ-USP</a><br>
-</div>
-</div>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/mayara.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Mayara Bertanhe</b><br>
-Médica veterinaria de la FMVZ-USP. Trabaja con genómica y virología. Es miembro de la red SUP desde 2019.<br>
 <a href="http://portal.fmvz.usp.br/">FMVZ-USP</a><br>
 </div>
 </div>
@@ -115,6 +104,17 @@ Docente de Atención Primaria de Salud del Curso de Fisioterapia de la Faculdade
 </div>
 </div>
 <br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/beatriz.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Beatriz Gagete Veríssimo de Mello</b><br>
+Médica Veterinaria de la FMVZ-UNESP Botucatu y candidata de maestría en Epidemiologia Experimental aplicada às Zoonoses de la FMVZ USP. También permacultora y terapeuta de Ayurveda. Busco una visión holística de la vida y la harmonía con la naturaleza.
+<br>
+<a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
+</div>
+</div>
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
@@ -221,6 +221,18 @@ Me llamo ERICSSON MAGNAVITA soy uno de los articuladores dentro de la são remo 
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/gisella.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Gisella Dias</b><br>
+Soy médica veterinária, canidata de maestría en Epidemiologia experimental en el Laboratório de Epidemiologia e Bioestatística (FMVZ-USP). Soy apacionada por animales, me gusta leer, ver seriados y viajar. Soy miembro de la coordinación de la rede SUP desde el 2020, donde aprendo nuevas visiones sobre la salud de colectivos multiespecie en diferentes contextos y realidades. 
+<br>
+<a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
+</div>
+</div>
+<br>
+
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/gislene.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Gislene Aparecida dos Santos</b><br>
@@ -235,16 +247,6 @@ Profesora de la Universidade de São Paulo (USP), del curso de pregrado en Gest�
 <div>
 <b>Juliana Tozzi de Almeida</b><br>
 Médica Veterinaria de la Universidade Federal do Espírito Santo (2013); Mestra en Ciencias Veterinarias de la Universidade Federal do Paraná (2017), vinculada al Laboratório de Bem-estar Animal (LABEA) y actualmente candidata a doctora en Medicina Veterinária Preventiva e Saúde animal de la FMVZ-USP (SP). Miembro de la red SUP desde 2019. Trabaja por la sociedad a través de los animales y busca una coexistencia más harmónica entre las especies. <br>
-</div>
-</div>
-<br>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/julia.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Júlia Amorin</b><br>
-Soy médica veterinaria de la Pontifícia Universidade Católica de Minas Gerais (PUC-Minas). Act en el ámbito de la Medicina Veterinaria Legal como perita en el Ministério Público de Minas Gerais (MPMG) y como técnica en Instituto de Medicina Veterinária do Coletivo (IMVC). Lucho para alterar el paradigma de superioridad humana, que proporciona medios para que los animales sean considerados especies inferiores, y considero la Saúde Única como práctica primordial para la promoción de la salud. <br>
 </div>
 </div>
 <br>
@@ -334,6 +336,16 @@ Residente de la comunidad São Remo, protectora de animales y realizadora de div
 
 ### Estudiantes de pregrado
 
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/danielle-santos.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Danille Santos</b><br>
+Graduanda do terceiro semestre em Medicina Veterinária pela FMVZ-USP e bolsista SUP.<br>
+</div>
+</div>
+<br>
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">

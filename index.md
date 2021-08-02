@@ -21,6 +21,18 @@ title: Início
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 <br>
+02/08/2021
+<br>
+Es canadidates selecionades no Edital do projeto Agente Mirim da Saúde Única em Periferias são, em ordem alfabética: Bruno Jesus, Cassiane Oliveira Duarte, Gabriel Santos, Helmara Lima, Juliana Silva, Julia Thauany Rodrigues Santana, Thuany Bibiano e Vitória Nunes. A vinvulação efetiva como bolsistas dependerá da entrega dos documentos listados no <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">edital</a>.
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
+</figure>
+</div>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+<br>
 19/07/2021
 <br>
 O projeto Agente Mirim da Saúde Única em Periferias abre as inscrições para a seleção de bolsistas adolescentes que participarão em ações comunitárias de promoção da SUP. Confira o edital <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">aqui</a>.
@@ -39,7 +51,7 @@ Série de webinários <b>Insalubridade e frigoríficos</b>, organizada pela rede
 Fonte da imagem: We Animals.
 <br>
 <br>
-<a href="{{root}}/assets/docs/insalubridade-frigorificos.pdf">Saiba mais</a> e inscreva-se gratuitamente. Haverá emissão de certificados!
+<a href="{{root}}/assets/noticias/insalubridade-frigorificos.pdf">Saiba mais</a> e inscreva-se gratuitamente. Haverá emissão de certificados!
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/frigo.jpg" width=200 height=auto >

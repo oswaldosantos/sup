@@ -40,7 +40,7 @@ The webinar series <b>Insalubridade e frigoríficos</b> (slaughterhouses and ill
 Image source: We Animals.
 <br>
 <br>
-<a href="{{root}}/assets/docs/insalubridade-frigorificos.pdf">Learn more (Portuguese)</a>  and register for free. There will be participation certificates!
+<a href="{{root}}/assets/noticias/insalubridade-frigorificos.pdf">Learn more (Portuguese)</a>  and register for free. There will be participation certificates!
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/frigo.jpg" width=200 height=auto >

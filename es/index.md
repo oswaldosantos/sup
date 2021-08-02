@@ -24,7 +24,7 @@ original: index
 <br>
 19/07/2021
 <br>
-El proyecto Agente Mirim da Saúde Única em Periferias abre las inscripciones para la selección de becarios adolescentes que participarán en acciones comunitarias de promoción de la SUP. Vea la convocatoria <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">aqui</a>.
+El proyecto Agente Mirim da Saúde Única em Periferias abre las inscripciones para la selección de becarios adolescentes que participarán en acciones comunitarias de promoción de la SUP. Vea la convocatoria <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">aquí</a>.
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
@@ -40,7 +40,7 @@ Serie de webinarios <b>Insalubridade e frigoríficos</b>, organizada por la red 
 Fuente de la imagen: We Animals.
 <br>
 <br>
-<a href="{{root}}/assets/docs/insalubridade-frigorificos.pdf">Sepa más (português)</a> e inscriva se gratuitamente. Habrá emisión de certificados!
+<a href="{{root}}/assets/noticias/insalubridade-frigorificos.pdf">Sepa más (português)</a> e inscriva se gratuitamente. Habrá emisión de certificados!
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/frigo.jpg" width=200 height=auto >
