@@ -29,6 +29,8 @@ Es canadidates selecionades no Edital do projeto Agente Mirim da Saúde Única e
 <img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
 </figure>
 </div>
+<br>
+<br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
@@ -41,6 +43,8 @@ O projeto Agente Mirim da Saúde Única em Periferias abre as inscrições para 
 <img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
 </figure>
 </div>
+<br>
+<br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
