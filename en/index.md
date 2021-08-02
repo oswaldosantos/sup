@@ -22,14 +22,31 @@ original: index
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 <br>
-19/07/2021
+02/08/2021
 <br>
-The project Agente Mirim da Saúde Única em Periferias opens a call to offer scholarships to adolescents who will participate in community actions to promote OHP. Check out the call <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">here</a>.
+The selected canadidates of the call Agente Mirim da Saúde Única em Periferias (Little Agents of One Health of Peripheries) are, in alphabetic order: Bruno Jesus, Cassiane Oliveira Duarte, Gabriel Santos, Helmara Lima, Juliana Silva, Julia Thauany Rodrigues Santana, Thuany Bibiano, and Vitória Nunes.
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
 </figure>
 </div>
+<br>
+<br>
+
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+<br>
+19/07/2021
+<br>
+The project Agentes Mirim da Saúde Única em Periferias (Little Agents of One Health of Peripheries) opens a call to offer scholarships to adolescents who will participate in community actions to promote OHP. Check out the call <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">here</a>.
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>

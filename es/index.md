@@ -22,14 +22,30 @@ original: index
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 <br>
-19/07/2021
+02/08/2021
 <br>
-El proyecto Agente Mirim da Saúde Única em Periferias abre las inscripciones para la selección de becarios adolescentes que participarán en acciones comunitarias de promoción de la SUP. Vea la convocatoria <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">aquí</a>.
+Les canadidates seleccionades en el Edital del projeto Agente Mirim da Saúde Única em Periferias (Pequeños Agentes de Una Salud de las Periferias) son, en orden alfabética: Bruno Jesus, Cassiane Oliveira Duarte, Gabriel Santos, Helmara Lima, Juliana Silva, Julia Thauany Rodrigues Santana, Thuany Bibiano y Vitória Nunes. El vínculo efectivo como bolsistas dependerá de la entrega de los documentos listados en el <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">edital</a>.
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
 </figure>
 </div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+<br>
+19/07/2021
+<br>
+El proyecto Agente Mirim da Saúde Única em Periferias (Pequeños Agentes de Una Salud de las Periferias) abre las inscripciones para la selección de becarios adolescentes que participarán en acciones comunitarias de promoción de la SUP. Vea la convocatoria <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">aquí</a>.
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
@@ -46,7 +62,6 @@ Fuente de la imagen: We Animals.
 <img class="fig" src="{{root}}/assets/noticias/frigo.jpg" width=200 height=auto >
 </figure>
 </div>
-
 <br>
 <br>
 
