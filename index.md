@@ -21,9 +21,23 @@ title: Início
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 <br>
+23/08/2021
+<br>
+O <b>Edital SUP 02/2021</b>, como  parte do <b>Edital PRCEU 02/2021 Inclusão Social e Diversidade na USP e em Municípios de seus <i>campi</i></b>, oferece uma bolsa de pós-doutorado para trabalhar com a implementação de programa Agentes Mirim da SUP. O início está previsto para setembro de 2021. Confira o <a href="{{root}}/assets/noticias/edital-sup-02-2021.pdf">edital</a>.
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/prceu.png" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+<br>
 02/08/2021
 <br>
-Es canadidates selecionades no Edital do projeto Agente Mirim da Saúde Única em Periferias são, em ordem alfabética: Bruno Jesus, Cassiane Oliveira Duarte, Gabriel Santos, Helmara Lima, Juliana Silva, Julia Thauany Rodrigues Santana, Thuany Bibiano e Vitória Nunes. A vinvulação efetiva como bolsistas dependerá da entrega dos documentos listados no <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">edital</a>.
+Es canadidates selecionades no <b>Edital SUP 01-2021</b> do projeto Agentes Mirim da Saúde Única em Periferias são, em ordem alfabética: Bruno Jesus, Cassiane Oliveira Duarte, Gabriel Santos, Helmara Lima, Juliana Silva, Julia Thauany Rodrigues Santana, Thuany Bibiano e Vitória Nunes. A vinvulação efetiva como bolsistas dependerá da entrega dos documentos listados no <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">edital</a>.
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
@@ -37,7 +51,7 @@ Es canadidates selecionades no Edital do projeto Agente Mirim da Saúde Única e
 <br>
 19/07/2021
 <br>
-O projeto Agente Mirim da Saúde Única em Periferias abre as inscrições para a seleção de bolsistas adolescentes que participarão em ações comunitárias de promoção da SUP. Confira o edital <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">aqui</a>.
+O projeto Agente Mirim da Saúde Única em Periferias abre as inscrições para a seleção de bolsistas adolescentes que participarão em ações comunitárias de promoção da SUP. Confira o <b>Edital SUP 01-2021</b> <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">aqui</a>.
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/sup-mirim.png" width=200 height=auto >
