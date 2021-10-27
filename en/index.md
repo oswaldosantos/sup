@@ -22,6 +22,23 @@ original: index
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 <br>
+27/10/2021
+<br>
+The webinar series <b>Esporotricose nas periferias</b> (Sporotrichoses in peripheries), organized by the OHP network and the nPeriferias group, will address the epidemiologic situation of feline and human sporotrichosis; experiences of zoonoses control centers, social organizations, and extension projects; and studies of our group about the effects of the vulnerability and surveillance strategies for silent areas.<br>
+Image source: Dr. Fernando Pereira - Centro de Controle de Zoonoses de Guarulhos.
+<br>
+<a href="{{root}}/assets/noticias/esporotricose-nas-periferias.pdf">Learn more (Portuguese)</a>  and register for free. There will be participation certificates!
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/publicacoes/esporo01/lesoes.jpg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+<br>
 02/08/2021
 <br>
 The selected canadidates of the call Agente Mirim da Saúde Única em Periferias (Little Agents of One Health of Peripheries) are, in alphabetic order: Bruno Jesus, Cassiane Oliveira Duarte, Gabriel Santos, Helmara Lima, Juliana Silva, Julia Thauany Rodrigues Santana, Thuany Bibiano, and Vitória Nunes.
@@ -55,7 +72,6 @@ The project Agentes Mirim da Saúde Única em Periferias (Little Agents of One H
 <br>
 The webinar series <b>Insalubridade e frigoríficos</b> (slaughterhouses and ill-health), organized by the OHP network and the nPeriferias group, will address biosecurity discourses, precarious working conditions, risk classification, and violence spillover from animals and workers in slaughterhouses to neighbor communities. There will be four presentations in Portuguese, each one based on a study, and a fifth meeting to discuss a documentary.<br>
 Image source: We Animals.
-<br>
 <br>
 <a href="{{root}}/assets/noticias/insalubridade-frigorificos.pdf">Learn more (Portuguese)</a>  and register for free. There will be participation certificates!
 </div>

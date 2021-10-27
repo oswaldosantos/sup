@@ -22,6 +22,24 @@ original: index
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 <br>
+27/10/2021
+<br>
+La serie de webinarios <b>Esporotricose nas periferias</b>, organizada por la red SUP y el grupo nPeriferias, abordará la situación epidemiológica de la esporotricosis felina y zoonótica; experiencias de centros de control de zoonosis, organizaciones sociales y proyectos de extensão que lidian con la enfermedad e; investigaciones sobre los efectos da vulnerabilidad y estrategias de vigilancia en áreas silenciosas realizadas por nuestro grupo.<br>
+Fonte da imagem: Dr. Fernando Pereira - Centro de Controle de Zoonoses de Guarulhos.
+<br>
+<a href="{{root}}/assets/noticias/esporotricose-nas-periferias.pdf">Sepa más (portugués) </a> e inscriva se gratuitamente. Habrá emisión de certificados!
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/publicacoes/esporo01/lesoes.jpg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+<br>
 02/08/2021
 <br>
 Les canadidates seleccionades en el Edital del projeto Agente Mirim da Saúde Única em Periferias (Pequeños Agentes de Una Salud de las Periferias) son, en orden alfabética: Bruno Jesus, Cassiane Oliveira Duarte, Gabriel Santos, Helmara Lima, Juliana Silva, Julia Thauany Rodrigues Santana, Thuany Bibiano y Vitória Nunes. El vínculo efectivo como bolsistas dependerá de la entrega de los documentos listados en el <a href="{{root}}/assets/noticias/edital-agentes-mirim-2021.pdf">edital</a>.
@@ -54,7 +72,6 @@ El proyecto Agente Mirim da Saúde Única em Periferias (Pequeños Agentes de Un
 <br>
 Serie de webinarios <b>Insalubridade e frigoríficos</b>, organizada por la red SUP y el grupo nPeriferias, abordará discursos de biosegurança, condiciones de trabajo precarias, tipificación de riesgos, y transbordamiento de la violencia sufrida por animales y trabajadores para las comunidades vecinas. Serán cuatro presentaciones en portugés, cada una basada en una investigación, y un quinto encuentro para discutir un documentario.<br>
 Fuente de la imagen: We Animals.
-<br>
 <br>
 <a href="{{root}}/assets/noticias/insalubridade-frigorificos.pdf">Sepa más (português)</a> e inscriva se gratuitamente. Habrá emisión de certificados!
 </div>

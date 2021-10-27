@@ -21,6 +21,23 @@ title: Início
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 <br>
+27/10/2021
+<br>
+Série de webinários <b>Esporotricose nas periferias</b>, organizada pela rede SUP e o nPeriferias, abordará a situação epidemiológica da esporotricose felina e zoonótica; experiências de centros de controle de zoonoses, organizações sociais e projetos de extensão que lidam com a doença e; pesquisas sobre os efeitos da vulnerabilidade e estratégias de vigilância em áreas silenciosas realizadas pelo nosso grupo.<br>
+Fonte da imagem: Dr. Fernando Pereira - Centro de Controle de Zoonoses de Guarulhos.
+<br>
+<a href="{{root}}/assets/noticias/esporotricose-nas-periferias.pdf">Saiba mais</a> e inscreva-se gratuitamente. Haverá emissão de certificados!
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/publicacoes/esporo01/lesoes.jpg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+<br>
 23/08/2021
 <br>
 O <b>Edital SUP 02/2021</b>, como  parte do <b>Edital PRCEU 02/2021 Inclusão Social e Diversidade na USP e em Municípios de seus <i>campi</i></b>, oferece uma bolsa de pós-doutorado para trabalhar com a implementação de programa Agentes Mirim da SUP. O início está previsto para setembro de 2021. Confira o <a href="{{root}}/assets/noticias/edital-sup-02-2021.pdf">edital</a>.
@@ -67,7 +84,6 @@ O projeto Agente Mirim da Saúde Única em Periferias abre as inscrições para 
 <br>
 Série de webinários <b>Insalubridade e frigoríficos</b>, organizada pela rede SUP e o nPeriferias, abordará discursos de biossegurança, condições de trabalho precárias, tipificação de riscos, e transbordamento da violência sofrida por animais e trabalhadores para as comunidades vizinhas. Serão quatro apresentações, cada uma baseada numa pesquisa, e um quinto encontro para discutir um documentário.<br>
 Fonte da imagem: We Animals.
-<br>
 <br>
 <a href="{{root}}/assets/noticias/insalubridade-frigorificos.pdf">Saiba mais</a> e inscreva-se gratuitamente. Haverá emissão de certificados!
 </div>
