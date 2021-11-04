@@ -19,6 +19,22 @@ original: index
 
 ### Noticias
 
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+04/11/2021
+<br>
+Les investigadores Oswaldo Baquero y Érica Peçanha participan del Grupo de Trabajo <a href="http://www.elaepci.ufma.br/?p=319">Humanos e não humanos nos meios urbanos: paisagens, imagens e interações</a> do <b>II Encontro do Laboratório de Estudos e Pesquisas sobre Cidades e Imagens: alteridades urbanas e suas representações </b>.
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/elaepci.jpg" width=200 height=auto >
+</figure>
+</div>
+
+<br>
+<br>
+
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 <br>
