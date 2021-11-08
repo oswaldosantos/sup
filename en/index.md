@@ -23,9 +23,23 @@ original: index
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+06/11/2021
+<br>
+The SUP network is invited to share some of its pedagocial experiences in the <b>I Coloquio em aprendizagem solidária no Brasil</b> (I Colloquium of solidarity learning in Brazil). The researcher Yasmin Alexandre makes the presentation. <a href="https://www.youtube.com/watch?v=grUqnsJdjQw">Watch</a> the session (Portuguese), with the talk of Yasmin since the minute 1:59:22.
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/coloquio-ap-solidaria.png" width=200 height=auto >
+</figure>
+</div>
+
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
 04/11/2021
 <br>
-Researchers Oswaldo Baquero and Érica Peçanha participate in the Working Group <a href="http://www.elaepci.ufma.br/?p=319">Humanos e não humanos nos meios urbanos: paisagens, imagens e interações (Humans and non-humans in urban environments: landscapes, images, and interactions</a> of the <b>II Encontro do Laboratório de Estudos e Pesquisas Sobre Cidades e Imagens: alteridades urbanas e suas representações (II Meeting of the Laboratory of Studies and Research on Cities and Images: urban alterities and their representations</b>.
+Researchers Oswaldo Baquero and Érica Peçanha participate in the Working Group <b>Humanos e não humanos nos meios urbanos: paisagens, imagens e interações</b> (Humans and non-humans in urban environments: landscapes, images, and interactions) of the II Encontro do Laboratório de Estudos e Pesquisas Sobre Cidades e Imagens: alteridades urbanas e suas representações (II Meeting of the Laboratory of Studies and Research on Cities and Images: urban alterities and their representations). <a href="http://www.elaepci.ufma.br/?p=319">Learn more (Portuguese).</a>
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/elaepci.jpg" width=200 height=auto >

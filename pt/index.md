@@ -18,11 +18,27 @@ title: Início
 
 ### Notícias
 
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+06/11/2021
+<br>
+A rede SUP é convidada para compartilhar algumas das suas experiências pedagógicas no <b>I Coloquio em aprendizagem solidária no Brasil</b>. Quem apresenta é a pesquisadora Yasmin Alexandre. <a href="https://www.youtube.com/watch?v=grUqnsJdjQw">Assista</a> a sessão, com a fala dela a partir do minuto 1:59:22.
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/coloquio-ap-solidaria.png" width=200 height=auto >
+</figure>
+</div>
+
+<br>
+<br>
+
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 04/11/2021
 <br>
-Es pesquisadores Oswaldo Baquero e Érica Peçanha participam do Grupo de Trabalho <a href="http://www.elaepci.ufma.br/?p=319">Humanos e não humanos nos meios urbanos: paisagens, imagens e interações</a> do <b>II Encontro do Laboratório de Estudos e Pesquisas sobre Cidades e Imagens: alteridades urbanas e suas representações </b>.
+Es pesquisadores Oswaldo Baquero e Érica Peçanha participam do Grupo de Trabalho <b>Humanos e não humanos nos meios urbanos: paisagens, imagens e interações</b> do II Encontro do Laboratório de Estudos e Pesquisas sobre Cidades e Imagens: alteridades urbanas e suas representações. <a href="http://www.elaepci.ufma.br/?p=319">Saiba mais.</a>
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/elaepci.jpg" width=200 height=auto >
