@@ -22,6 +22,21 @@ title: Início
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+19/11/2021
+<br>
+O webinário <b>No mês da saúde única, o que podemos aprender de outros meses temáticos?</b> aborda avaliações, problemas e oportunidades das camapnhas mensais de educação em saúde, com ênfase no Outubro Rosa.
+<br>
+<a href="{{root}}/assets/noticias/mes-saude-unica.pdf">Saiba mais</a> e inscreva-se gratuitamente. Haverá emissão de certificados!
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/meses-saude.jpg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
 06/11/2021
 <br>
 A rede SUP é convidada para compartilhar algumas das suas experiências pedagógicas no <b>I Coloquio em aprendizagem solidária no Brasil</b>. Quem apresenta é a pesquisadora Yasmin Alexandre. <a href="https://www.youtube.com/watch?v=grUqnsJdjQw">Assista</a> a sessão, com a fala dela a partir do minuto 1:59:22.
