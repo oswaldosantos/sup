@@ -23,6 +23,21 @@ original: index
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+19/11/2021
+<br>
+El webinario <b>No mês da saúde única, o que podemos aprender de outros meses temáticos?</b> aborda evaluaciones, problemas y oportunidades de las camapñas mensuales de educación de salud, con énfasis en Ocutubre Rosa.
+<br>
+<a href="{{root}}/assets/noticias/mes-saude-unica.pdf">Sepa más</a> e inscrevase gratuitamente. Habrá emisión de certificados!
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/meses-saude.jpg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
 06/11/2021
 <br>
 La red SUP es invitada para compartir algunas de sus experiencias pedagógicas en el <b>I Coloquio em aprendizagem solidária no Brasil</b>. Queien presenta es la investigadora Yasmin Alexandre. <a href="https://www.youtube.com/watch?v=grUqnsJdjQw">Vea</a> la sesión, con la ponencia de ella a partir del minuto 1:59:22.

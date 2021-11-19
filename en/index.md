@@ -23,6 +23,21 @@ original: index
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+19/11/2021
+<br>
+The <b>No mês da saúde única, o que podemos aprender de outros meses temáticos?</b> (In the One Health awareness month, what can we learn from other thematic months?) webinar addresses evaluations, problems, and opportunities for health awareness month capaigns, emphasizing Pink October.
+<br>
+<a href="{{root}}/assets/noticias/mes-saude-unica.pdf">Saiba mais</a> e inscreva-se gratuitamente. Haverá emissão de certificados!
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/meses-saude.jpg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
 06/11/2021
 <br>
 The SUP network is invited to share some of its pedagocial experiences in the <b>I Coloquio em aprendizagem solidária no Brasil</b> (I Colloquium of solidarity learning in Brazil). The researcher Yasmin Alexandre makes the presentation. <a href="https://www.youtube.com/watch?v=grUqnsJdjQw">Watch</a> the session (Portuguese), with the talk of Yasmin since the minute 1:59:22.
