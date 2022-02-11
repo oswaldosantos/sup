@@ -28,7 +28,7 @@ Frente a la urgencia para resolver innúmeros e severos problemas de salud, preg
 
 [Lea la publicación original)](https://www.frontiersin.org/articles/10.3389/fpubh.2021.617003/full)
 
-La traducción al español cuando sea publicada la versión final del texto.
+Espere en breve la traducción al español.
 
 [Vuelva al indice](#indice)
 
@@ -103,6 +103,10 @@ La esporotricosis es una enfermedad causa por hongos, es decir, es una micosis. 
 <img class="fig" src="{{root}}/assets/publicacoes/esporo01/ipvs-{{page.lang}}.svg" width=350 height=auto >
 <figcaption>Los sectores censales (divisiones territoriales) están agrupados por grado de vulnerabilidad (IPVS de 1 a 6). Quanto mayor el IPVS, mayor la vulnerabilidad. La densidad y el total de casos notificados de esporotricosis felina son sistemáticamente mayores en los sectores más vulnerables. Guarulhos, 2011 &#8211; 2017. IPVS: Índice Paulista de Vulnerabilidade Social do Estado de São Paulo.</figcaption>
 </figure>
+
+[Lea la publicación original](https://www.revistas.usp.br/bjvras/article/view/188291)
+
+Espere en breve la traducción al español.
 
 [Vuelva al indice](#indice)
 

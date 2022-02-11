@@ -102,6 +102,8 @@ Over the past two decades, many Brazilian cities have been reporting an increasi
 <figcaption>The census tracts (geographic divisions) are grouped by degree of vulnerability (IPVS from 1 to 6). The higher the IPVS, the greater the vulnerability. The density and total of reported cases of feline sporotrichosis are systematically higher in the most vulnerable tracts. Guarulhos, 2011 &#8211; 2017. IPVS: São Paulo State Social Vulnerability Index.</figcaption>
 </figure>
 
+[Read the paper](https://www.revistas.usp.br/bjvras/article/view/188291)
+
 [Back to index](#indice)
 
 <br>

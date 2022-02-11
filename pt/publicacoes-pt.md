@@ -139,6 +139,10 @@ A esporotricose é uma doença causada por fungos, ou seja, é uma micose.  Alé
 <figcaption>Os setores censitários (divisões territoriais) estão agrupados por grau de vulnerabilidade (IPVS de 1 a 6). Quanto maior o IPVS, maior a vulnerabilidade. A densidade e o total de casos notificados de esporotricose felina são sistematicamente maiores nos setores mais vulneráveis. Guarulhos, 2011 &#8211; 2017. IPVS: Índice Paulista de Vulnerabilidade Social do Estado de São Paulo.</figcaption>
 </figure>
 
+[Leia a publicação original](https://www.revistas.usp.br/bjvras/article/view/188291)
+
+Espere em breve a tradução ao português.
+
 [Volte ao índice](#indice)
 
 <br>
