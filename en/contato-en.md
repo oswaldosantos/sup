@@ -33,5 +33,5 @@ original: contato-pt
 
 ---
 
-Panormic image of our friends of [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Panormic image by our friends of [Juegos translúcidos](https://www.juegostranslucidos.com/)
 

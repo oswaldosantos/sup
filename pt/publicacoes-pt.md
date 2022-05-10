@@ -85,8 +85,7 @@ e seus respectivos resultados, valendo-se de registros adicionais e reaproveitan
 <img src="{{root}}/assets/publicacoes/covid01/covid01-{{page.lang}}.png" width=350 height=auto >
 </figure>
 
-<a href="{{root}}/assets/publicacoes/covid01/vivencias-{{page.lang}}.pdf">Leia a publicação<a/>
-
+<a href="{{root}}/assets/publicacoes/covid01/vivencias-{{page.lang}}.pdf">Leia a publicação</a>
 
 [Volte ao índice](#indice)
 
@@ -95,6 +94,7 @@ e seus respectivos resultados, valendo-se de registros adicionais e reaproveitan
 <br>
 
 ---
+
 ### <a name="esporo01">Vulnerabilidade social, esporotricose e lugares a serem priorizados.</a>
 
 <br>

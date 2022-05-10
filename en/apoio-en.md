@@ -50,4 +50,4 @@ original: apoio-pt
 
 ---
 
-Panoramic image of our friend Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)
+Panoramic image by our friend Notable Salazar [@salazarnotable](https://www.instagram.com/salazarnotable/)

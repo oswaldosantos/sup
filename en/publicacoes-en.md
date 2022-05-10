@@ -8,6 +8,7 @@ original: publicacoes-pt
 
 * [One Health of Peripheries: biopolitics, social determination, and field of praxis.](#sup01)
 * [From modern Planetary  Health to decolonial promotion of One Health of Peripheries.](#sup02)
+* [Pandemic experiences in São Remo: a collective discourse.](#covid01)
 * [Feline sporotrichosis: social vulnerability and prioritization of areas with the highest incidence of cases in the city of Guarulhos, SP, Brazil.](#esporo01)
 * [Interpersonal violence, animal abuse, and social vulnerability in São Paulo city.](#viol01)
 * [Spatiotemporal dynamics and risk factors for human Leptospirosis in Brazil.](#lepto01)
@@ -49,6 +50,33 @@ The concept of Planetary Health has recently emerged in the global North as a co
 </figure>
 
 [Read the paper](https://www.frontiersin.org/articles/10.3389/fpubh.2021.637897/full)
+
+[Back to index](#indice)
+
+<br>
+<br>
+<br>
+
+---
+
+### <a name="covid01">Pandemic experiences in São Remo: a collective discourse.<a/>
+
+<br>
+Jardim São Remo is a favela in the West Zone of the city of São Paulo, where the experience of the Covid-19 pandemic is similar to that of other urban peripheries in some aspects and differs in others. In São Remo, the experiences comprise elements common to all its members and particularities of each group, family and individual. Between January and April 2021, there was a collective construction to portray the experiences of some residents, considering various experiences and memories recorded in interviews or during the application of a photographic method of community research known as Photovoice.
+
+The following text is a collective discourse composed of several of these records, which we built with the support of some ideas of a method called "collective subject discourse". We did not use all the records, and the way of articulating them was one among many. The result brings nuances, affections and portraits that reinforce what seems obvious, remains neglected, and exposes a chronic contradiction: marginalized communities continue to suffering most of the collective damage, which deepens marginalization and intensify crises. However, result also brings lessons and points of view necessary to overcome chronic malady.
+
+We modified some text fragments mainly to concatenate ideas, added implicit terms in the original context, and increaseed the number and gender agreement between sentences from different registers. These modifications are in gray.
+
+It is worth noting that although we have used some elements of Photovoice and the "collective subject discourse", this document does not report the application of these methods or what would result from their application. Other documents will address methodological aspects and their respective results, using additional records and reusing some of those used here.
+
+<br>
+
+<figure>
+<img src="{{root}}/assets/publicacoes/covid01/covid01-pt.png" width=350 height=auto >
+</figure>
+
+<a href="{{root}}/assets/publicacoes/covid01/vivencias-pt.pdf">Read the publication (portuguese)</a>
 
 [Back to index](#indice)
 
@@ -172,5 +200,5 @@ Between 2000 and 2016, there were 63,302 reported cases and 6,064 reported death
 
 ---
 
-Panoramic image of our friends of [Juegos translúcidos](https://www.juegostranslucidos.com/)
+Panoramic image by our friends of [Juegos translúcidos](https://www.juegostranslucidos.com/)
 

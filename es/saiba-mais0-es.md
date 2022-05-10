@@ -21,7 +21,7 @@ En este proyecto, los estudiantes coordinan acciones de educación en salud desa
 
 #### Planeamiento y Acciones de Educación sobre Una Salud
 
-Disciplina optativa de la FMVZ-USP, predominantemente practica, en la cual los estudiantes elaboran una propuesta educativa atenta a la realidad periférica, la presentan en instituciones colaboradoras de la SUP que trabajan con niños, y después de una fase de ajustes a partir de discusiones con los educadores de esas instituciones, la implementan. El primer ofrecimiento fue en 2019, en el Espacio Girassol del Jardim São Remo. La disciplina volverá a ser ofrecida cuando la Covid-19 esté controlada.
+Disciplina optativa de la FMVZ-USP, predominantemente práctica, en la cual los estudiantes elaboran una propuesta educativa atenta a la realidad periférica, la presentan en instituciones colaboradoras de la SUP que trabajan con niños, y después de una fase de ajustes a partir de discusiones con los educadores de esas instituciones, la implementan. El primer ofrecimiento fue en 2019, en el Espacio Girassol del Jardim São Remo. La disciplina volverá a ser ofrecida cuando la Covid-19 esté controlada.
 
 <figure>
 <img src="{{root}}/assets/saiba-mais0/disciplina.jpg" width=350 height=auto >

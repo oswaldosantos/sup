@@ -8,6 +8,7 @@ original: publicacoes-pt
 
 * [Una Salud de las Periferias: biopolítica, determinación social e campo de praxis.](#sup01)
 * [De la Salud Planetaria moderna a la promoción decolonial de Una Salud de las Periferias.](#sup02)
+* [Vivencias de la pandemia en São Remo: un discurso colectivo.](#covid01)
 * [Vulnerabilidad social, esporotricosis y lugares a ser priorizados.](#esporo01)
 * [Violencia interpersonal, abuso animal y vulnerabilidad social en la ciudad de São Paulo.](#viol01)
 * [Dinámica espacio-temporal y factores de riesgo de leptospirosis humana en Brasil.](#lepto01)
@@ -54,6 +55,30 @@ Salud Planetaria es un concepto que emergió recientemente en el Norte global pa
 Espere en breve la traducción al español.
 
 [Vuelva al indice](#indice)
+
+<br>
+<br>
+<br>
+
+### <a name="covid01">Vivencias de la pandemia en São Remo: un discurso colectivo.<a/>
+
+<br>
+Jardim São Remo es una favela de la Zona Oeste de la ciudad de São Paulo, donde la vivencia de la pandemia de Covid-19 se asemeja a la de otras periferias urbanas en algunos aspectos e difiere en otros. En la favela, las vivencias comprenden elementos comunes a todos sus integrantes y particularidades de cada grupo, familia e individuo. Entre enero e abril de 2021, hubo una construcción colectiva para retratar vivencias de algunos moradores de São Remo, considerando diversas experiencias y memorias registradas en entrevistas o durante a aplicación de un método fotográfico de pesquisa comunitaria conocido como Photovoice.
+
+O texto a seguir es un discurso colectivo compuesto por varios de esos registros, cuya construcción se apoyó en algunas ideas de un método denominado “discurso del sujeto colectivo”. No todos os registros fueron utilizados y la forma de articularlos fue una entre muchas. El resultado trae sutilezas, afectos e retratos que refuerzan lo que parece obvio y continua desatendido y exponiendo una contradicción crónica: las comunidades marginalizadas continúan sufriendo desproporcionadamente los danos colectivos, con lo cuál esa marginalización se profundiza y las crisis se intensifican. Pero los resultados también traen aprendizajes y pontos de vista necesarios para superar o mal-estar crónico.
+
+Algunos fragmentos del texto fueron modificados, principalmente para concatenar las ideas, adicionar términos implícitos en el contexto original y aumentar a concordancia de número e género entre frases de registros diferentes. Esas modificaciones están indicadas en gris.
+
+Vale notar que a pesar del uso de algunos elementos del Photovoice y del “discurso del sujeto colectivo”, este documento no relata la aplicación de esos métodos ni lo que resultaría de esa aplicación. Otros documentos abordarán aspectos metodológicos e sus respectivos resultados, valiendose de registros adicionales y aprovechando algunos dos utilizados aquí.
+<br>
+
+<figure>
+<img src="{{root}}/assets/publicacoes/covid01/covid01-pt.png" width=350 height=auto >
+</figure>
+
+<a href="{{root}}/assets/publicacoes/covid01/vivencias-pt.pdf">Lea la publicación (portugués)</a>
+
+[Vuelva al índice](#indice)
 
 <br>
 <br>
