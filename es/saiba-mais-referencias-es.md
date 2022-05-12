@@ -76,6 +76,7 @@ La epidemiología crítica y la salud colectiva son movimientos de salud latinoa
 * Vieira‐da‐Silva, L. M., & Pinell, P. (2014). The genesis of collective health in Brazil. Sociology of health & illness, 36(3), 432-446.
 *  Laurell, A. C. (2018). Lasting lessons from social ideas and movements of the sixties on Latin American Public Health. American journal of public health, 108(6), 730-731.
 * [Social inequities and contemporary struggles for collective health in Latin America](https://www.tandfonline.com/toc/rgph20/14/6-7) (Número especial)
+* Krieger, N. (2021). Ecosocial Theory, Embodied Truths, and the People's Health. Oxford University Press.
 
 [Vuelva al índice](#indice)
 
@@ -274,7 +275,8 @@ Una pequeña lista frente a la urgencia de pensar diferente.
 * Santos, B. D. S. (2007). Para além do pensamento abissal: das linhas globais a uma ecologia de saberes. Revista crítica de ciências sociais, (78), 3-46.
 * Santos, B. D. S. (2007). Beyond abyssal thinking: From global lines to ecologies of knowledges. Review (Fernand Braudel Center), 45-89.
 * Haraway, D. J. (2016). Staying with the trouble: Making kin in the Chthulucene. Duke University Press.
-* Latour, B. (2005). Reassembling the social: An introduction to actor-network-theory. Oxford university press.
+* Latour, B. (2012). Reagregando o social: uma introdução à teoria do ator-rede. Edufba.
+* Latour, B. (2019). Políticas da natureza: como associar as ciências à democracia. Editora unesp.
 * Blok, A., Farías, I., & Roberts, C. (2020). The Routledge companion to actor-network theory (p. 458). Routledge.
 * Viveiros de Castro, E. (2002). A inconstância da alma selvagem e outros ensaios de antropologia. São Paulo: Cosac & Naify, 11.
 * de Castro, E. B. V. (2012). Cosmological perspectivism in Amazonia and elsewhere. Manchester: HAU Journal of Ethnographic Theory.
@@ -333,7 +335,7 @@ La relación entre diferentes tipos de víctimas de la violencia doméstica ha s
 
 #### Favelas
 
-En las favelas hay múltiples periferias y entre las más ignoradas están las constituidas por animales no humanos. Así, no sorprende que la literatura académica omita todavía más la existencia de colectivos multiespécie.
+En las favelas hay múltiples periferias y entre las más ignoradas están las constituidas por animales no humanos. Así, no sorprende que la literatura académica omita todavía más la existencia de colectivos multiespécie en las favelas.
 
 * Butala, N. M., VanRooyen, M. J., & Patel, R. B. (2010). Improved health outcomes in urban slums through infrastructure upgrading. Social science & medicine, 71(5), 935-940.
 * Sclar, E. D., Garau, P., & Carolini, G. (2005). The 21st century health challenge of slums and cities. The Lancet, 365(9462), 901-903.
@@ -344,10 +346,9 @@ En las favelas hay múltiples periferias y entre las más ignoradas están las c
 * [revista periferias](https://revistaperiferias.org/)
 <br>
 
-#### Habitantes de la calle
+#### Poblaciones en situación de calle
 
-Existe una mobilizacióno considerable de grupos de protección de perros y gatos callejejros y, por otro lado, de acciones filantrópicas para humanos que viven en la calle. 
-La mobilización es menor cuando se trata de colectivos multiespecie que viven en la calle pero aún así tiene máss soporte en la literatura en comparación con la mobilización por los colectivos multiespecie de las favelas.
+Existe una mobilizacióno considerable de grupos de protección de perros y gatos callejejros y, por otro lado, de acciones filantrópicas para humanos en situación de calle. La mobilización es menor cuando se trata de colectivos multiespecie que situación de calle pero aún así tiene máss soporte en la literatura en comparación con la mobilización por los colectivos multiespecie de las favelas.
 
 * Irvine, Leslie. "Animals as lifechangers and lifesavers: Pets in the redemption narratives of homeless people." Journal of Contemporary Ethnography 42.1 (2013): 3-30.
 * Rew, L. (2000). Friends and pets as companions: Strategies for coping with loneliness among homeless youth. Journal of child and adolescent psychiatric nursing, 13(3), 125-132.
