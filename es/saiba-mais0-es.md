@@ -19,13 +19,13 @@ En este proyecto, los estudiantes coordinan acciones de educación en salud desa
 <br>
 <br>
 
-#### Planeamiento y Acciones de Educación sobre Una Salud
+#### Passantía curricular con énfasis en Una Salud de las Periferias
 
-Disciplina optativa de la FMVZ-USP, predominantemente práctica, en la cual los estudiantes elaboran una propuesta educativa atenta a la realidad periférica, la presentan en instituciones colaboradoras de la SUP que trabajan con niños, y después de una fase de ajustes a partir de discusiones con los educadores de esas instituciones, la implementan. El primer ofrecimiento fue en 2019, en el Espacio Girassol del Jardim São Remo. La disciplina volverá a ser ofrecida cuando la Covid-19 esté controlada.
+El Departamento de Medicina Veterinária Preventiva e Saúde (VPS-FMVZ-USP) ofrece una pasantía curricular para sus alumnos y alumnas de pregrado, con énfasis en SUP. En esta, los estudiantes discuten las bases teóricas de SUP; colectan, analizan e interpretan datos sobre tópicos seleccionados de SUP; y en conjunto con ONGs, desarrollan actividades didácticas para niñes. La ONG con la que hemos trabajado es el [Espaço Girassol](https://agente.org.br/sao-remo/), que en el Jardim São Remo es coordinada por Elbio Miyahira. Los profesores Evelise Telles, Fábio Gregori, José Soares y Oswaldo Baquero coordinan la pasantía.
 
 <figure>
 <img src="{{root}}/assets/saiba-mais0/disciplina.jpg" width=350 height=auto >
- <figcaption>Niños dibujando lo que más les gustó de la actividad. Espacio Girassol, Jardim São Remo.</figcaption>
+ <figcaption>Niñes dibujando lo que más les gustó de la actividad. Espacio Girassol, Jardim São Remo.</figcaption>
 </figure>
 
 <br>

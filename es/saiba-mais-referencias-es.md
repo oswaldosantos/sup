@@ -249,8 +249,7 @@ Palabras clave: giro decolonial, Grupo Modernidad/Colonialidad, colonialismo, co
 * Mignolo, W. (2011). The darker side of western modernity: Global futures, decolonial options. Duke University Press.
 * Santos, B. S., & Paula, M. M. (2010). Epistemologias do sul. Cortez Editora.
 * [Epistemologies of the South](https://www.routledge.com/Epistemologies-of-the-South/book-series/EPISTEMOLOGIES) (Colección de libros).
-* Latour, B. (2012). We have never been modern. Harvard university press.
-* Latour, B. (2019). Jamais fomos modernos. Ensaio de antropologia simétrica.
+* Latour, B. (2019). Jamais fomos modernos. Ensaio de antropologia simétrica. editora 34.
 
 [Vuelva al índice](#indice)
 

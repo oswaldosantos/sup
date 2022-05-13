@@ -22,7 +22,7 @@ In this project, students coordinate health education actions developed in Jardi
 
 #### Internship in One Health of Peripheries
 
-The Department of Preventive Veterinary Medicine and Animal Health at the School of Veterinary Medicine and Animal Science of the University of São Paulo (FMVZ-USP) offers an internship in OHP. In it, students discuss the theoretical background of OHP; develop, collect, analyze, and interpret data about selected topics in OHP; and together with an NGO, they develop health education activities for children. So far, we have worked with the [Espaço Girassol](https://agente.org.br/sao-remo/), which in São Remo is coordinated by Elbio Miyahira. Professors Evelise Telles, Fábio Gregori, José Soares, and Oswaldo Baquero coordinate the internship.
+The Department of Preventive Veterinary Medicine and Animal Health at the School of Veterinary Medicine and Animal Science of the University of São Paulo (FMVZ-USP) offers an internship in OHP. In it, students discuss the theoretical background of OHP; collect, analyze, and interpret data about selected topics in OHP; and together with an NGO, they develop health education activities for children. So far, we have worked with the [Espaço Girassol](https://agente.org.br/sao-remo/), which in Jardim São Remo is coordinated by Elbio Miyahira. Professors Evelise Telles, Fábio Gregori, José Soares, and Oswaldo Baquero coordinate the internship.
 
 <figure>
 <img src="{{root}}/assets/saiba-mais0/disciplina.jpg" width=350 height=auto >

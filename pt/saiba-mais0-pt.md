@@ -8,9 +8,9 @@ redirect_from: /saiba-mais0-pt
 
 <br>
 
-#### Programa Aprender na Comunidade - Saúde Única em Periferias
+#### Estágio com ênfase em Saúde Única em Periferias
 
-Neste projeto, os estudantes coordenam ações de educação em saúde desenvolvidas no Jardim São Remo, comunidade vizinha da Cidade Universitária. Mais que instrutores, os estudantes são participantes de uma construção coletiva, lúdica e dialógica, com crianças, docentes, educadores e outros membros da comunidade São Remo. As ações buscam (1) consolidar uma relação de vizinhança entre a USP e a São Remo, pautada no acolhimento, na colaboração e nos saberes plurais; (2) aprofundar o conhecimento sobre os modos e estilos de vida na São Remo e; (3) identificar oportunidades para promover a saúde. O projeto é coordenado pelo professor Oswaldo Baquero. 
+O VPS-FMVZ-USP oferece um estágio curricular para seus alunos e alunas de graduação, com ênfase em SUP. Neste, es estudantes discutem bases teóricas da SUP; coletam, analisam e interpretam dados sobre tópicos selecionados da SUP; e, em conjunto com OSCs, desenvolvem atividades didáticas para crianças. Essas atividades têm sido trabalhadas com o [Espaço Girassol](https://agente.org.br/sao-remo/), que no Jardim São Remo é coordenado por Elbio Miyahira. Os professores Evelise Telles, Fábio Gregori, José Soares e Oswaldo Baquero coordenam a ênfase em SUP.
 
 <figure>
 <img src="{{root}}/assets/saiba-mais0/batuque.jpg" width=350 height=auto >
