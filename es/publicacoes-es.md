@@ -8,6 +8,7 @@ original: publicacoes-pt
 
 * [Una Salud de las Periferias: biopolítica, determinación social e campo de praxis.](#sup01)
 * [De la Salud Planetaria moderna a la promoción decolonial de Una Salud de las Periferias.](#sup02)
+* [Comunidades y familias multiespécies: aportes a Una Salud de las Periferias.](#comunidades)
 * [Vivencias de la pandemia en São Remo: un discurso colectivo.](#covid01)
 * [Vulnerabilidad social, esporotricosis y lugares a ser priorizados.](#esporo01)
 * [Violencia interpersonal, abuso animal y vulnerabilidad social en la ciudad de São Paulo.](#viol01)
@@ -59,6 +60,28 @@ Espere en breve la traducción al español.
 <br>
 <br>
 <br>
+
+### <a name="comunidades">Comunidades y familias multiespécies: aportes a Una Salud de las Periferias.</a>
+
+<em>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias</em> es el segundo título de la Coleção Democracia, Artes e Saberes Plurais del Instituto de Estudos Avançados de la Universidade de São Paulo. Con la participación de 29 autores, entre estudiantes, investigadores y profesores, el libro presenta datos y reflexiones elaboradas a partir de dos proyectos académicos realizados en el entorno de la universidad: un censo domiciliar e un conjunto de intervenciones dedicadas a la promoción de la salud de la periferias, ambos protagonizados por sujeitos  con experiencias periféricas. Organizado por Oswaldo Santos Baquero e Érica Peçanha, el livro cuenta con la participación de investigadores e colaboradores de la Red SUP e del proyecto DASP (Democracia, Artes e Saberes Plurais) en textos que presentan un repertorio de acciones educativas en el campo de la salud y de discusiones sobre periferias epistemológicas, urbanas y animales, además de una serie de vivencias en torno de esos temas. Son artículos, ensayos y textos literarios que discuten el carácter multiespécie de las periferias paulistanas y sus desdobramentos para la comprensión de la situación ambiental, las relaciones familiares, la salud y la enfermedad y procesos de marginalización a los que están sometidos no solo la población humana, también otras especies animales y vegetales presentes en es,os territorios.
+
+<br>
+
+<figure>
+<img class="fig" src="{{root}}/assets/publicacoes/comunidades-capa.jpg" width=350 height=auto >
+<figcaption>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias.</figcaption>
+</figure>
+
+[Lea el libro en portugés]({{root}}/assets/publicacoes/comunidades-e-familias-multiespecies-aportes-a-saude-unica-em-periferias.pdf)
+
+
+[Vuelva al índice](#indice)
+
+<br>
+<br>
+<br>
+
+---
 
 ### <a name="covid01">Vivencias de la pandemia en São Remo: un discurso colectivo.<a/>
 

@@ -8,6 +8,7 @@ redirect_from: /publicacoes-pt
 
 * [Saúde Única em Periferias: biopolítica, determinação social e campo de práxis.](#sup01)
 * [Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Periferias.](#sup02)
+* [Comunidades e famílias multiespécies: aportes à Saúe Única em Periferias](#comunidades)
 * [Vivências da pandemia na São Remo: um discurso coletivo](#covid01)
 * [Vulnerabilidade social, esporotricose e lugares a serem priorizados.](#esporo01)
 * [Violência interpessoal, abuso animal e vulnerabilidade social no município de São Paulo.](#viol01)
@@ -56,6 +57,28 @@ Saúde Planetária é um conceito que emergiu recentemente no Norte global para 
 [Leia a publicação original](https://www.frontiersin.org/articles/10.3389/fpubh.2021.637897/full)
 
 Espere em breve a tradução ao português.
+
+[Volte ao índice](#indice)
+
+<br>
+<br>
+<br>
+
+---
+
+### <a name="comunidades">Comunidades e famílias multiespécies: aportes à Saúe Única em Periferias.</a>
+
+<em>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias</em> é o segundo título da Coleção Democracia, Artes e Saberes Plurais do Instituto de Estudos Avançados da USP. Com a participação de 29 autores, entre estudantes, pesquisadores e professores, o livro apresenta dados e reflexões elaboradas a partir de dois projetos acadêmicos realizados no entorno da universidade: um censo domiciliar e um conjunto de intervenções dedicadas à promoção da saúde das periferias, ambos protagonizados por sujeitos periféricos. Organizado por Oswaldo Santos Baquero e Érica Peçanha, o livro conta com a participação de pesquisadores e parceiros da Rede SUP e do projeto DASP (Democracia, Artes e Saberes Plurais) em textos que apresentam um repertório de ações educativas no campo da saúde e de discussões sobre periferias epistemológicas, urbanas e animais, além de uma série de vivências em torno desses temas. São artigos, ensaios e textos literários que discutem o caráter multiespécie das periferias paulistanas e seus desdobramentos para a compreensão da situação ambiental, relações familiares, saúde e doença e processos de marginalização a que estão submetidas não apenas a população humana, mas também outras espécies animais e vegetais presentes nesses territórios.
+
+<br>
+
+<figure>
+<img class="fig" src="{{root}}/assets/publicacoes/comunidades-capa.jpg" width=350 height=auto >
+<figcaption>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias.</figcaption>
+</figure>
+
+[Leia a publicação]({{root}}/assets/publicacoes/comunidades-e-familias-multiespecies-aportes-a-saude-unica-em-periferias.pdf)
+
 
 [Volte ao índice](#indice)
 

@@ -23,6 +23,23 @@ original: index
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+25/05/2022
+<br>
+El libro <b>Comunidades e famílias multiespécies: aportes à Saúe Única em Periferias</b> será lanzado el próximo 1 de junio en el Instituto de Estudos Avançados de la Universidade de São Paulo (IEA-USP). El libro estará disponible aquí en la sección de <a href="{{root}}/publicacoes-{{page.lang}}">publicaciones</a> de nuestra página, en el <a href="http://www.livrosabertos.sibi.usp.br">Portal de Libros Abiertos de la USP</a> y en la página del <a href="http://www.iea.usp.br/publicacoes">IEA</a>. 
+<br>
+<a href="http://www.iea.usp.br/eventos/livro-comunidades-e-familias-multiespecies">Sepa más</a> y acompañe el lanzamiento.
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/publicacoes/comunidades-capa.jpg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
 19/11/2021
 <br>
 El webinario <b>No mês da saúde única, o que podemos aprender de outros meses temáticos?</b> aborda evaluaciones, problemas y oportunidades de las camapñas mensuales de educación de salud, con énfasis en Ocutubre Rosa.
