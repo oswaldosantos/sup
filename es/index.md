@@ -25,7 +25,7 @@ original: index
 <div>
 25/05/2022
 <br>
-El libro <b>Comunidades e famílias multiespécies: aportes à Saúe Única em Periferias</b> será lanzado el próximo 1 de junio en el Instituto de Estudos Avançados de la Universidade de São Paulo (IEA-USP). El libro estará disponible aquí en la sección de <a href="{{root}}/publicacoes-{{page.lang}}">publicaciones</a> de nuestra página, en el <a href="http://www.livrosabertos.sibi.usp.br">Portal de Libros Abiertos de la USP</a> y en la página del <a href="http://www.iea.usp.br/publicacoes">IEA</a>. 
+El libro <b>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias</b> será lanzado el próximo 1 de junio en el Instituto de Estudos Avançados de la Universidade de São Paulo (IEA-USP). El libro estará disponible aquí en la sección de <a href="{{root}}/publicacoes-{{page.lang}}">publicaciones</a> de nuestra página, en el <a href="http://www.livrosabertos.sibi.usp.br">Portal de Libros Abiertos de la USP</a> y en la página del <a href="http://www.iea.usp.br/publicacoes">IEA</a>. 
 <br>
 <a href="http://www.iea.usp.br/eventos/livro-comunidades-e-familias-multiespecies">Sepa más</a> y acompañe el lanzamiento.
 </div>
