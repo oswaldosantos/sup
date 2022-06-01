@@ -77,7 +77,6 @@ Espere em breve a tradução ao português.
 <figcaption>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias.</figcaption>
 </figure>
 
-[Leia a publicação]({{root}}/assets/publicacoes/comunidades-e-familias-multiespecies-aportes-a-saude-unica-em-periferias.pdf)
 
 
 [Volte ao índice](#indice)
