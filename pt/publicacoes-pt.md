@@ -8,8 +8,9 @@ redirect_from: /publicacoes-pt
 
 * [Saúde Única em Periferias: biopolítica, determinação social e campo de práxis.](#sup01)
 * [Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Periferias.](#sup02)
-* [Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias](#comunidades)
-* [Vivências da pandemia na São Remo: um discurso coletivo](#covid01)
+* [Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias.](#comunidades)
+* [Censos multiespécies em favelas vizinhas da Universidade de São Paulo.](#censos-usp)
+* [Vivências da pandemia na São Remo: um discurso coletivo.](#covid01)
 * [Vulnerabilidade social, esporotricose e lugares a serem priorizados.](#esporo01)
 * [Violência interpessoal, abuso animal e vulnerabilidade social no município de São Paulo.](#viol01)
 * [Dinâmica espaçotemporal e fatores de risco da leptospirose humana no Brasil.](#lepto01)
@@ -77,7 +78,30 @@ Espere em breve a tradução ao português.
 <figcaption>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias.</figcaption>
 </figure>
 
-[Leia a publicação]({{root}}/assets/publicacoes/comunidades-e-familias-multiespecies-aportes-a-saude-unica-em-periferias.pdf)
+[Leia a publicação](http://www.iea.usp.br/publicacoes/ebooks/comunidades-e-familias-multiespecies)
+
+[Volte ao índice](#indice)
+
+<br>
+<br>
+<br>
+
+---
+
+### <a name="censos-usp">Censos multiespécies em favelas vizinhas da Universidade de São Paulo<a/>
+
+<br>
+Os censos permitem conhecer aspectos populacionais estratégicos para dimensionar demandas e embasar reivindicações. Como instituição de uma cidade extremamente desigual e iníqua, a imponência da Universidade de São Paulo contrasta com a marginalização que sofrem alguns dos seus vizinhos. O Censo Vizinhança USP, sintetizado em dois volumes, revela em termos populacionais algumas situações e tensionamentos que permitirão acompanhar melhor nos próximos anos a relação da universidade com as favelas vizinhas de dois dos seus campi. O censo, ao ser multiespécie, aborda aspectos demográficos de humanos, cachorros, gatos e pássaros, bem como conflitos com animais sinantrópicos, o cuidado de plantas e características ambientais. O Censo Vizinhança USP, uma iniciativa do Instituto de Estudos Avançados e parte da coleção Democracia, Artes e Saberes Plurais (DASP), conta com a participação de moradores dos territórios recenseados; estudantes, funcionários e docentes da USP; além de instituições parceiras. Érica Peçanha, colaboradora da Rede SUP, é uma das organizadoras e junto ao professor Oswaldo Baquero integra o grupo de coautores.
+<br>
+
+<figure>
+<img class="fig" src="{{root}}/assets/publicacoes/censo-usp.jpg" width=350 height=auto >
+<figcaption>Censo Vizinhança USP: características domiciliares e socioculturais do Jardim São Remo e Sem Terra (esquerda). Censo Vizinhança USP: características domiciliares e socioculturais do Jardim Keralux e da Vila Guaraciaba (direita).</figcaption>
+</figure>
+
+[Leia a publicação (livro 1)](http://www.iea.usp.br/publicacoes/ebooks/censo-vizinhanca-usp-jarim-sao-remo-e-sem-terra)
+
+[Leia a publicação (livro 2)](http://www.iea.usp.br/publicacoes/ebooks/censo-vizinhanca-usp-jardim-keralux-e-da-vila-guaraciaba)
 
 [Volte ao índice](#indice)
 

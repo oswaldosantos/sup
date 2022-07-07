@@ -8,6 +8,8 @@ redirect_from: /projetos-pt
 
 ### <a name="indice">Índice</a>
 
+* [Agentes Mirins da SUP](#mirins)
+* [Revitalização da Praça da Amizade](#praca-amizade)
 * [SUP translúcida.](#trans01)
 * [Teoria do comportamento planejado e higienização das mãos por crianças e adolescentes do Jardim São Remo, São Paulo, SP.](#maos)
 * [Documentação participativa da vivência da pandemia de COVID-19 no Jardim São Remo, São Paulo, SP.](#covid01)
@@ -17,6 +19,74 @@ redirect_from: /projetos-pt
 * [Prevenção de mordeduras.](#mordeduras)
 * [Educação ambiental.](#eduambiental)
 * [Prevenção de zoonoses e doenças transmitidas por alimentos.](#zoonoses)
+
+<br>
+<br>
+<br>
+
+---
+
+### <a name="mirins">Agentes Mirins da SUP.</a>
+<br>
+O projeto Agentes Mirins da Saúde Única em Periferias (AM-SUP) está trabalhando a promoção da SUP com a participação de adolescentes de duas favelas do município de São Paulo: Jardim São Remo, na Zona Oeste, e, Serra Pelada, na Zona Norte. À semelhança des Agentes Comunitários de Saúde e des Agentes de Promoção Ambiental, es adolescentes do projeto trabalham como agentes comunitários. O olhar e a inserção des AM-SUP, nas suas respectivas comunidades, são diferenciados em virtude da condição de adolescentes, moradores, e integrantes de instituições socioculturais e educativas dos territórios em que atuam. Atualmente, es AM-SUP estão envolvides em: (1) atividades de diagnóstico situacional que articulam diversas metodologias de mapeamento participativo, (2) rodas de conversa, (3) organização e realização de oficinas de promoção da SUP, (4) revitalização de uma praça e (5) implementação da fase piloto de um sistema de monitoramento de indicadores de saúde.
+
+<figure>
+<img src="{{root}}/assets/projetos/mirins/mirins1.jpeg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/mirins/mirins2.jpeg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/mirins/mirins3.jpeg" width=350 height=auto >
+</figure>
+
+[Volte ao índice](#indice)
+
+<br>
+<br>
+<br>
+
+---
+
+### <a name="praca-amizade">Revitalização da Praça da Amizade.</a>
+<br>
+A vinculação territorial mediada pelo cuidado multiespécie é indissociável da promoção da SUP. Durante a pandemia de Covid-19, a Praça da Amizade (Praça da Dona Eva) da favela São Remo, um lugar com valor histórico e simbólico no território, foi dramaticamente danificada. Como disse o Eraldo, “houve uma chacina de árvores, acabaram com a casa de um monte de passarinhos, as abelhas estão sofrendo”. O papel do Eraldo da Silva e da Camila Santos, moradores da São Remo, tem sido inestimável para a revitalização da praça. É nesse contexto que a Rede SUP, convocada para ajudar na revitalização e manutenção da praça, tem se mobilizado para articular esforços comunitários, pedagogias periféricas e saberes acadêmicos entorno da amizade da praça.
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr1.jpeg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr2.jpg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr3.jpg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr4.jpg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr5.jpg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr6.jpg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr7.jpeg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr8.jpeg" width=350 height=auto >
+</figure>
+
+[Volte ao índice](#indice)
 
 <br>
 <br>
