@@ -131,7 +131,7 @@ e seus respectivos resultados, valendo-se de registros adicionais e reaproveitan
 <img src="{{root}}/assets/publicacoes/covid01/covid01-{{page.lang}}.png" width=350 height=auto >
 </figure>
 
-<a href="{{root}}/assets/publicacoes/covid01/vivencias-{{page.lang}}.pdf">Leia a publicação</a>
+[Leia a publicação](https://zenodo.org/record/5211531#.Yv-8dtJv-V4)
 
 [Volte ao índice](#indice)
 

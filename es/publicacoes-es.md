@@ -98,7 +98,7 @@ Vale notar que a pesar del uso de algunos elementos del Photovoice y del “disc
 <img src="{{root}}/assets/publicacoes/covid01/covid01-pt.png" width=350 height=auto >
 </figure>
 
-[Lea l a publicación (portugués)](https://zenodo.org/record/5211531#.Yv-8dtJv-V4)
+[Lea la publicación en  portugués](https://zenodo.org/record/5211531#.Yv-8dtJv-V4)
 
 [Vuelva al índice](#indice)
 
