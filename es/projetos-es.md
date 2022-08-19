@@ -43,7 +43,7 @@ El proyecto Pequeñes Agentes de Una Salud de las Periferias (AM-SUP por sus sig
 
 <figure>
 <img src="{{root}}/assets/projetos/mirins/mapa-falante.jpeg" width=350 height=auto >
-<figcaption>Mapa hablante produzido por les pequeñes agentes.</figcaption>
+<figcaption>Mapa hablante producido por les pequeñes agentes.</figcaption>
 </figure>
 
 [Vuelva al índice](#indice)
