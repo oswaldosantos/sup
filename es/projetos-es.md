@@ -6,11 +6,13 @@ original: projetos-pt
 
 ### <a name="indice">Índice</a>
 
+* [Pequeñes Agentes de la SUP.](#mirins)
+* [Revitalización del Jardín de la Amistad.](#praca-amizade)
 * [SUP translúcida.](#trans01)
-* [Teoría del comportamiento planeado e higiene de las manos por niños y adolescentes del Jardim São Remo, São Paulo, SP.](#maos)
+* [Teoría del comportamiento planeado e higiene de las manos por niñes y adolescentes del Jardim São Remo, São Paulo, SP.](#maos)
 * [Documentación participativa de la vivencia de la pandemia de COVID-19 en el Jardim São Remo, São Paulo, SP.](#covid01)
-* [Dimensiones del abuso animal practicado y presenciado por niños y adolescentes.](#viol02)
-* [Vigilancia de enfermedades desatendidas en áreas silenciosas.](#silenciosas)
+* [Dimensiones de la violencia contra animales de compañía practicada y presenciada por niñes y adolescentes.](#viol02)
+* [Vigilangcia de enfermedades desatendidas en áreas silenciosas.](#silenciosas)
 * [Bien estar de animales de compañía.](#bemestar)
 * [Prevención de mordeduras.](#mordeduras)
 * [Educaión ambiental.](#eduambiental)
@@ -22,7 +24,84 @@ original: projetos-pt
 
 ---
 
+### <a name="mirins">Pequeñes Agentes de la SUP.</a>
+<br>
+El proyecto Pequeñes Agentes de Una Salud de las Periferias (AM-SUP por sus siglas en portugués) está trabajando la promoción de la SUP con la participación de adolescentes de dos favelas de la ciudad de São Paulo: Jardim São Remo en la Zona Oeste, y Serra Pelada en la Zona. A semejanza de los Agentes Comunitarios de Salud y de los Agentes de Promoción Ambiental, les adolescentes del proyecto trabajan como agentes comunitarios. La visión y la inserción de les AM-SUP, en sus respectivas comunidades, son diferenciados en  virtud de la condición de adolescentes, residentes e integrantes de instituciones socioculturales y educativas de los territorios en los cuales actúan. Actualmente, les AM-SUP están involcurades en: (1) actividades de diagnóstico situacional que articulan metodologías de mapeo participativo, (2) ruedas de conversación, (3) organización y realización de oficinas de promoción de la SUP, (4) revitalización de un jardín y (5) implementación de la fase piloto de un sistema de monitoreo de indicadores de salud.
+<br>
+
+<figure>
+<img src="{{root}}/assets/projetos/mirins/mirins1.jpeg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/mirins/mirins2.jpeg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/mirins/mirins3.jpeg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/mirins/mapa-falante.jpeg" width=350 height=auto >
+<figcaption>Mapa hablante produzido por les pequeñes agentes.</figcaption>
+</figure>
+
+[Vuelva al índice](#indice)
+
+<br>
+<br>
+<br>
+
+---
+
+### <a name="praca-amizade">Revitalización del Jardín de la Amistad.</a>
+
+<br>
+La vinculación territorial mediada por el cuidado multiespécie es indisociable de la promoção de la SUP. Durante la pandemia de Covid-19, el Jardín de la Amistad de la favela São Remo, un lugar con valor histórico y simbólico del territorio, fue dramáticamente deteriorado. Como dijo Eraldo, “hubo una masacre de árboles, acabaron con la casa de un montón de pájaros, las abejas están sufriendo”. El papel de Eraldo da Silva y de Camila Santos, residentes de la comunidad, ha sido inestimable para la revitalización del jardín. Es en ese contexto que la Red SUP, convocada para ayudar a revitalizar y mantener el jardín, se esta movilizando para articular esfuerzos comunitarios, pedagogías periféricas y saberes académicos en torno del jardín.
+<br>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr1.jpeg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr2.jpg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr3.jpg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr4.jpg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr5.jpg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr6.jpg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr7.jpeg" width=350 height=auto >
+</figure>
+
+<figure>
+<img src="{{root}}/assets/projetos/praca-amizade/pr8.jpeg" width=350 height=auto >
+</figure>
+
+[Vuelva al índice](#indice)
+
+<br>
+<br>
+<br>
+
+---
+
 ### <a name="trans01">SUP translúcida.</a>
+
 <br>
 Encuentro que organizamos con nuestrxs amigxs de [Juegos Translúcidos](https://www.juegostranslucidos.com/), Dumangue del Centro Cultural Riacho Doce y Ericsson Magnavita. Juegos, transparencia, colores, música e improvisación en una vivencia mágica de la SUP.
 <figure>
@@ -81,9 +160,9 @@ Encuentro que organizamos con nuestrxs amigxs de [Juegos Translúcidos](https://
 
 ---
 
-### <a name="maos">.Teoría del comportamiento planeado e higiene de las manos por niños y adolescentes del Jardim São Remo, São Paulo, SP.</a>
+### <a name="maos">.Teoría del comportamiento planeado e higiene de las manos por niñes y adolescentes del Jardim São Remo, São Paulo, SP.</a>
 <br>
-El lavado de las manos es un procedimiento que ayuda a prevenir zoonosis y otras infecciones. No obstante, el lavado debe seguir un procedimiento específico para maximizar la efectividad preventiva y las investigaciones muestran que hasta los profesionales de la salud tienen dificultad para seguir ese procedimiento. Poco se sabe sobre comportamientos preventivos en las periferias urbanas y el lavado de manos no es una excepción. Por lo tanto, el presente estudio evaluó el lavado de manos por niños y adolescentes que frecuentaban el Circo Escola en el Jardim São Remo, un espacio público con función social inestimable, que infelizmente fue abandonado durante la pandemia, acumulando deterioro en las instalaciones e generando ansiedad en la comunidad, que a pesar de todo, está luchando organizadamente para rescatar el Circo Escola. El estudio se valió de la  teoría del comportamiento planeado para investigar de que forma el lavado de manos es influenciado por las actitudes(ventajas/desventajas que los niños ven en el lavado de manos), las normas subjetivas injuntivas (aprobación/reprobación de referentes sociales – p. ex. ¿Los amigos consideran una bobada lavarse las manos?), las normas subjetivas descriptivas (ejemplo dado por los referentes sociales – p. ex. ¿Los adultos más importantes para los niños se lavan loas manos cuando van al baño?) y el control percibido (control sobre la condiciones necesarias para lavarse las manos – p. ex. Acceso a lavamanos, jabón etc.). Los resultados indican posibilidades y limitaciones para promover la higiene de las manos en niños y adolescentes de las periferias urbanas. La investigación fue realizada por estudiantes y profesores de la SUP y está en proceso de publicación.
+El lavado de las manos es un procedimiento que ayuda a prevenir zoonosis y otras infecciones. No obstante, el lavado debe seguir un procedimiento específico para maximizar la efectividad preventiva y las investigaciones muestran que hasta los profesionales de la salud tienen dificultad para seguir ese procedimiento. Poco se sabe sobre comportamientos preventivos en las periferias urbanas y el lavado de manos no es una excepción. Por lo tanto, el presente estudio evaluó el lavado de manos por niñes y adolescentes que frecuentaban el Circo Escola en el Jardim São Remo, un espacio público con función social inestimable, que infelizmente fue abandonado durante la pandemia, acumulando deterioro en las instalaciones e generando ansiedad en la comunidad, que a pesar de todo, está luchando organizadamente para rescatar el Circo Escola. El estudio se valió de la  teoría del comportamiento planeado para investigar de que forma el lavado de manos es influenciado por las actitudes(ventajas/desventajas que los niñes ven en el lavado de manos), las normas subjetivas injuntivas (aprobación/reprobación de referentes sociales – p. ex. ¿Los amigos consideran una bobada lavarse las manos?), las normas subjetivas descriptivas (ejemplo dado por los referentes sociales – p. ex. ¿Los adultos más importantes para los niñes se lavan loas manos cuando van al baño?) y el control percibido (control sobre la condiciones necesarias para lavarse las manos – p. ex. Acceso a lavamanos, jabón etc.). Los resultados indican posibilidades y limitaciones para promover la higiene de las manos en niñes y adolescentes de las periferias urbanas. La investigación fue realizada por estudiantes y profesores de la SUP y está en proceso de publicación.
 <figure>
 <img src="{{root}}/assets/projetos/maos/maos.jpg" width=350 height=auto >
 <figcaption>Dibujo por Sebastián Mora.</figcaption>
@@ -119,10 +198,10 @@ La priorización de poblaciones en mayor riesgo de sufrir agravios de salud es u
 
 ---
 
-### <a name="viol02">Dimensiones del abuso animal practicado y presenciado por niños y adolescentes.</a>
+### <a name="viol02">Dimensiones de la violencia contra animales de compañía practicada y presenciada por niñes y adolescentes.</a>
 
 <br>
-¿Por que algunos niños testifican y practican actos violentos contra animales más que otros? Para contribuir a la respuesta, este estudio esta integrando teoría sicológicas, validación sicométrica de cuestionarios, modelos estadísticos y evaluación del efecto de la vulnerabilidad social. Quien desarrolla la investigación es Juliana Tozzi de Almeida y Oswaldo Santos Baquero.
+¿Por que algunos niñes testifican y practican actos violentos contra animales más que otros? Para contribuir a la respuesta, este estudio esta integrando teoría sicológicas, validación sicométrica de cuestionarios, modelos estadísticos y evaluación del efecto de la vulnerabilidad social. Quien desarrolla la investigación es Juliana Tozzi de Almeida y Oswaldo Santos Baquero.
 
 <figure>
 <img src="{{root}}/assets/projetos/viol01/viol01.jpg" width=350 height=auto >
@@ -165,14 +244,14 @@ Algunas enfermedades están relativamente restrictas a las periferias, afectando
 
 <br>
 
-Un censo que publicamos y en el cual estamos trabajando para publicar los resultados mostró que en el Jardim São Remo hay más animales de compañía que niños. Muchas personas consideran esos animales como parte de la familia. Así, cuidar los animales de compañía, además de necesario por el valor intrínseco que tienen, es necesario para el buen vivir de las familias. La ciencia del bien estar animal ayuda a legitimar la explotación de los animales en el agronegocio. No obstante, hace contribuciones importantes como la concepción de las cinco libertades, por las cuales indica que los animales deben ser:
+Un censo que publicamos y en el cual estamos trabajando para publicar los resultados mostró que en el Jardim São Remo hay más animales de compañía que niñes. Muchas personas consideran esos animales como parte de la familia. Así, cuidar los animales de compañía, además de necesario por el valor intrínseco que tienen, es necesario para el buen vivir de las familias. La ciencia del bien estar animal ayuda a legitimar la explotación de los animales en el agronegocio. No obstante, hace contribuciones importantes como la concepción de las cinco libertades, por las cuales indica que los animales deben ser:
 * libres de hambre, sed y desnutrición;
 * libres de incomodidad;
 * libres de dolor, enfermedad y lesiones;
 * libres de miedo y estrés y;
 * libres para expresar los comportamientos naturales de la especie.
 
-Por medio de una serie de encuentros con niños y adolescentes del Circo Escola, esas libertades fueron objeto de juegos, ruedas de conversación y diversas actividades. Los datos de un cuestionario sobre el asunto están siendo objeto de investigación sobre las formas como niños y adolescentes entienden las manifestaciones relacionadas a las cinco libertades.
+Por medio de una serie de encuentros con niñes y adolescentes del Circo Escola, esas libertades fueron objeto de juegos, ruedas de conversación y diversas actividades. Los datos de un cuestionario sobre el asunto están siendo objeto de investigación sobre las formas como niñes y adolescentes entienden las manifestaciones relacionadas a las cinco libertades.
 
 <figure>
 <img src="{{root}}/assets/projetos/bemestar/oficina.jpg" width=350 height=auto >
@@ -181,7 +260,7 @@ Por medio de una serie de encuentros con niños y adolescentes del Circo Escola,
 
 <figure>
 <img src="{{root}}/assets/projetos/bemestar/rede.jpg" width=350 height=auto >
- <figcaption>Análisis de redes para identificar perfiles de comprensión del bien estar de perros y gatos en niños del Circo Escola, Jardim São Remo. Cada punnto de la red es una opción de respuesta y los colores distinguen tres perfiles de respuesta. Presentaremos más detalles en una publicacíon científica.</figcaption>
+ <figcaption>Análisis de redes para identificar perfiles de comprensión del bien estar de perros y gatos en niñes del Circo Escola, Jardim São Remo. Cada punnto de la red es una opción de respuesta y los colores distinguen tres perfiles de respuesta. Presentaremos más detalles en una publicacíon científica.</figcaption>
 </figure>
 
 [Vuelva al índice](#indice)
@@ -196,11 +275,11 @@ Por medio de una serie de encuentros con niños y adolescentes del Circo Escola,
 
 <br>
 
-Los espacios pequeños y el sedentarismo, así como la privación de algunos estímulos y el exceso de otros, predisponen a relaciones familiares disfuncionales. A esto se suma el desconocimiento del comportamiento animal que lleva a fallas de comunicación, y en el caso de los perros, a mordedura que llegan a ser fatales. En la mayoría de los casos los perros manifiestan comportamientos de alerta que podrían evitar agresiones físicas. Sin embargo, cuando son ignorados pueden terminar en ataques con múltiples consecuencias: heridas físicas, traumas sicológicos; elevados costos de tratamiento quirúrgico, farmacológico y sicológico; maltrato, abandono y hasta la muerte de los perros agresores y; infelizmente, muerte de víctimas humanas. Los accidentes con niños tienen mayor probabilidad de ser graves y por lo tanto se debe investir en la identificación y creación de espacios propicios para interacciones entre niños y perros, y en la identificación de los comportamientos de alerta que permiten evitar accidentes. Aunque los accidentes con gatos son generalmente de menor severidad, también pueden ser graves y evitados siguiendo el mismo raciocinio. Por esa razón, las interacciones saludables y la prevención de mordeduras fueron un eje trabajado en encuentros con niños y adolescentes del Circo Escola del Jardim São Remo. En este proyecto contamos con la colaboración de Rosangela Ribeiro Guebara de la [World Animal Protection](www.protecaoanimalmundial.org.br).
+Los espacios pequeños y el sedentarismo, así como la privación de algunos estímulos y el exceso de otros, predisponen a relaciones familiares disfuncionales. A esto se suma el desconocimiento del comportamiento animal que lleva a fallas de comunicación, y en el caso de los perros, a mordedura que llegan a ser fatales. En la mayoría de los casos los perros manifiestan comportamientos de alerta que podrían evitar agresiones físicas. Sin embargo, cuando son ignorados pueden terminar en ataques con múltiples consecuencias: heridas físicas, traumas sicológicos; elevados costos de tratamiento quirúrgico, farmacológico y sicológico; maltrato, abandono y hasta la muerte de los perros agresores y; infelizmente, muerte de víctimas humanas. Los accidentes con niñes tienen mayor probabilidad de ser graves y por lo tanto se debe investir en la identificación y creación de espacios propicios para interacciones entre niñes y perros, y en la identificación de los comportamientos de alerta que permiten evitar accidentes. Aunque los accidentes con gatos son generalmente de menor severidad, también pueden ser graves y evitados siguiendo el mismo raciocinio. Por esa razón, las interacciones saludables y la prevención de mordeduras fueron un eje trabajado en encuentros con niñes y adolescentes del Circo Escola del Jardim São Remo. En este proyecto contamos con la colaboración de Rosangela Ribeiro Guebara de la [World Animal Protection](www.protecaoanimalmundial.org.br).
 
 <figure>
 <img src="{{root}}/assets/projetos/mord01/mord.jpg" width=350 height=auto >
- <figcaption>Ejemplo de ilustraciones que junto a videos fueron usadas para discutir situaciones de riesgo de mordeduras con niños del Circo Escola, Jardim São Remo.</figcaption>
+ <figcaption>Ejemplo de ilustraciones que junto a videos fueron usadas para discutir situaciones de riesgo de mordeduras con niñes del Circo Escola, Jardim São Remo.</figcaption>
 </figure>
 
 [Vuelva al índice](#indice)
@@ -214,7 +293,7 @@ Los espacios pequeños y el sedentarismo, así como la privación de algunos est
 ### <a name="eduambiental">Educación ambiental.</a>
 
 <br>
-Al trabajar educación ambiental, debemos considerar que no hay un único abordaje, un debate estandarizado o soluciones listas. Cada comunidad, cada público y cada ambiente tiene sus peculiaridades. De esa manera, los niños y adolescentes del Circo Escola nos ayudaron a comprender algunos desafíos de la comunidad São Remo. Con ellos establecimos diálogos y reflexiones para incentivar actitudes colectivas y pensar soluciones practicas para problemas cotidianos que al afectar el ambiente, impactan también a los seres que en él viven y conviven. Además, realizamos mapeamientos para identificar los lugares más problemáticos del territorio, desarrollamos actividades de concientización junto a la empresa (Loga) responsable por la colecta de residuos domiciliares y visitamos el aterro sanitario administrado por la empresa.
+Al trabajar educación ambiental, debemos considerar que no hay un único abordaje, un debate estandarizado o soluciones listas. Cada comunidad, cada público y cada ambiente tiene sus peculiaridades. De esa manera, los niñes y adolescentes del Circo Escola nos ayudaron a comprender algunos desafíos de la comunidad São Remo. Con ellos establecimos diálogos y reflexiones para incentivar actitudes colectivas y pensar soluciones practicas para problemas cotidianos que al afectar el ambiente, impactan también a los seres que en él viven y conviven. Además, realizamos mapeamientos para identificar los lugares más problemáticos del territorio, desarrollamos actividades de concientización junto a la empresa (Loga) responsable por la colecta de residuos domiciliares y visitamos el aterro sanitario administrado por la empresa.
 
 <figure>
 <img src="{{root}}/assets/projetos/eduambiental/buracana.jpg" width=350 height=auto >
@@ -238,7 +317,7 @@ Al trabajar educación ambiental, debemos considerar que no hay un único aborda
 
 <figure>
 <img src="{{root}}/assets/projetos/eduambiental/rede.jpg" width=350 height=auto >
-<figcaption>Atividade lúdica con niños del Circo Escola, Jardim São Remo.</figcaption>
+<figcaption>Atividade lúdica con niñes del Circo Escola, Jardim São Remo.</figcaption>
 </figure>
 
 [Vuelva al índice](#indice)
@@ -252,7 +331,8 @@ Al trabajar educación ambiental, debemos considerar que no hay un único aborda
 ### <a name="zoonoses">Prevenção de zoonoses e doenças transmitidas por alimentos.</a>
 
 <br>
-La importancia de las zoonosis se entiende al ver que 75% de las enfermedades infecciosas emergentes en humanos tienen origen animal y 60% de las enfermedades infecciosas que afectan humanos son zoonóticos. Además, los alimentos de origen animal o contaminados con patógenos zoonóticos también son una causa importante de enfermedades. Las medidas de prevención individual son bien conocidas pero muchas pierden sentido en contextos periféricos. ¿Como es recibida la recomendación de mantener secos los platos de vasos de plantas para prevenir arbovirosis, cuando hay casas construidas sobre caños abiertos en los cuales se depositan aguas sucias y al mismo tiempo las casas no están protegidas contra la inundación de esas aguas? ¿La recomendación de mantener los animales de compañía dentro de las casas para evitar zoonosis y otros agravios de salud, cuando la estructura física de las casas no lo permite y el área de las mismas es extremadamente pequeña? Cuando las recomendaciones comunes pierden sentido, es necesario pensar diferente, algo que hemos aprendido con los niños del Circo Escola durante encuentros para conversar y construir estrategias preventivas contra zoonosis y enfermedades transmitidas por alimentos.
+La importancia de las zoonosis se entiende al ver que 75% de las enfermedades infecciosas emergentes en humanos tienen origen animal y 60% de las enfermedades infecciosas que afectan humanos son zoonóticos. Además, los alimentos de origen animal o contaminados con patógenos zoonóticos también son una causa importante de enfermedades. Las medidas de prevención individual son bien conocidas pero muchas pierden sentido en contextos periféricos. ¿Como es recibida la recomendación de mantener secos los platos de vasos de plantas para prevenir arbovirosis, cuando hay casas construidas sobre caños abiertos en los cuales se depositan aguas sucias y al mismo tiempo las casas no están protegidas contra la inundación de esas aguas? ¿La recomendación de mantener los animales de compañía dentro de las casas para evitar zoonosis y otros agravios de salud, cuando la estructura física de las casas no lo permite y el área de las mismas es extremadamente pequeña? Cuando las recomendaciones comunes pierden sentido, es necesario pensar diferente, algo que hemos aprendido con los niñes del Circo Escola durante encuentros para conversar y construir estrategias preventivas contra zoonosis y enfermedades transmitidas por alimentos.
+<br>
 
 <figure>
 <img src="{{root}}/assets/projetos/zoonoses/riacho01.jpg" width=350 height=auto >
