@@ -9,6 +9,7 @@ original: publicacoes-pt
 * [Una Salud de las Periferias: biopolítica, determinación social e campo de praxis.](#sup01)
 * [De la Salud Planetaria moderna a la promoción decolonial de Una Salud de las Periferias.](#sup02)
 * [Comunidades y familias multiespécies: aportes a Una Salud de las Periferias.](#comunidades)
+* [Censos multiespécies en favelas vecinas de la Universidad de São Paulo](#censos-usp)
 * [Vivencias de la pandemia en São Remo: un discurso colectivo.](#covid01)
 * [Vulnerabilidad social, esporotricosis y lugares a ser priorizados.](#esporo01)
 * [Violencia interpersonal, abuso animal y vulnerabilidad social en la ciudad de São Paulo.](#viol01)
@@ -73,6 +74,29 @@ Espere en breve la traducción al español.
 </figure>
 
 [Lea el libro en portugés](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/book/853)
+
+[Vuelva al índice](#indice)
+
+<br>
+<br>
+<br>
+
+---
+
+### <a name="censos-usp">Censos multiespécies en favelas vecinas de la Universidad de São Paulo<a/>
+
+<br>
+Los censos permiten conocer aspectos poblacionales estratégicos para dimensionar demandas e fundamentar reivindicaciones. Como institución de una ciudad extremadamente desigual e inicua, la imponencia de la Universidade de São Paulo contrasta con la marginalización que sufren algunos de sus vecinos. El Censo Vizinhança USP, sintetizado en dos volúmenes, revela en términos poblacionales algunas situaciones y tensiones que permitirán acompañar mejor en los próximos años la relación de la universidad con las favelas vecnias de dos de sus campi. El censo, al ser multiespécie, aborda aspectos demográficos de humanos, perros, gatos y pájaros, así como conflictos con animales sinantrópicos, el cuidado de plantas y características ambientales. El Censo Vizinhança USP, una iniciativa del Instituto de Estudos Avançados, es parte de la colección Democracia, Artes e Saberes Plurais (DASP) y cuenta con la participación de residentes de los territorios censados; estudiantes, funcionarios y docentes de la universidad; además de instituciones colaboradoras. Érica Peçanha, colaboradora de la Red SUP, es una das organizadoras y junto al profesor Oswaldo Baquero integra el grupo de coautores.
+<br>
+
+<figure>
+<img class="fig" src="{{root}}/assets/publicacoes/censo-usp.jpg" width=350 height=auto >
+<figcaption>Censo Vizinhança USP: características domiciliares e socioculturais do Jardim São Remo e Sem Terra (isquierda). Censo Vizinhança USP: características domiciliares e socioculturais do Jardim Keralux e da Vila Guaraciaba (derecha).</figcaption>
+</figure>
+
+[Lea la publicaión en portugués (libro 1)](http://www.iea.usp.br/publicacoes/ebooks/censo-vizinhanca-usp-jarim-sao-remo-e-sem-terra)
+
+[Lea la publicación en portugés (libro 2)](http://www.iea.usp.br/publicacoes/ebooks/censo-vizinhanca-usp-jardim-keralux-e-da-vila-guaraciaba)
 
 [Vuelva al índice](#indice)
 
