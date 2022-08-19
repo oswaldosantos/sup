@@ -78,7 +78,7 @@ Espere em breve a tradução ao português.
 <figcaption>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias.</figcaption>
 </figure>
 
-[Leia a publicação](http://www.iea.usp.br/publicacoes/ebooks/comunidades-e-familias-multiespecies)
+[Leia a publicação](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/book/853)
 
 [Volte ao índice](#indice)
 

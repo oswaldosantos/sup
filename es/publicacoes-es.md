@@ -72,7 +72,7 @@ Espere en breve la traducción al español.
 <figcaption>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias.</figcaption>
 </figure>
 
-[Lea el libro en portugés]({{root}}/assets/publicacoes/comunidades-e-familias-multiespecies-aportes-a-saude-unica-em-periferias.pdf)
+[Lea el libro en portugés](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/book/853)
 
 [Vuelva al índice](#indice)
 
@@ -98,7 +98,7 @@ Vale notar que a pesar del uso de algunos elementos del Photovoice y del “disc
 <img src="{{root}}/assets/publicacoes/covid01/covid01-pt.png" width=350 height=auto >
 </figure>
 
-<a href="{{root}}/assets/publicacoes/covid01/vivencias-pt.pdf">Lea la publicación (portugués)</a>
+[Lea l a publicación (portugués)](https://zenodo.org/record/5211531#.Yv-8dtJv-V4)
 
 [Vuelva al índice](#indice)
 
