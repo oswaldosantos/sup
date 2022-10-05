@@ -30,31 +30,9 @@ Soy médica veterinaria de la Pontifícia Universidade Católica de Minas Gerais
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/julia.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Júlia da Mata</b><br>
-Mujer, negra y nordestina estudiante de medicina veterinaria de la FMVZ-USP. Actualmente me intereso por tópicos de seguridad alimentar y resistência a antimicrobianos, y en el tiempo libre maratono series, pratico yoga e improviso puntos no croché.
-<br>
-</div>
-</div>
-<br>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/ligia.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Ligia Neves Scuarcialupi</b><br>
-Soy Médica Veterinaria de la Universidade de São Paulo, y actualmente realizo maestría en el Laboratório de Epidemiologia e Bioestatística. Me gusta estudar zoonosis, principalmente la esporotricosis. También adoro viajar, ler miss libros y pasar el tiempo con persnoas queridas y con  mis gaticas!
-<br>
-<a href="http://portal.fmvz.usp.br/">FMVZ-USP</a><br>
-</div>
-</div>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/oswaldo.jpg" class="imagem-pessoa" ><br>
 <div>
-<b>Oswaldo Santos Baquero (coordinador de la red SUP)</b>  <br>
+<b>Oswaldo Santos Baquero</b>  <br>
 pluralidad sin periferias<br>
 <s>antropocentrismo colonialidad capitalismo</s><br>
 <s>agronegocio</s> soberanía y seguridad alimentar<br>
@@ -107,17 +85,6 @@ Docente de Atención Primaria de Salud del Curso de Fisioterapia de la Faculdade
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/beatriz.jpg" class="imagem-pessoa" ><br>
-<div>
-<b>Beatriz Gagete Veríssimo de Mello</b><br>
-Médica Veterinaria de la FMVZ-UNESP Botucatu y candidata de maestría en Epidemiologia Experimental aplicada às Zoonoses de la FMVZ USP. También permacultora y terapeuta de Ayurveda. Busco una visión holística de la vida y la harmonía con la naturaleza.
-<br>
-<a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
-</div>
-</div>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/bia-rocha.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Beatriz Rocha</b><br>
@@ -160,6 +127,16 @@ Carlos Dumange, residente del Riacho Doce de la comunidad São Remo, profesor de
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/carolina.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Carolina Carvalho</b><br>
+Realizó posdoctorado en salud ambiental en la Faculdade de Saúde Pública de la Universidade de São Paulo (USP), y es Doctora en Planeamiento Ambiental de la COPPE-Universidade Federal do Rio de Janeiro (UFRJ). Es Maestra en Sensoriamiento Remoto del Instituto Nacional de Pesquisas Espaciais (INPE) y graduada en Geología de la Unesp. Actualmente es investigadora colaboradora del IEE-USP y fundadora de Comunidades Vivas - Mapeamento Participativo.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/magda.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Diana Magdalena Jiménez</b><br>
@@ -181,10 +158,41 @@ Enfermera de salud colectiva. Terapeuta de Familia y parejas. Terapeuta Comunita
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/elbio.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Elbio Miyahira</b><br>
+Graduado en Teología de la Faculdade de Teologia Metodista Livre (1998) y graduado en Ciencias Sociales de la Universidade de São Paulo (2009). Maestro de la Pontifícia Universidade Católica de São Paulo - PUC SP, Programa de Estudos Pós-Graduados em Educação: História, Política, Sociedade (2015) y doctorado en curso del mismo programa. Investiga processos de escolarización, desigualdades sociales y diversidad en el grupo de investigación Movimentos Migratórios e Educação vinculado à PUC-SP. Tien 20 años de experiencia en el tercer setor.<br>
+</div>
+</div>
+<br>
+<br>
+
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/elena.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Elena Maria Hurtado</b><br>
+Médica veterinária zootecnista de la Universidad del Tolima (Colombia) y maestra en Ciencia Animal de la Universidade Federal de Minas Gerais (UFMG). Actualmente realizo doctorado en el Departamento de Medicina Veterinaria Preventiva e Saúde Animal (FMVZ-USP). Me intereso por las interacciones entre la salud animal, humana y ambiental.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/erica.jpg" class="imagem-pessoa" ><br>
 <div>
 <b>Érica Peçanha</b><br>
 Investigadora de posdoctorado del Instituto de Estudos Avançados de la USP y del nPeriferias - Grupo de Pesquisa das Periferias, con beca del proyecto Democracia, Artes e Saberes Plurais. Doctora en Antropología Social de la USP, con pasantía posdoctoral en la Faculdade de Educação de la misma instituición. Actua en las áreas de antropología urbana, investigación social y ciencias humanas y salud, con énfasis en las discusiones sobre periferia, cultura y juventud.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/ericsson.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Ericsson Magnavita</b><br>
+Me llamo ERICSSON MAGNAVITA soy uno de los articuladores dentro de la são remo y actuo como un lider que está en favor de la comunidad. Nascí en la comunidad, 36 años con 3 hijos Emilly, Evellyn, Lucas e mi esposa Tatiane, trabajo coomo autónomo. <br>
 </div>
 </div>
 <br>
@@ -211,28 +219,6 @@ Profesor del Departamento de Medicina Veterinária Preventiva e Saúde Animal (F
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/ericsson.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Ericsson Magnavita</b><br>
-Me llamo ERICSSON MAGNAVITA soy uno de los articuladores dentro de la são remo y actuo como un lider que está en favor de la comunidad. Nascí en la comunidad, 36 años con 3 hijos Emilly, Evellyn, Lucas e mi esposa Tatiane, trabajo coomo autónomo. <br>
-</div>
-</div>
-<br>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/gisella.jpg" class="imagem-pessoa" ><br>
-<div>
-<b>Gisella Dias</b><br>
-Soy médica veterinária, canidata de maestría en Epidemiologia experimental en el Laboratório de Epidemiologia e Bioestatística (FMVZ-USP). Soy apacionada por animales, me gusta leer, ver seriados y viajar. Soy miembro de la coordinación de la rede SUP desde el 2020, donde aprendo nuevas visiones sobre la salud de colectivos multiespecie en diferentes contextos y realidades. 
-<br>
-<a href="http://vps2.fmvz.usp.br/">VPS-FMVZ-USP</a><br>
-</div>
-</div>
-<br>
-
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/gislene.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Gislene Aparecida dos Santos</b><br>
@@ -247,16 +233,6 @@ Profesora de la Universidade de São Paulo (USP), del curso de pregrado en Gest�
 <div>
 <b>Juliana Tozzi de Almeida</b><br>
 Médica Veterinaria de la Universidade Federal do Espírito Santo (2013); Mestra en Ciencias Veterinarias de la Universidade Federal do Paraná (2017), vinculada al Laboratório de Bem-estar Animal (LABEA) y actualmente candidata a doctora en Medicina Veterinária Preventiva e Saúde animal de la FMVZ-USP (SP). Miembro de la red SUP desde 2019. Trabaja por la sociedad a través de los animales y busca una coexistencia más harmónica entre las especies. <br>
-</div>
-</div>
-<br>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/leo.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Leonardo Rossato</b><br>
-Licenciado en Ciências Biológicas del Instituto de Biociências de la USP (IB-USP). Actua como educador ambiental desde 2017 en proyetos de extensión universitaria y actualmente trabaja como profesor de biologia. Miembro de la red SUP desde 2019. <br>
 </div>
 </div>
 <br>
@@ -303,30 +279,10 @@ Médica Veterinaria con PhD en Salud Pública, profesora de la Facultad de Medic
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/rosangela-ribeiro.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Rosangela Ribeiro Gebara</b><br>
-Médica Veterinaria y Maestra en Ciência Veterinárias (FMVZ-USP), especialista en Bienestar Animal (Cambridge e-Learning Institute) y especialista en Bioética (FM-USP). Es miembro de las comisiones de ética en el uso de animales de la UNIFESP y FMU, y de las comisiones de bienestar animal del CRMV-SP y del CFMV. Fue Gerente de Programas Veterinarios en la ONG internacional World Animal Protection y actualmente es Gerente de Proyectos de la ONG Ampara Animal.<br>
-</div>
-</div>
-<br>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/simone.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Simone Rennó Junqueira</b><br>
 Soy profesora en la disciplina de Salud Colectiva en Odontología (FO-USP). Orientadora en el Mestrado Profissional Formação Interdisciplinar em Saúde. Ya atué en la red de servicios de salud del SUS, en la capital y en el interior. Mdre de tres hijos.<br>
-</div>
-</div>
-<br>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/tatiane.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Tatiane Braz Camargo</b><br>
-Residente de la comunidad São Remo, protectora de animales y realizadora de diversas acciones sociales.<br>
 </div>
 </div>
 <br>
@@ -338,11 +294,41 @@ Residente de la comunidad São Remo, protectora de animales y realizadora de div
 
 <br>
 
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-left align-items-center">
+<img src="{{root}}/assets/pessoas/ana-clara.jpg" class="imagem-pessoa" ><br>
+<div>
+<b>Ana Clara de Araujo Santos</b><br>
+Estudiante de Salud Pública de la Universidade de São Paulo.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/ana-renata.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Ana Renata Pereira da Silva</b><br>
+Estudiante de Nutrición y Salud Pública de la Universidade de São Paulo, miembro del proyecto Una Salud de las Periferias (SUP).<br>
+</div>
+</div>
+<br>
+<br>
+
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/danielle-santos.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Danille Santos</b><br>
 Graduanda do terceiro semestre em Medicina Veterinária pela FMVZ-USP e bolsista SUP.<br>
+</div>
+</div>
+<br>
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<img src="{{root}}/assets/pessoas/gabriela.jpeg" class="imagem-pessoa" ><br>
+<div>
+<b>Gabriela Andrade</b><br>
+Alumna de Obstetricia de la Universidade de São Paulo. Actualmente participando en proyectos voluntarios con habitantes de la calle y ancianos e investigadora en el área de Gestión Hospitalar de Maternidades. Em búqueda de una formación humanitaria y enriquecedora.<br>
 </div>
 </div>
 <br>
@@ -358,62 +344,11 @@ Estudiante de Nutrición y Salud Pública de la FSP-USP. Encantada con el SUS y 
 <br>
 <br>
 
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/helena.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Helena Martos Romboli</b><br>
-Estudiante de Medicina Veterinria (FMVZ-USP), con beca del Programa Aprender na Comunidade - Proyecto Saúde Única em Periferias. <br>
-</div>
-</div>
-<br>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/isadora.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Isadora Nunes</b><br>
-Estudiante de gestión de políticas públicas de la USP. Actuó como investigadora del proyecto Democracia, Artes e Saberes Plurais (2019-2020) en el Instituto de Estudos Avançados de la USP y actualmente tiene beca del proyecto Saúde Única em Periferias. También integra el Colectivo Denegrir na EACH-USP y es Representante Discente en la Comissão de Graduação de la misma unidad.<br>
-</div>
-</div>
-<br>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/luiza.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Luiza Lopes Romero</b><br>
-Partera, consultora de amamentación y estudante de 10º semestre de Obstetrícia (EACH-USP). Actualmente miembro del proyecto Saúde Única em Periferias (SUP) e investigadora y miembro del grupo de investigación Mulher & Saúde: Violência doméstica no período gravídico-puerperal pela EACH-USP. Además, es Representante Discente de Turma e monitora de la disciplina 'Assistência à Mulher na Família e na Comunidade' del curso de Obstetrícia.<br>
-</div>
-</div>
-<br>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/mayara-araujo.jpg" class="imagem-pessoa" ><br>
-<div>
-<b>Mayara Palos Araujo</b><br>
-Estudiante de la Facultad de Odontología de la Universidade de São Paulo.<br>
-</div>
-</div>
-<br>
-<br>
-
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <img src="{{root}}/assets/pessoas/raissa.jpeg" class="imagem-pessoa" ><br>
 <div>
 <b>Raissa Nouér de Oliveira</b><br>
 Estudiante de Medicina Veterinaria de la FMVZ-USP. Es integrante del Departamento de Extensão del Centro Acadêmico desde 2019, y voluntaria en el Proyecto Medicina Aviária: Saúde no Parque e em ações em aldeias indígenas pela ONG APINAN. Fue una de las precursoras del proyecto “Saúde única nas aldeias do Jaraguá” por medio del proyecto “VIAJ - Veterinário Itinerante: Aldeias do Jaraguá”.<br>
-</div>
-</div>
-<br>
-<br>
-
-<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/raquel.jpeg" class="imagem-pessoa" ><br>
-<div>
-<b>Raquel Gomes Catozo</b><br>
-Vice-presidente del Centro Acadêmico de la FMVZ-USP. Integrante del colectivo Ercilia Cobra - idealizadora del proyecto Sangue Livre para donación de absorventes para mujeres en situación de vulnerabilidad.<br>
 </div>
 </div>
 <br>
@@ -440,14 +375,15 @@ Estudiante de octavo semestre de Fisioterapia de la Faculdade de Medicina da Uni
 <br>
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
-<img src="{{root}}/assets/pessoas/thainara.jpeg" class="imagem-pessoa" ><br>
+<img src="{{root}}/assets/pessoas/vitor.jpg" class="imagem-pessoa" ><br>
 <div>
-<b>Thainara Rodrigues</b><br>
-Estudiante de Medicina Veterinaria (FMVZ-USP), con beca del Programa Aprender na Comunidade - Proyecto Saúde Única em Periferias. <br>
+<b>Vitor Hoffman</b><br>
+Graduado en Sistemas de Información de la EACH-USP y estudiante de Medicina Veterinaria de la FMVZ-USP. Pasé a interesarme por proyectos de extensión en mediados de 2021, cuando ingresé en proyecto Santuário de la FMVZ-USP. Apasionado por deportes, siendo Handebol el preferido. Juego en un equipo de la universidad y en un equipo amador de São Paulo. Pienso en  el deporte como una excelente herramienta de expresión de salud e inclusión.<br>
 </div>
 </div>
 <br>
 <br>
+
 
 [Vuelva al início](#top)
 
