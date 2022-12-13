@@ -23,11 +23,45 @@ original: index
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+12/12/2022
+<br>
+A OHP Network project brings a public policy of dog and cat reproductive control to the São Remo favela. The project is framed in a partnership between the Coordination of Health and Protection of Domestic Animals (COSAP) of the Municipal Health Secretariat, the University of São Paulo (USP) campus, and the School of Veterinary Medicine (USP).
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/castracao01.jpg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
+25/05/2022
+<br>
+The book <b>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias</b> (Multispecies communities and families: contributions to One Health of Peripheries will be released on June 1, at the Institute of Advanced Studies (IEA-USP). The book in  Portuguese will be available in the <a href="{{site.url}}/sup/{{page.lang}}/publicacoes-{{page.lang}}">publications</a> section.
+<br>
+<a href="http://www.iea.usp.br/eventos/livro-comunidades-e-familias-multiespecies">Learn more (Portuguese)</a>.
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/publicacoes/comunidades-capa.jpg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
 19/11/2021
 <br>
-The <b>No mês da saúde única, o que podemos aprender de outros meses temáticos?</b> (In the One Health awareness month, what can we learn from other thematic months?) webinar addresses evaluations, problems, and opportunities for health awareness month capaigns, emphasizing Pink October.
+The webinar <b>No mês da saúde única, o que podemos aprender de outros meses temáticos?</b> (In the One Health awareness month, what can we learn from other thematic months?) addresses evaluations, problems, and opportunities for health awareness month capaigns, emphasizing Pink October.
 <br>
-<a href="{{root}}/assets/noticias/mes-saude-unica.pdf">Saiba mais</a> e inscreva-se gratuitamente. Haverá emissão de certificados!
+<a href="{{root}}/assets/noticias/mes-saude-unica.pdf">Learn more (Portuguese)</a> and register for free. There will be participation certificates.
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/meses-saude.jpg" width=200 height=auto >

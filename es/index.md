@@ -23,6 +23,23 @@ original: index
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+12/12/2022
+<br>
+Proyecto de la Rede SUP lleva política pública de control reproductivo de perros y gatos a la favela São Remo. Se trata te una cooperación entre la Coordinación de Salud y Protección del Animal Doméstico (COSAP) de la Secretaría Municipal de Salud, el campus de la USP y la Facultad de Medicina Veterinaria y Zootecnia de la USP. 
+<br>
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/castracao01.jpg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
 25/05/2022
 <br>
 El libro <b>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias</b> será lanzado el próximo 1 de junio en el Instituto de Estudos Avançados de la Universidade de São Paulo (IEA-USP). El libro estará disponible aquí en la sección de <a href="{{site.url}}/sup/{{page.lang}}/publicacoes-{{page.lang}}">publicaciones</a> de nuestra página, en el <a href="http://www.livrosabertos.sibi.usp.br">Portal de Libros Abiertos de la USP</a> y en la página del <a href="http://www.iea.usp.br/publicacoes">IEA</a>. 

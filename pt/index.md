@@ -22,6 +22,23 @@ title: Início
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+12/12/2022
+<br>
+Projeto da Rede SUP leva política pública de controle reprodutivo de cães e gatos para a comunidade São Remo. Trata-se de uma parceria entre a Coordenadoria de Saúde e Proteção do Animal Doméstico (COSAP) da Secretaria Municipal da Saúde, a Prefeitura do campus da USP e a Faculdade de Medicina Veterinária e Zootecnia da USP. 
+<br>
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/castracao01.jpg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
 25/05/2022
 <br>
 O livro <b>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias</b> será lançado no próximo 1 de junho no Instituto de Estudos Avançados da (IEA-USP). O livro estará disponível aqui na seção de <a href="{{site.url}}/sup/{{page.lang}}/publicacoes-{{page.lang}}">publicações</a> da nossa página, no <a href="http://www.livrosabertos.sibi.usp.br">Portal de Livros Abertos da USP</a> e na página do <a href="http://www.iea.usp.br/publicacoes">IEA</a>. 
