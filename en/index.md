@@ -41,7 +41,7 @@ A OHP Network project brings a public policy of dog and cat reproductive control
 <div>
 25/05/2022
 <br>
-The book <b>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias</b> (Multispecies communities and families: contributions to One Health of Peripheries will be released on June 1, at the Institute of Advanced Studies (IEA-USP). The book in  Portuguese will be available in the <a href="{{site.url}}/sup/{{page.lang}}/publicacoes-{{page.lang}}">publications</a> section.
+The book <b>Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias</b> (Multispecies communities and families: contributions to One Health of Peripheries) will be released on June 1, at the Institute of Advanced Studies (IEA-USP). The book in  Portuguese will be available in the <a href="{{site.url}}/sup/{{page.lang}}/publicacoes-{{page.lang}}">publications</a> section.
 <br>
 <a href="http://www.iea.usp.br/eventos/livro-comunidades-e-familias-multiespecies">Learn more (Portuguese)</a>.
 </div>
