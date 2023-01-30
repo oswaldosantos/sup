@@ -297,7 +297,8 @@ A shortlist in the face of the urgency for another thinking.
 
 Inequity is a fundamental concept of the social determination of health and therefore we need theories of multispecies justice for the promotion of OHP.
 
-* Nussbaum, M. C. (2006). Frontiers of justice: Disability, nationality, species membership (pp. 76-8). Cambridge, MA: Belknap Press.
+* Nussbaum, M. C. (2022). Justice for animals: our collective responsability. New York, Simon & Schuster.
+* Nussbaum, M. C. (2006). Frontiers of justice: Disability, nationality, species membership. Cambridge, MA: Belknap Press.
 * Blattner, C. E., Coulter, K., & Kymlicka, W. (Eds.). (2019). Animal Labour: A New Frontier of Interspecies Justice?. Oxford University Press.
 * Celermajer, D., Chatterjee, S., Cochrane, A., Fishel, S., Neimanis, A., O’Brien, A., ... & Waldow, A. (2020). Justice through a multispecies lens. Contemporary Political Theory, 1-38.
 * Celermajer, D., Schlosberg, D., Rickards, L., Stewart-Harawira, M., Thaler, M., Tschakert, P., ... & Winter, C. (2020). Multispecies justice: theories, challenges, and a research agenda for environmental politics. Environmental Politics, 1-22.
