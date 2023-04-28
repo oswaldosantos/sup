@@ -23,9 +23,9 @@ original: index
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
-04/27/2023
+27/04/2023
 <br>
-Sarau Composition Urbana is a community cultural initiative that will address the physical and mental health of children and adolescents in the peripheries, in particular abuse and exploitation. The event will feature community leaders and health professionals. The issue will also be addressed from the multispecies perspective of One Health of Peripheries. The event will be held at the Associação de Moradores do Jardim São Remo, Rua Aquinés, 109, on 04/29/2023, between 2 pm and 6 pm. <br>
+Sarau Composition Urbana is a community cultural initiative that will address the physical and mental health of children and adolescents in the peripheries, in particular abuse and exploitation. The event will feature community leaders and health professionals. The issue will also be addressed from the multispecies perspective of One Health of Peripheries. The event will be held at the Associação de Moradores do Jardim São Remo, Rua Aquinés, 109, on 29/04/2023, between 2 pm and 6 pm. <br>
 </div>
 <figure>
 <img class="fig" src="{{root}}/assets/noticias/composicao-urbana.jpeg" width=200 height=auto >
