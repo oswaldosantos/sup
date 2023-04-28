@@ -23,6 +23,22 @@ original: index
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+04/27/2023
+<br>
+Sarau Composition Urbana is a community cultural initiative that will address the physical and mental health of children and adolescents in the peripheries, in particular abuse and exploitation. The event will feature community leaders and health professionals. The issue will also be addressed from the multispecies perspective of One Health of Peripheries. The event will be held at the Associação de Moradores do Jardim São Remo, Rua Aquinés, 109, on 04/29/2023, between 2 pm and 6 pm. <br>
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/composicao-urbana.jpeg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+
+<br>
+
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
 12/12/2022
 <br>
 A OHP Network project brings a public policy of dog and cat reproductive control to the São Remo favela. The project is framed in a partnership between the Coordination of Health and Protection of Domestic Animals (COSAP) of the Municipal Health Secretariat, the University of São Paulo (USP) campus, and the School of Veterinary Medicine (USP).

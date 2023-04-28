@@ -21,6 +21,22 @@ original: index
 
 <br>
 
+<div class="d-flex flex-lg-nowrap flex-wrap justificar-content-center align-items-center">
+<div>
+27/04/2023
+<br>
+Sarau Composición Urbana es una iniciativa cultural comunitaria que abordará la salud física y mental de los niños y adolescentes de las periferias, en particular el maltrato y la explotación. El evento contará con líderes comunitarios y profesionales de la salud. También se abordará el tema desde la perspectiva multiespecífica de Una Salud de las Periferias. El evento se realizará en la Associação de Moradores do Jardim São Remo, Rua Aquinés, 109, el 29/04/2023, entre las 14 y las 18 horas. <br>
+</div>
+<figura>
+<img class="fig" src="{{root}}/assets/noticias/composicao-urbana.jpeg" width=200 height=auto >
+</figura>
+</div>
+<br>
+<br>
+
+
+<br>
+
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
 12/12/2022

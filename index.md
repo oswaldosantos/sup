@@ -22,6 +22,21 @@ title: Início
 
 <div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
 <div>
+27/04/2023
+<br>
+O sarau Composição Urbana é uma iniciativa comunitária que abordara a saúde física e mental de crianças e adolescentes nas periferias, em especial o abuso e a exploração. O evento contara com lideranças comunitárias e profissionais da saúde. A problemática também será abordada desde a perspectiva da Saúde Única em Periferias. O evento será realizado  na Associação de Moradores do Jardim São Remo, Rua Aquinés, 109, no dia 29/04/2023, entre as 14 e as 18 horas. <br>
+</div>
+<figure>
+<img class="fig" src="{{root}}/assets/noticias/composicao-urbana.jpeg" width=200 height=auto >
+</figure>
+</div>
+<br>
+<br>
+
+
+<br>
+<div class="d-flex flex-lg-nowrap flex-wrap justify-content-center align-items-center">
+<div>
 12/12/2022
 <br>
 Projeto da Rede SUP leva política pública de controle reprodutivo de cães e gatos para a comunidade São Remo. Trata-se de uma parceria entre a Coordenadoria de Saúde e Proteção do Animal Doméstico (COSAP) da Secretaria Municipal da Saúde, a Prefeitura do campus da USP e a Faculdade de Medicina Veterinária e Zootecnia da USP. 
