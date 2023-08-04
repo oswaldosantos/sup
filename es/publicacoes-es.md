@@ -8,6 +8,7 @@ original: publicacoes-pt
 
 * [Una Salud de las Periferias: biopolítica, determinación social e campo de praxis.](#sup01)
 * [De la Salud Planetaria moderna a la promoción decolonial de Una Salud de las Periferias.](#sup02)
+* [Problematizando las alteridades para una compreensión feminista y decolonial da Una Salud de las Periferias.](#sup)
 * [Comunidades y familias multiespécies: aportes a Una Salud de las Periferias.](#comunidades)
 * [Censos multiespécies en favelas vecinas de la Universidad de São Paulo](#censos-usp)
 * [Vivencias de la pandemia en São Remo: un discurso colectivo.](#covid01)
@@ -29,7 +30,7 @@ Frente a la urgencia para resolver innúmeros e severos problemas de salud, preg
 <img src="{{root}}/assets/publicacoes/sup01/su-sup-{{page.lang}}.gif" width=350 height=auto >
 </figure>
 
-[Lea la publicación original)](https://www.frontiersin.org/articles/10.3389/fpubh.2021.617003/full)
+[Lea la publicación en inglés](https://www.frontiersin.org/articles/10.3389/fpubh.2021.617003/full)
 
 Espere en breve la traducción al español.
 
@@ -52,7 +53,7 @@ Salud Planetaria es un concepto que emergió recientemente en el Norte global pa
 <figcaption>Mapa Invertido de América del Sur. Joaquim Torres Garcia.</figcaption>
 </figure>
 
-[Lea a publicación original](https://www.frontiersin.org/articles/10.3389/fpubh.2021.637897/full)
+[Lea la publicación en inglés](https://www.frontiersin.org/articles/10.3389/fpubh.2021.637897/full)
 
 Espere en breve la traducción al español.
 
@@ -61,6 +62,30 @@ Espere en breve la traducción al español.
 <br>
 <br>
 <br>
+
+### <a name="sup03">Problematizando las alteridades para una compreensión feminista y decolonial da Una Salud de las Periferias.<a/>
+
+<br>
+La marginalización se basa en las diferencias para negar el reconocimiento de la pluralidad de las favelas y el derecho a la salud de algunos residentes. Pero la diferencia es también lo que nos permite tejer colectivamente el buen vivir y la salud. Esta investigación moviliza aportes feministas y decoloniales para pensar la diferencia y su papel en Una Salud de las Periferias, entendida como un proyecto de justicia social que, por un lado, rechaza la reproducción de jerarquías coloniales que subyugan ciertas vidas, territorios y saberes, y por otro, se interesa por las formas de promover el florecimiento del cuidado de los Otros y con los Otros. La Red SUP viene trabajando con un grupo de adolescentes, los Jóvenes Agentes de Una Salud de las Periferias (AM-SUP por su acrônimo em portugués), y algunas reflexiones de este trabajo fueron incorporadas en el texto para cuestionar las políticas de purificación y precarización que perjudican la salud de los Otros en las favelas. La investigación fue desarrollada por Yarlenis Ileinis Mestre Malfrán y Oswaldo Santos Baquero.
+<br>
+
+<figure>
+<img src="{{root}}/assets/publicacoes/sup03.jpg" width=350 height=auto >
+<figcaption>Muro de la Universidad de São Paulo que la separa física e simbólicamente de la favela vecina, Jardim São Remo, donde viveal a mayoría de las Jóvenes Agentes de una Salud de las Periferias (AM-SUP). El muro es problematizado en el texto para discutir la figura del margen, de la fronteira.</figcaption>
+
+</figure>
+
+[Lea la publicaión en portugués](https://www.scielo.br/j/sausoc/a/wbwc85kXKhtz8kXx9ZMKVFw/)
+
+[Lea la publicación en inglés](https://www.scielo.br/j/sausoc/a/wbwc85kXKhtz8kXx9ZMKVFw/?lang=en)
+
+[Vuelva al índice](#indice)
+
+<br>
+<br>
+<br>
+
+---
 
 ### <a name="comunidades">Comunidades y familias multiespécies: aportes a Una Salud de las Periferias.</a>
 
@@ -175,7 +200,7 @@ La esporotricosis es una enfermedad causa por hongos, es decir, es una micosis. 
 <figcaption>Los sectores censales (divisiones territoriales) están agrupados por grado de vulnerabilidad (IPVS de 1 a 6). Quanto mayor el IPVS, mayor la vulnerabilidad. La densidad y el total de casos notificados de esporotricosis felina son sistemáticamente mayores en los sectores más vulnerables. Guarulhos, 2011 &#8211; 2017. IPVS: Índice Paulista de Vulnerabilidade Social do Estado de São Paulo.</figcaption>
 </figure>
 
-[Lea la publicación original](https://www.revistas.usp.br/bjvras/article/view/188291)
+[Lea la publicación en inglés](https://www.revistas.usp.br/bjvras/article/view/188291)
 
 Espere en breve la traducción al español.
 
@@ -201,7 +226,7 @@ subdivisiones geográficas no. Adicionalmente, la vulnerabilidad del contexto ge
 <figcaption>Notificaciones de violencia interpersonal y de violencia contra animales en los distritos administrativos de la ciudad de São Paulo, 2011-2012. Los paneles difieren en el grado de vulnerabilidad (IPVS de 1 a 4). Cuanto mayor el IPVS, mayor la vulnerabilidad y la cantidad de notificaciones de ambos tipos. La línea azul y la franja gris muestran la tendencia de la relación positiva entre los tipos de notificación. IPVS: Índice Paulista de Vulnerabilidade Social.</figcaption>
 </figure>
 
-[Lea la publicación](https://www.sciencedirect.com/science/article/abs/pii/S0167587717306529)
+[Lea la publicación en inglés](https://www.sciencedirect.com/science/article/abs/pii/S0167587717306529)
 
 [Vuelva al índice](#indice)
 
@@ -239,7 +264,7 @@ Entre los años 2000 y 2016 hubo 63,302 casos y 6,064 muertes por leptospirosis 
 <figcaption>Proceso causal compatible con la ocurrencia de casos y muertes por leptospirosis humana. Ver en el estudio la explicación detallada.</figcaption>
 </figure>
 
-[Lea la publicación](https://www.nature.com/articles/s41598-018-33381-3)
+[Lea la publicación en inglés](https://www.nature.com/articles/s41598-018-33381-3)
 
 [Vuelva al índice](#indice)
 

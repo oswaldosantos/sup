@@ -8,6 +8,7 @@ redirect_from: /publicacoes-pt
 
 * [Saúde Única em Periferias: biopolítica, determinação social e campo de práxis.](#sup01)
 * [Da Saúde Planetária moderna à promoção decolonial da Saúde Única em Periferias.](#sup02)
+* [Problematizando as alteridades para uma compreensão feminista e decolonial da Saúde Única em Periferias.](#sup03)
 * [Comunidades e famílias multiespécies: aportes à Saúde Única em Periferias.](#comunidades)
 * [Censos multiespécies em favelas vizinhas da Universidade de São Paulo.](#censos-usp)
 * [Vivências da pandemia na São Remo: um discurso coletivo.](#covid01)
@@ -16,7 +17,6 @@ redirect_from: /publicacoes-pt
 * [Dinâmica espaçotemporal e fatores de risco da leptospirose humana no Brasil.](#lepto01)
 
 ---
-
 <br>
 
 ### <a name="sup01">Saúde Única em Periferias: biopolítica, determinação social e campo de práxis.<a/>
@@ -29,7 +29,7 @@ Diante da urgência para resolver inúmeros e severos problemas de saúde, pergu
 <img src="{{root}}/assets/publicacoes/sup01/su-sup-{{page.lang}}.gif" width=350 height=auto >
 </figure>
 
-[Leia a publicação original](https://www.frontiersin.org/articles/10.3389/fpubh.2021.617003/full)
+[Leia a publicação em inglês](https://www.frontiersin.org/articles/10.3389/fpubh.2021.617003/full)
 
 Espere em breve a tradução ao português.
 
@@ -53,9 +53,31 @@ Saúde Planetária é um conceito que emergiu recentemente no Norte global para 
 <figcaption>Mapa Invertido da América do Sul. Joaquim Torres Garcia.</figcaption>
 </figure>
 
-[Leia a publicação original](https://www.frontiersin.org/articles/10.3389/fpubh.2021.637897/full)
+[Leia a publicação em inglês](https://www.frontiersin.org/articles/10.3389/fpubh.2021.637897/full)
 
 Espere em breve a tradução ao português.
+
+[Volte ao índice](#indice)
+
+<br>
+<br>
+<br>
+
+---
+
+### <a name="sup03">Problematizando as alteridades para uma compreensão feminista e decolonial da Saúde Única em Periferias.<a/>
+
+<br>
+A marginalização depende das diferenças para negar o reconhecimento da pluralidade das favelas e o direito à saúde de certos viventes. Mas a diferença também é aquilo que permite tecer coletivamente o bem viver e a saúde. Está pesquisa mobiliza contribuições feministas e decoloniais para pensar a diferença e seu papel na Saúde Única em Periferias, enquanto projeto de justiça social que, por um lado, recusa a reprodução de hierarquias coloniais que subjugam determinadas vidas, territórios e saberes, e por outro, interessa-se por formas de promover o florescimento do cuidado dos Outros e com os Outros. A Rede SUP vem trabalhando com um grupo de adolescentes, as/os Agentes Mirins da Saúde Única em Periferias (AM-SUP), e algumas reflexões a partir desse trabalho são incorporadas no texto para indagar as políticas de purificação e precarização que prejudicam a saúde dos Outros das favelas. A pesquisa foi desenvolvida por Yarlenis Ileinis Mestre Malfrán e Oswaldo Santos Baquero.
+<br>
+
+<figure>
+<img src="{{root}}/assets/publicacoes/sup03.jpg" width=350 height=auto >
+<figcaption>Muro da Universidade de São Paulo que a separa física e simbolicamente da favela vizinha, o Jardim São Remo, onde mora a maioria das Agentes Mirins da Saúde Única em Periferias (AM-SUP). O muro é problematizado no texto para discutir a figura da margem, da fronteira.</figcaption>
+
+</figure>
+
+[Leia a publicação](https://www.scielo.br/j/sausoc/a/wbwc85kXKhtz8kXx9ZMKVFw/)
 
 [Volte ao índice](#indice)
 
@@ -182,7 +204,7 @@ A esporotricose é uma doença causada por fungos, ou seja, é uma micose.  Alé
 <figcaption>Os setores censitários (divisões territoriais) estão agrupados por grau de vulnerabilidade (IPVS de 1 a 6). Quanto maior o IPVS, maior a vulnerabilidade. A densidade e o total de casos notificados de esporotricose felina são sistematicamente maiores nos setores mais vulneráveis. Guarulhos, 2011 &#8211; 2017. IPVS: Índice Paulista de Vulnerabilidade Social do Estado de São Paulo.</figcaption>
 </figure>
 
-[Leia a publicação original](https://www.revistas.usp.br/bjvras/article/view/188291)
+[Leia a publicação em inglês](https://www.revistas.usp.br/bjvras/article/view/188291)
 
 Espere em breve a tradução ao português.
 
@@ -205,7 +227,7 @@ Há múltiplos estudos relacionando a violência entre humanos e a violência de
 <figcaption>Notificações de violência interpessoal e de violéncia contra animais nos distritos administrativos do município de São Paulo, 2011-2012. Os paineis diferem no grau de vulnerabilidade (IPVS de 1 a 4). Quanto maior o IPVS, maior a vulnerabilidade e a quantidade de notificações de ambos tipos. A linha azul e a faixa cinza mostram a tendência da relação positiva entre os tipos de notificação. IPVS: Índice Paulista de Vulnerabilidade Social. </figcaption>
 </figure>
 
-[Leia a publicação](https://www.sciencedirect.com/science/article/abs/pii/S0167587717306529)
+[Leia a publicação em inglês](https://www.sciencedirect.com/science/article/abs/pii/S0167587717306529)
 
 [Volte ao índice](#indice)
 
@@ -242,7 +264,7 @@ Entre os anos 2000 e 2016 houve 63.302 casos e 6.064 óbitos por leptospirose hu
 <figcaption>Processo causal compatível com a ocorrência de casos e óbitos de leptospirose humana. Ver na pesquisa a explicação detalhada.</figcaption>
 </figure>
 
-[Leia a publicação](https://www.nature.com/articles/s41598-018-33381-3)
+[Leia a publicação em inglês](https://www.nature.com/articles/s41598-018-33381-3)
 
 [Volte ao índice](#indice)
 

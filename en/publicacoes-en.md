@@ -8,6 +8,7 @@ original: publicacoes-pt
 
 * [One Health of Peripheries: biopolitics, social determination, and field of praxis.](#sup01)
 * [From modern Planetary  Health to decolonial promotion of One Health of Peripheries.](#sup02)
+* [Problematizing alterities for a feminist and decolonial understanding of One Health of Peripheries](#sup03)
 * [Multispecies communities and families: contributions to One Health of Peripheries](#comunidades)
 * [Multispecies censuses in neighbor favelas of the University of São Paulo](#censos-usp)
 * [Pandemic experiences in São Remo: a collective discourse.](#covid01)
@@ -53,6 +54,29 @@ The concept of Planetary Health has recently emerged in the global North as a co
 [Read the paper](https://www.frontiersin.org/articles/10.3389/fpubh.2021.637897/full)
 
 [Back to index](#indice)
+
+<br>
+<br>
+<br>
+
+---
+
+### <a name="sup03">Problematizing alterities for a feminist and decolonial understanding of One Health of Peripheries.<a/>
+
+<br>
+Marginalization relies on differences to deny the recognition of the plurality of the favelas and the right to health of certain inhabitants. But difference is also what allows us to collectively weave multispecies good living and health. This research mobilizes feminist and decolonial contributions to think about difference and its role in One Health of Peripheries, understood as a project of social justice that, on the one hand, refuses the reproduction of colonial hierarchies that subjugate certain lives, territories and knowledge, and on the other hand, is interested in ways to promote the flourishing of care for Others and with Others. The OHP Network has been working with a group of adolescents, the One Health of Peripheries Young Agents OHP-YA (AM-SUP, for its Portuguese acronym), and some reflections from this work are incorporated in the text to question the policies of purification and precariousness that harm the health of the Others in the favelas. The research was developed by Yarlenis Ileinis Mestre Malfrán and Oswaldo Santos Baquero.
+<br>
+
+<figure>
+<img src="{{root}}/assets/publicacoes/sup03.jpg" width=350 height=auto >
+<figcaption>The wall of the University of São Paulo that physically and symbolically separates it from the neighboring favela, Jardim São Remo, where most of the One Health of Peripheries Young Agents (OHP-YA) live. The wall is problematized in the text to discuss the figure of the margin, the border.</figcaption>
+
+</figure>
+
+[Read the publication](https://www.scielo.br/j/sausoc/a/wbwc85kXKhtz8kXx9ZMKVFw/?lang=en)
+
+[Back to index](#indice)
+
 
 <br>
 <br>
