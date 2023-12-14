@@ -4,4 +4,5 @@ title: Team
 original: equipe-pt
 ---
 
-The content will be available in a couple of weeks!
+The SUP Network became the MUHE Network (Multispecies Health Network). [Click here to see the new page](http://redesame.fmvz.usp.br)
+
